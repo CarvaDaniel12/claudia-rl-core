@@ -1,0 +1,95 @@
+name: MCP Index Refresh
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'contracts/**'
+      - 'docs/**'
+  
+  workflow_dispatch:
+    inputs:
+      full_rebuild:
+        description: 'Full rebuild (vs delta update)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  refresh-index:
+    runs-on: windows-latest
+    timeout-minutes: 15
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install MCP dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install fastmcp jsonschema requests
+      
+      - name: Setup Ollama
+        run: |
+          # Download and install Ollama (if not in runner)
+          # For self-hosted runner, Ollama should be pre-installed
+          ollama --version || echo "Ollama not found - using fallback embeddings"
+      
+      - name: Pull embedding model
+        run: |
+          ollama pull nomic-embed-text || echo "Using fallback"
+        continue-on-error: true
+      
+      - name: Delta Index Update
+        if: ${{ !inputs.full_rebuild }}
+        run: |
+          python tools/mcp_cli.py index_update --target "C:\Users\User\Desktop\Spark QA tool face" --silent
+        continue-on-error: true
+      
+      - name: Full Index Rebuild
+        if: ${{ inputs.full_rebuild }}
+        run: |
+          python tools/mcp_cli.py index_build --target "C:\Users\User\Desktop\Spark QA tool face" --reset=True
+        continue-on-error: true
+      
+      - name: Validate Index
+        run: |
+          python tools/mcp_cli.py index_stats --target "C:\Users\User\Desktop\Spark QA tool face"
+      
+      - name: Regenerate Context Packs
+        run: |
+          python scripts/regenerate_context_packs.py
+      
+      - name: Validate Packs
+        run: |
+          python scripts/validate_packs.py
+      
+      - name: Commit Updated Packs
+        run: |
+          git config user.name "MCP Bot"
+          git config user.email "mcp@claudia.local"
+          git add contracts/context_packs/*.json
+          git diff --staged --quiet || git commit -m "chore: refresh context packs [skip ci]"
+          git push || echo "No changes to push"
+        continue-on-error: true
+      
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "::error::MCP index refresh failed. Check logs."
+
+env:
+  OLLAMA_HOST: http://localhost:11434
+  OLLAMA_NUM_PARALLEL: 1
+  OLLAMA_EMBEDDING_MODEL: nomic-embed-text
+
+

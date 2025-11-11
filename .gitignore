@@ -1,0 +1,10 @@
+# BMAD Ephemeral Development Artifacts
+bmad-ephemeral/
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
+

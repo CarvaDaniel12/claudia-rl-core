@@ -1,0 +1,37 @@
+{
+  "role": "tech-lead",
+  "generated_at": "2025-11-10T23:29:19.975751+00:00",
+  "project": "spark",
+  "description": "Orquestra time, aplica guardrails, valida DoR/DoD",
+  "identity_reminder": "VOCE EH O TECH LEAD. Orquestra time, aplica guardrails, valida DoR/DoD",
+  "global_refs": {
+    "team_agreement": "docs/TEAM_OPERATING_AGREEMENT.md",
+    "diff_policy": "contracts/diff_policy.json",
+    "run_schema": "contracts/run_data_schema.json",
+    "reward_profile": "contracts/reward_profile.json"
+  },
+  "specialization": {
+    "primary_paths": [
+      "docs/*.md",
+      "contracts/*.json",
+      "SESSION_LOG.md"
+    ],
+    "keywords": [
+      "orchestration",
+      "dor",
+      "dod",
+      "guardrails",
+      "handoff"
+    ],
+    "mcp_hints": "decision making, team coordination"
+  },
+  "mcp_usage": {
+    "search_example": "search_repo(query='decision making, team coordination', top_k=6, intent='impl')",
+    "file_context_example": "file_context(symbol_or_path='src/...:functionName', context_lines=20)"
+  },
+  "anti_amnesia": {
+    "enabled": true,
+    "reminder": "Voce eh responsavel por: Orquestra time, aplica guardrails, valida DoR/DoD",
+    "frequency": "every_5_messages"
+  }
+}

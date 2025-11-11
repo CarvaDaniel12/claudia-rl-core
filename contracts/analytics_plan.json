@@ -1,0 +1,99 @@
+{
+  "module": "analytics",
+  "version": "1.0",
+  "created_at": "2025-11-10T18:20:00Z",
+  "author": "Dev",
+  "based_on": [
+    "docs/analytics_spec.md",
+    "docs/analytics_tech_spec.md"
+  ],
+  "implementation_plan": {
+    "phase1_schemas": {
+      "files": [
+        "contracts/run_data_schema.json",
+        "contracts/alert_config.json"
+      ],
+      "status": "completed",
+      "estimated_lines": 150
+    },
+    "phase2_storage": {
+      "files": [
+        "rl_atomic/evolution.json"
+      ],
+      "status": "pending",
+      "estimated_lines": 10,
+      "description": "Criar estrutura inicial de evolution.json"
+    },
+    "phase3_scripts": {
+      "files": [
+        "scripts/aggregate_metrics.py",
+        "scripts/generate_snapshot.py",
+        "scripts/detect_alerts.py"
+      ],
+      "status": "pending",
+      "estimated_lines": 450,
+      "breakdown": {
+        "aggregate_metrics.py": 180,
+        "generate_snapshot.py": 150,
+        "detect_alerts.py": 120
+      }
+    },
+    "phase4_integration": {
+      "files": [
+        "docs/analytics_impl.md"
+      ],
+      "status": "pending",
+      "estimated_lines": 300,
+      "description": "Documentacao de uso e integracao"
+    }
+  },
+  "dependencies": {
+    "python_libs": [
+      "json",
+      "jsonschema",
+      "pathlib",
+      "statistics",
+      "datetime"
+    ],
+    "external_scripts": [
+      "scripts/append_event.py"
+    ],
+    "schemas": [
+      "contracts/run_data_schema.json",
+      "contracts/alert_config.json"
+    ]
+  },
+  "testing_strategy": {
+    "unit_tests": [
+      "Schema validation (run_data_schema.json)",
+      "Aggregate append (evolution.json)",
+      "Snapshot generation (metrics_snapshot.md)",
+      "Alert detection (thresholds)"
+    ],
+    "integration_tests": [
+      "End-to-end: run_data.json -> evolution.json -> snapshot -> event",
+      "Concurrency: multiple appends with lockfile",
+      "Error handling: invalid schema, missing files, disk full"
+    ],
+    "mock_data": [
+      "payloads/run_success.json",
+      "payloads/run_with_alert.json"
+    ]
+  },
+  "guardrails_compliance": {
+    "allowed_writes": [
+      "rl_atomic/evolution.json",
+      "reports/metrics_snapshot.md",
+      "reports/alerts.md",
+      "contracts/analytics_schema.json"
+    ],
+    "diff_limits": {
+      "contracts/*.json": 400,
+      "scripts/*.py": 200,
+      "docs/*.md": 1200,
+      "reports/*.md": 800
+    },
+    "no_emojis_in_code": true
+  }
+}
+

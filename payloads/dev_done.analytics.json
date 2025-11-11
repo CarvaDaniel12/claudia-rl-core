@@ -1,0 +1,8 @@
+{
+  "module": "analytics",
+  "artifacts": [
+    "contracts/analytics_plan.json",
+    "docs/analytics_impl.md"
+  ]
+}
+

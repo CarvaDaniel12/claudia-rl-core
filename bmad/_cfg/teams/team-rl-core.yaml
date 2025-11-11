@@ -1,0 +1,77 @@
+name: team-rl-core
+description: "Time especializado em RL Atômico: exploração, recompensa, cobertura e qualidade"
+concurrency: 8
+
+roles:
+  - name: Tech-Lead
+    agent: tech-lead
+    responsibilities: 
+      - Orquestração e guardrails
+      - Validação DoR/DoD
+      - Decisões de handoff
+    
+  - name: Analyst/PM
+    agent: analyst_pm
+    responsibilities:
+      - PRD e Quick Spec
+      - Critérios de aceitação
+      - Story mapping
+    
+  - name: Architect
+    agent: architect
+    responsibilities:
+      - Tech-spec e interfaces
+      - Arquitetura de testes
+      - Pontos de integração
+    
+  - name: Dev
+    agent: dev
+    responsibilities:
+      - Implementação (docs/contracts)
+      - Artefatos testáveis
+      - Documentação técnica
+    
+  - name: QA/TEA
+    agent: qa_tea
+    responsibilities:
+      - Test Architecture
+      - Asserts semânticos
+      - Relatórios de qualidade
+    
+  - name: Data-Specialist
+    agent: data_specialist
+    responsibilities:
+      - Métricas e observabilidade
+      - Evolução temporal
+      - Alertas e thresholds
+    
+  - name: Reward-Tuner
+    agent: reward_tuner
+    responsibilities:
+      - Calibração A→D
+      - Ablação experimental
+      - Otimização de recompensas
+    
+  - name: Coverage-Mapper
+    agent: coverage_mapper
+    responsibilities:
+      - Mapa de cobertura
+      - Gap analysis
+      - Priorização de exploração
+
+event_bus:
+  enabled: true
+  log_path: contracts/events.jsonl
+  schema_path: contracts/events.schema.json
+
+guardrails:
+  allowed_writes:
+    - "docs/*.md"
+    - "contracts/*.json"
+    - "reports/*.md"
+    - "AGENT_CONTEXT.json"
+    - "SESSION_LOG.md"
+  max_diff_lines: 200
+  enforce_dor: true
+  enforce_dod: true
+

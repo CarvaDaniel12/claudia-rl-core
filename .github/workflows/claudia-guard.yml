@@ -1,0 +1,39 @@
+name: claudia-guard
+
+on:
+  pull_request:
+    branches: [ main, master ]
+  push:
+    branches: [ main, master ]
+
+jobs:
+  diff-guard:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Run diff guard
+        run: |
+          python scripts/diff_guard.py --base origin/main --policy contracts/diff_policy.json
+      
+      - name: Comment on PR (if violation)
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'Diff guard FAILED. Check limits in contracts/diff_policy.json'
+            })
+

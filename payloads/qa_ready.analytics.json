@@ -1,0 +1,7 @@
+{
+  "module": "analytics",
+  "pass_rate": 0.85,
+  "blockers": [],
+  "report": "reports/analytics_qa.md"
+}
+

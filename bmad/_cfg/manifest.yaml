@@ -1,0 +1,76 @@
+installation:
+  version: 6.0.0-alpha.8
+  installDate: '2025-11-10T19:38:59.882Z'
+  lastUpdated: '2025-11-10T19:38:59.882Z'
+modules:
+  - core
+  - bmm
+ides: []
+
+# Custom Teams for RL Atomic Project
+teams:
+  - name: team-rl-core
+    description: "Time especializado em RL Atômico"
+    file: bmad/_cfg/teams/team-rl-core.yaml
+    roles: 8
+    concurrency: 8
+
+# Custom Agents (8 roles)
+custom_agents:
+  - name: tech-lead
+    role: Tech-Lead
+    priority: 1
+    config: bmad/_cfg/agents/tech-lead.customize.yaml
+  
+  - name: analyst_pm
+    role: Analyst/PM
+    priority: 2
+    config: bmad/_cfg/agents/analyst_pm.customize.yaml
+  
+  - name: architect
+    role: Architect
+    priority: 2
+    config: bmad/_cfg/agents/architect.customize.yaml
+  
+  - name: dev
+    role: Dev
+    priority: 3
+    config: bmad/_cfg/agents/dev.customize.yaml
+  
+  - name: qa_tea
+    role: QA/TEA
+    priority: 3
+    config: bmad/_cfg/agents/qa_tea.customize.yaml
+  
+  - name: data_specialist
+    role: Data-Specialist
+    priority: 4
+    config: bmad/_cfg/agents/data_specialist.customize.yaml
+  
+  - name: reward_tuner
+    role: Reward-Tuner
+    priority: 4
+    config: bmad/_cfg/agents/reward_tuner.customize.yaml
+  
+  - name: coverage_mapper
+    role: Coverage-Mapper
+    priority: 4
+    config: bmad/_cfg/agents/coverage_mapper.customize.yaml
+
+# Event Bus Configuration
+event_bus:
+  enabled: true
+  schema: contracts/events.schema.json
+  log: contracts/events.jsonl
+  
+# Guardrails
+guardrails:
+  allowed_writes:
+    - "docs/*.md"
+    - "contracts/*.json"
+    - "reports/*.md"
+    - "AGENT_CONTEXT.json"
+    - "SESSION_LOG.md"
+  max_diff_lines: 200
+  enforce_dor: true
+  enforce_dod: true

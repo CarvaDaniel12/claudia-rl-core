@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Run Data Schema",
+  "description": "Schema para dados de entrada de um run de exploracao RL Atomica",
+  "type": "object",
+  "required": [
+    "run_id",
+    "timestamp",
+    "assertions_pass_rate",
+    "selector_success_rate",
+    "reward",
+    "duration_s",
+    "coverage"
+  ],
+  "properties": {
+    "run_id": {
+      "type": "string",
+      "pattern": "^run_\\d{3,}$",
+      "description": "Identificador unico do run (formato: run_001, run_042, etc.)"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp ISO 8601 do run"
+    },
+    "assertions_pass_rate": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Taxa de assertions passando (0.0 a 1.0)"
+    },
+    "selector_success_rate": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Taxa de selectors encontrados com sucesso (0.0 a 1.0)"
+    },
+    "reward": {
+      "type": "number",
+      "minimum": -1.0,
+      "maximum": 1.0,
+      "description": "Recompensa A->D calculada (-1.0 a 1.0)"
+    },
+    "duration_s": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Duracao do run em segundos"
+    },
+    "coverage": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Cobertura de rotas/estados visitados (0.0 a 1.0)"
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Metadados opcionais do run",
+      "properties": {
+        "module": {
+          "type": "string",
+          "description": "Modulo testado (analytics, fees_taxes, integrations)"
+        },
+        "environment": {
+          "type": "string",
+          "enum": ["local", "ci", "staging", "production"]
+        },
+        "playwright_version": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "run_id": "run_001",
+      "timestamp": "2025-11-10T18:00:00Z",
+      "assertions_pass_rate": 0.92,
+      "selector_success_rate": 0.95,
+      "reward": 0.78,
+      "duration_s": 85,
+      "coverage": 0.65,
+      "metadata": {
+        "module": "analytics",
+        "environment": "local"
+      }
+    }
+  ]
+}
+

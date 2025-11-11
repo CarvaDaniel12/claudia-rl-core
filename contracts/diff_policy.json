@@ -1,0 +1,51 @@
+{
+  "mode": "per_pr",
+  "description": "Diff caps por tipo de arquivo para Time RL Core",
+  "caps": [
+    {
+      "glob": "docs/**/*.md",
+      "max_lines": 1200,
+      "reason": "Documentação técnica pode ser extensa (specs, tech-specs)"
+    },
+    {
+      "glob": "reports/**/*.md",
+      "max_lines": 800,
+      "reason": "Relatórios de QA, métricas, cobertura"
+    },
+    {
+      "glob": "contracts/**/*.json",
+      "max_lines": 400,
+      "reason": "Schemas e configurações JSON"
+    },
+    {
+      "glob": "SESSION_LOG.md",
+      "max_lines": 400,
+      "reason": "Log de eventos do time"
+    },
+    {
+      "glob": "AGENT_CONTEXT.json",
+      "max_lines": 200,
+      "reason": "Contexto compartilhado (deve ser conciso)"
+    },
+    {
+      "glob": "scripts/**/*.py",
+      "max_lines": 200,
+      "reason": "Scripts Python (código executável)"
+    },
+    {
+      "glob": ".github/**/*.yml",
+      "max_lines": 200,
+      "reason": "GitHub Actions workflows"
+    },
+    {
+      "glob": "bmad/_cfg/**/*.yaml",
+      "max_lines": 200,
+      "reason": "Customizações de agentes BMAD"
+    }
+  ],
+  "fallback": {
+    "max_lines": 200,
+    "reason": "Padrão seguro para arquivos não mapeados"
+  }
+}
+

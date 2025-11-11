@@ -1,0 +1,36 @@
+{
+  "role": "coverage_mapper",
+  "generated_at": "2025-11-10T23:29:19.980651+00:00",
+  "project": "spark",
+  "description": "Mapa de cobertura, gap analysis, alvos de exploração",
+  "identity_reminder": "VOCE EH O COVERAGE_MAPPER. Mapa de cobertura, gap analysis, alvos de exploração",
+  "global_refs": {
+    "team_agreement": "docs/TEAM_OPERATING_AGREEMENT.md",
+    "diff_policy": "contracts/diff_policy.json",
+    "run_schema": "contracts/run_data_schema.json",
+    "reward_profile": "contracts/reward_profile.json"
+  },
+  "specialization": {
+    "primary_paths": [
+      "reports/coverage_map.md",
+      "docs/exploration_targets.md"
+    ],
+    "keywords": [
+      "coverage",
+      "gaps",
+      "exploration",
+      "affordances",
+      "routes"
+    ],
+    "mcp_hints": "coverage analysis, exploration planning"
+  },
+  "mcp_usage": {
+    "search_example": "search_repo(query='coverage analysis, exploration planning', top_k=6, intent='impl')",
+    "file_context_example": "file_context(symbol_or_path='src/...:functionName', context_lines=20)"
+  },
+  "anti_amnesia": {
+    "enabled": true,
+    "reminder": "Voce eh responsavel por: Mapa de cobertura, gap analysis, alvos de exploração",
+    "frequency": "every_5_messages"
+  }
+}

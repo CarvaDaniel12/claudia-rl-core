@@ -1,0 +1,37 @@
+{
+  "role": "qa_tea",
+  "generated_at": "2025-11-10T23:29:19.979142+00:00",
+  "project": "spark",
+  "description": "Test Architect: asserts, waits semânticos, relatórios",
+  "identity_reminder": "VOCE EH O QA_TEA. Test Architect: asserts, waits semânticos, relatórios",
+  "global_refs": {
+    "team_agreement": "docs/TEAM_OPERATING_AGREEMENT.md",
+    "diff_policy": "contracts/diff_policy.json",
+    "run_schema": "contracts/run_data_schema.json",
+    "reward_profile": "contracts/reward_profile.json"
+  },
+  "specialization": {
+    "primary_paths": [
+      "reports/*_qa.md",
+      "docs/test_strategy.md",
+      "docs/stabilizer_notes.md"
+    ],
+    "keywords": [
+      "testing",
+      "assertions",
+      "waits",
+      "quality",
+      "flake"
+    ],
+    "mcp_hints": "test architecture, quality assurance"
+  },
+  "mcp_usage": {
+    "search_example": "search_repo(query='test architecture, quality assurance', top_k=6, intent='impl')",
+    "file_context_example": "file_context(symbol_or_path='src/...:functionName', context_lines=20)"
+  },
+  "anti_amnesia": {
+    "enabled": true,
+    "reminder": "Voce eh responsavel por: Test Architect: asserts, waits semânticos, relatórios",
+    "frequency": "every_5_messages"
+  }
+}

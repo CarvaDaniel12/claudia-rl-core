@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "BMAD Team Events Schema",
+  "description": "Schema para eventos do time RL Core (JSON Lines)",
+  "type": "object",
+  "required": ["type", "timestamp", "actor"],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": [
+        "SPEC_READY",
+        "DEV_DONE",
+        "QA_REPORT_READY",
+        "METRICS_UPDATED",
+        "REWARD_ADJUSTED",
+        "COVERAGE_UPDATED",
+        "BLOCKER_RAISED",
+        "DOR_VALIDATED",
+        "DOD_VALIDATED"
+      ],
+      "description": "Tipo do evento"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp"
+    },
+    "actor": {
+      "type": "string",
+      "enum": [
+        "Tech-Lead",
+        "Analyst/PM",
+        "Architect",
+        "Dev",
+        "QA/TEA",
+        "Data-Specialist",
+        "Reward-Tuner",
+        "Coverage-Mapper"
+      ],
+      "description": "Papel que gerou o evento"
+    },
+    "payload": {
+      "type": "object",
+      "description": "Dados específicos do evento (estrutura varia por tipo)"
+    }
+  },
+  "examples": [
+    {
+      "type": "SPEC_READY",
+      "timestamp": "2025-11-10T10:00:00Z",
+      "actor": "Analyst/PM",
+      "payload": {
+        "module": "analytics",
+        "spec_path": "docs/analytics_spec.md"
+      }
+    },
+    {
+      "type": "DEV_DONE",
+      "timestamp": "2025-11-10T12:00:00Z",
+      "actor": "Dev",
+      "payload": {
+        "module": "analytics",
+        "artifacts": ["contracts/analytics_plan.json", "docs/analytics_impl.md"]
+      }
+    },
+    {
+      "type": "QA_REPORT_READY",
+      "timestamp": "2025-11-10T14:00:00Z",
+      "actor": "QA/TEA",
+      "payload": {
+        "module": "analytics",
+        "pass_rate": 0.85,
+        "blockers": ["selector-timeout-login"],
+        "report": "reports/analytics_qa.md"
+      }
+    },
+    {
+      "type": "METRICS_UPDATED",
+      "timestamp": "2025-11-10T15:00:00Z",
+      "actor": "Data-Specialist",
+      "payload": {
+        "run_id": "run_042",
+        "reward": 0.72,
+        "pass_rate": 0.85,
+        "duration_s": 120
+      }
+    }
+  ]
+}
+

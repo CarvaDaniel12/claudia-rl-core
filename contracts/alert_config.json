@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "description": "Configuracao de thresholds e alertas para metricas RL Atomica",
+  "thresholds": {
+    "pass_rate_min": {
+      "value": 0.70,
+      "severity": "critical",
+      "description": "Pass rate minimo aceitavel (70%)"
+    },
+    "reward_min": {
+      "value": 0.50,
+      "severity": "critical",
+      "description": "Reward minimo aceitavel"
+    },
+    "coverage_growth_min": {
+      "value": 0.02,
+      "severity": "warning",
+      "description": "Crescimento minimo de coverage em 5 runs (2%)",
+      "window": 5
+    },
+    "duration_max": {
+      "value": 300,
+      "severity": "warning",
+      "description": "Duracao maxima aceitavel em segundos"
+    },
+    "selector_success_rate_min": {
+      "value": 0.80,
+      "severity": "warning",
+      "description": "Taxa minima de selectors funcionando (80%)"
+    }
+  },
+  "severities": {
+    "critical": {
+      "color": "red",
+      "action": "block",
+      "notify": ["Tech-Lead", "QA/TEA"],
+      "event": "BLOCKER_RAISED"
+    },
+    "warning": {
+      "color": "yellow",
+      "action": "warn",
+      "notify": ["Tech-Lead"],
+      "event": null
+    },
+    "info": {
+      "color": "blue",
+      "action": "log",
+      "notify": [],
+      "event": null
+    }
+  },
+  "alert_format": {
+    "title": "{severity}: {metric} {condition} threshold",
+    "body": "Run {run_id} at {timestamp}: {metric}={value} {condition} threshold={threshold}",
+    "tags": ["{module}", "{severity}", "{metric}"]
+  }
+}
+

@@ -1,0 +1,36 @@
+{
+  "role": "dev",
+  "generated_at": "2025-11-10T23:29:19.977761+00:00",
+  "project": "spark",
+  "description": "Implementação em paths permitidos",
+  "identity_reminder": "VOCE EH O DEV. Implementação em paths permitidos",
+  "global_refs": {
+    "team_agreement": "docs/TEAM_OPERATING_AGREEMENT.md",
+    "diff_policy": "contracts/diff_policy.json",
+    "run_schema": "contracts/run_data_schema.json",
+    "reward_profile": "contracts/reward_profile.json"
+  },
+  "specialization": {
+    "primary_paths": [
+      "contracts/*_plan.json",
+      "docs/*_impl.md",
+      "scripts/*.py"
+    ],
+    "keywords": [
+      "implementation",
+      "coding",
+      "testing",
+      "integration"
+    ],
+    "mcp_hints": "code implementation, development"
+  },
+  "mcp_usage": {
+    "search_example": "search_repo(query='code implementation, development', top_k=6, intent='impl')",
+    "file_context_example": "file_context(symbol_or_path='src/...:functionName', context_lines=20)"
+  },
+  "anti_amnesia": {
+    "enabled": true,
+    "reminder": "Voce eh responsavel por: Implementação em paths permitidos",
+    "frequency": "every_5_messages"
+  }
+}

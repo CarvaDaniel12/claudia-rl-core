@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Reward Profile A→D - RL Atomic",
+  "description": "Parâmetros de recompensa para exploração atômica",
+  "version": "1.0.0",
+  "parameters": {
+    "α": {
+      "name": "assertion_weight",
+      "value": 0.4,
+      "description": "Peso de assertions passando (sucesso em testes)",
+      "range": [0.0, 1.0]
+    },
+    "β": {
+      "name": "novelty_weight",
+      "value": 0.3,
+      "description": "Peso de novidade (novas rotas/estados descobertos)",
+      "range": [0.0, 1.0]
+    },
+    "γ": {
+      "name": "progress_weight",
+      "value": 0.2,
+      "description": "Peso de progresso (avanço em objetivos de alto nível)",
+      "range": [0.0, 1.0]
+    },
+    "δ": {
+      "name": "efficiency_weight",
+      "value": 0.1,
+      "description": "Peso de eficiência (tempo/passos para atingir objetivo)",
+      "range": [0.0, 1.0]
+    },
+    "ε": {
+      "name": "epsilon",
+      "value": 0.15,
+      "description": "Taxa de exploração (epsilon-greedy)",
+      "range": [0.0, 1.0]
+    },
+    "K": {
+      "name": "novelty_decay",
+      "value": 0.95,
+      "description": "Fator de decaimento de novidade (evita loops)",
+      "range": [0.0, 1.0]
+    },
+    "p": {
+      "name": "penalty_rate",
+      "value": -0.5,
+      "description": "Taxa de penalidade em erros (selector failure, timeout, etc.)",
+      "range": [-1.0, 0.0]
+    }
+  },
+  "caps": {
+    "max_reward": 1.0,
+    "min_reward": -1.0
+  },
+  "formula": "R = α*A + β*N + γ*P + δ*E + p*F",
+  "where": {
+    "R": "Reward total",
+    "A": "Assertions passando (0-1)",
+    "N": "Novelty score (0-1, com decay K)",
+    "P": "Progress score (0-1)",
+    "E": "Efficiency score (0-1, inverso de tempo normalizado)",
+    "F": "Failure count (penalidade)"
+  },
+  "changelog": [
+    {
+      "date": "2025-11-10",
+      "actor": "Reward-Tuner",
+      "changes": "Configuração inicial (baseline)",
+      "reason": "Setup do time RL Core"
+    }
+  ]
+}
+

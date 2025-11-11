@@ -1,0 +1,23 @@
+{
+  "project": "RL Atomic - claudia",
+  "team": "team-rl-core",
+  "current_phase": "initialization",
+  "modules": [
+    "analytics",
+    "fees_taxes",
+    "integrations"
+  ],
+  "active_stories": [],
+  "last_event": null,
+  "guardrails": {
+    "allowed_writes": [
+      "docs/*.md",
+      "contracts/*.json",
+      "reports/*.md",
+      "AGENT_CONTEXT.json",
+      "SESSION_LOG.md"
+    ],
+    "max_diff_lines": 200
+  }
+}
+
