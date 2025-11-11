@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-10 07:44:57",
+  "url": "https://platform.test.hostfully.com/app/#/analytics",
+  "metrics_visible": [
+    {
+      "testid": "analytics-list-rentalRevenue",
+      "count": 1,
+      "visible": true
+    },
+    {
+      "testid": "analytics-list-occupancyRate",
+      "count": 1,
+      "visible": true
+    },
+    {
+      "testid": "analytics-list-nightsBooked",
+      "count": 1,
+      "visible": true
+    },
+    {
+      "testid": "analytics-list-avgDailyRate",
+      "count": 1,
+      "visible": true
+    },
+    {
+      "testid": "analytics-list-revPar",
+      "count": 1,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "timestamp": "2025-11-10 00:28:04",
+  "tab_name": "Pricing",
+  "url": "https://platform.test.hostfully.com/app/#/property/b37f48a1-4d48-4603-8801-3aee18610968/pricing",
+  "elements": {
+    "inputs": [
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.baseDailyRate",
+        "id": "priceSettings.baseDailyRate",
+        "name": "priceSettings.baseDailyRate",
+        "placeholder": null,
+        "input_type": "number",
+        "value": "0"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.weekEndRatePercentAdjustment",
+        "id": "priceSettings.weekEndRatePercentAdjustment",
+        "name": "priceSettings.weekEndRatePercentAdjustment",
+        "placeholder": null,
+        "input_type": "number",
+        "value": "0"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.useMinimumPriceRule",
+        "id": "priceSettings.useMinimumPriceRule-false",
+        "name": "priceSettings.useMinimumPriceRule",
+        "placeholder": null,
+        "input_type": "radio",
+        "value": "false"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.useMinimumPriceRule",
+        "id": "priceSettings.useMinimumPriceRule-true",
+        "name": "priceSettings.useMinimumPriceRule",
+        "placeholder": null,
+        "input_type": "radio",
+        "value": "true"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.taxRate",
+        "id": "priceSettings.taxRate",
+        "name": "priceSettings.taxRate",
+        "placeholder": null,
+        "input_type": "number",
+        "value": "0"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.isTaxLongTermStayExemption",
+        "id": "priceSettings.isTaxLongTermStayExemption",
+        "name": null,
+        "placeholder": null,
+        "input_type": "checkbox",
+        "value": "on"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.securityDepositAmount",
+        "id": "priceSettings.securityDepositAmount",
+        "name": "priceSettings.securityDepositAmount",
+        "placeholder": null,
+        "input_type": "number",
+        "value": "0"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.cleaningFee",
+        "id": "priceSettings.cleaningFee",
+        "name": "priceSettings.cleaningFee",
+        "placeholder": null,
+        "input_type": "number",
+        "value": "0"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceSettings.cleaningFeeTax",
+        "id": "priceSettings.cleaningFeeTax",
+        "name": "priceSettings.cleaningFeeTax",
+        "placeholder": null,
+        "input_type": "number",
+        "value": "0"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "override-airbnb-switch",
+        "id": "overrideAirbnbSwitch",
+        "name": null,
+        "placeholder": null,
+        "input_type": "checkbox",
+        "value": "on"
+      }
+    ],
+    "buttons": [
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "guidebook-link",
+        "text": null,
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": null,
+        "text": null,
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": null,
+        "text": null,
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "bulk-save-button",
+        "text": "Salvar em massa",
+        "disabled": true
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "save-button",
+        "text": "Salvar configurações de preço",
+        "disabled": true
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "price-rules-header-button",
+        "text": "Adicionar regra",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "sort-button",
+        "text": null,
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "sort-button",
+        "text": null,
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-edit-pricing-rule-button",
+        "text": "Editar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-delete-pricing-rule-button",
+        "text": "Deletar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-edit-pricing-rule-button",
+        "text": "Editar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-delete-pricing-rule-button",
+        "text": "Deletar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-edit-pricing-rule-button",
+        "text": "Editar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-delete-pricing-rule-button",
+        "text": "Deletar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-edit-pricing-rule-button",
+        "text": "Editar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-delete-pricing-rule-button",
+        "text": "Deletar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-edit-pricing-rule-button",
+        "text": "Editar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "row-delete-pricing-rule-button",
+        "text": "Deletar",
+        "disabled": false
+      }
+    ],
+    "selects": [
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "selectedPropertyUid",
+        "name": "selectedPropertyUid",
+        "options": [
+          {
+            "value": "b37f48a1-4d48-4603-8801-3aee18610968",
+            "text": "1-timezone(early)"
+          },
+          {
+            "value": "fbf001ff-fa73-458b-a142-653545d4b175",
+            "text": "1-timezone(early) (Copy)"
+          },
+          {
+            "value": "0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+            "text": "12-timezoneTestBR->Flo"
+          },
+          {
+            "value": "5674e956-b522-4ef9-9f16-494e3fda04ec",
+            "text": "3-timezone"
+          },
+          {
+            "value": "6a4c28e7-3021-4c3f-bb90-058f987da358",
+            "text": "4-timezone florida"
+          },
+          {
+            "value": "4c46a789-c890-4950-91c2-2dad6d84bc86",
+            "text": "5-timezone germany"
+          },
+          {
+            "value": "07e3a40d-2b13-4efd-ba01-fa57f38cc89c",
+            "text": "6-timezone flor"
+          },
+          {
+            "value": "ba54f2db-fec7-4ca6-88c4-3700b07616cd",
+            "text": "AirbnbPhotoMapping1"
+          },
+          {
+            "value": "faf30776-12d1-4e2b-9026-c44a0d07b595",
+            "text": "AirbnbPhotoMapping12345534"
+          },
+          {
+            "value": "dfb77a5f-32ab-413b-bbb5-fb842526c4d3",
+            "text": "Apt #2 - Active"
+          },
+          {
+            "value": "3a729185-10e5-4f63-b32e-b30a439e32e2",
+            "text": "Apt #3 - Active"
+          },
+          {
+            "value": "ffd6d278-2199-4c8e-bbd4-6f16b40c8dc1",
+            "text": "Apt #4 - Active"
+          },
+          {
+            "value": "8a8a3dc3-fbff-447e-914a-6275905e1a4b",
+            "text": "Apt #5 - Active"
+          },
+          {
+            "value": "ccd68020-286d-4218-b1e7-a4b479bfe7ee",
+            "text": "Apt #6 - Inactive"
+          },
+          {
+            "value": "38f5ff2b-ed75-4cbf-a662-af17bcb9f109",
+            "text": "Apt #7 - Inactive (edge case)"
+          },
+          {
+            "value": "0a74332d-dcba-49ee-825e-c35d434d63b2",
+            "text": "floridatimezoneTest1H"
+          },
+          {
+            "value": "cc92aa49-1411-4f24-8e33-97ee97593c39",
+            "text": "instHousePricingtest"
+          },
+          {
+            "value": "3e811ac3-992d-4d7f-94fc-68a972db0885",
+            "text": "instHousePricingtest (Copy)"
+          },
+          {
+            "value": "617d869a-ed7e-4567-8aa6-3f247e6542ef",
+            "text": "instHousePricingtest (Copy)"
+          },
+          {
+            "value": "b8c7a1b1-1aa3-45cb-aaf9-5b717df55119",
+            "text": "instHousePricingtest (Copy)"
+          },
+          {
+            "value": "e6ed7db6-82fd-4dd0-9548-9bd458f4e835",
+            "text": "Luxury Condo Clairtown 1762029554315"
+          },
+          {
+            "value": "f20af284-2526-40ac-b4b0-a1fe3297e317",
+            "text": "Modern Apartment WestKennedy 1762029582036"
+          },
+          {
+            "value": "000db2a2-ea33-4ac7-a05e-d8473bed2d79",
+            "text": "Modern Suite Luisfurt 1761956622013"
+          },
+          {
+            "value": "1d8a3958-59e0-44cd-86ec-4fc1a875dcad",
+            "text": "multiunit"
+          },
+          {
+            "value": "21c38a12-961c-4343-96d1-3c865c38f84b",
+            "text": "  tipodeunidade de multunit"
+          },
+          {
+            "value": "bb4f4b8a-f235-44d7-979d-e59c402af34e",
+            "text": "multiunitSanity"
+          },
+          {
+            "value": "e53ec9a1-68aa-4ad3-9c07-938eed3184af",
+            "text": "  SubUnitySanity"
+          },
+          {
+            "value": "9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+            "text": "MUnitFE290425"
+          },
+          {
+            "value": "50249f4e-9863-4987-a6cf-01552d5d1453",
+            "text": "  Economic"
+          },
+          {
+            "value": "30893d36-d696-4be9-b78e-38332508f887",
+            "text": "  masterRoom"
+          },
+          {
+            "value": "d50a5971-9e52-47ec-99bd-d797866d9a7f",
+            "text": "nomedapropriedade"
+          },
+          {
+            "value": "6bf72b7e-62a0-4d64-9f45-c69e1f0dccb6",
+            "text": "Peaceful Condo Feeneyton 1761959951304"
+          },
+          {
+            "value": "fe2f3030-38a1-45a4-ad2b-e29473b7898a",
+            "text": "Peaceful Cottage Euless 1761959062171"
+          },
+          {
+            "value": "36d3dd07-1acc-4497-b677-03184379cd9a",
+            "text": "Peaceful Studio WestGeorgiana 1761958068579"
+          },
+          {
+            "value": "b7fb7ab4-681a-4b36-bdcb-28498b5df448",
+            "text": "Peaceful Villa Albashire 1762035000573"
+          },
+          {
+            "value": "91e558b0-5a4b-41de-b8b5-e0cb7dd9a45d",
+            "text": "Pricing14/05/25"
+          },
+          {
+            "value": "6bec973d-ed12-471b-9ef0-636ccfc6edc5",
+            "text": "PricingTest235"
+          },
+          {
+            "value": "74a22227-28a6-412f-a383-71ededc467a5",
+            "text": "rentalCondTest"
+          },
+          {
+            "value": "d13d303d-2c34-40ed-8b56-7c62bab89528",
+            "text": "  masterRoom"
+          },
+          {
+            "value": "4db4a3c6-2f9b-4bb2-9628-8b01d5ddf719",
+            "text": "  rCondUnit"
+          },
+          {
+            "value": "867ff8cf-5781-4354-820e-25a3ebaf8f7e",
+            "text": "  subAgencyRentalCond"
+          },
+          {
+            "value": "80295ee8-b1e0-4e18-9346-bad3ab7504ea",
+            "text": "SCAN_leyw"
+          },
+          {
+            "value": "101bb6a1-21ef-41c8-955f-ec38c8afa4c8",
+            "text": "SCAN_pxiz"
+          },
+          {
+            "value": "e46fa742-0992-4433-ba0a-efae36b9e0da",
+            "text": "StandardTest-property-hunt-1761948748696"
+          },
+          {
+            "value": "926bbad2-7cd9-4a9a-a382-15947a01ee48",
+            "text": "Sunny Studio Mullertown 1761958973512"
+          },
+          {
+            "value": "e765d02c-b81b-4a97-8e45-ac32d530706b",
+            "text": "Sunny Suite Rosenbaumside 1762027549828"
+          },
+          {
+            "value": "773fcd0c-1991-4ae8-a240-151a0a3488a8",
+            "text": "TEST_06gv"
+          },
+          {
+            "value": "db87f744-a807-49f1-91bb-6e53b3072e78",
+            "text": "TEST_1xv9"
+          },
+          {
+            "value": "f25c782e-ef9f-4835-9add-7e8084673f03",
+            "text": "TEST_2ydx"
+          },
+          {
+            "value": "04e1346e-85e3-4c08-82cd-8eb92a85473a",
+            "text": "TEST_5bc5"
+          },
+          {
+            "value": "c54b9c76-a8e5-4308-8faa-0fc6f9577aaa",
+            "text": "TEST_9t2m"
+          },
+          {
+            "value": "797516f7-a94f-4a10-a5ce-7c14ed80aced",
+            "text": "TEST_b4kd"
+          },
+          {
+            "value": "5b93ca72-dfe6-4a06-aea7-f0497bd10067",
+            "text": "TEST_bohh"
+          },
+          {
+            "value": "3861b732-7444-4811-9418-887abc35d430",
+            "text": "TEST_j670"
+          },
+          {
+            "value": "082a5ed0-5b6b-4546-8047-7ef2346927dd",
+            "text": "TEST_jn1k"
+          },
+          {
+            "value": "1e32d54c-1377-4fb3-a0fd-6b7a3a0b3c8b",
+            "text": "TEST_n6iw"
+          },
+          {
+            "value": "cb7674fb-95bd-4490-b4cd-cd77c2c52c1b",
+            "text": "TEST_PROPERTY_0wfd"
+          },
+          {
+            "value": "179b5adc-7554-45f2-a8eb-5c2bb8e17fdb",
+            "text": "TEST_PROPERTY_1eli"
+          },
+          {
+            "value": "d0b76356-cefd-417e-aeee-199092ba0ac9",
+            "text": "TEST_PROPERTY_2bz6"
+          },
+          {
+            "value": "d7b43667-1a4b-4fe0-b766-8b24403e712e",
+            "text": "TEST_PROPERTY_2k4z"
+          },
+          {
+            "value": "d2bbdd29-53c2-4964-9a5c-a271b453c3d1",
+            "text": "TEST_PROPERTY_3u60"
+          },
+          {
+            "value": "cc189f17-92d6-4f41-9edd-3f9a0571fe08",
+            "text": "TEST_PROPERTY_534b"
+          },
+          {
+            "value": "dae79a59-c673-4fca-a04d-2ef946663f95",
+            "text": "TEST_PROPERTY_9vqf"
+          },
+          {
+            "value": "ad3adaae-2582-4275-b77c-18834f0b0300",
+            "text": "TEST_PROPERTY_abcf"
+          },
+          {
+            "value": "7f2bfee0-6656-4d90-b7e0-6c298c523857",
+            "text": "TEST_PROPERTY_gxl3"
+          },
+          {
+            "value": "95e81082-e5cb-4989-abe5-36a20bfc4073",
+            "text": "TEST_PROPERTY_jo1s"
+          },
+          {
+            "value": "a7cabc83-a6f2-42e1-bee5-0938ceed9b3a",
+            "text": "TEST_PROPERTY_lauu"
+          },
+          {
+            "value": "b5cd65ab-b2c6-403b-bcdb-0387e9474cb6",
+            "text": "TEST_PROPERTY_sawa"
+          },
+          {
+            "value": "5453832e-6412-499e-94cd-b98b7f77b46c",
+            "text": "TEST_PROPERTY_sq5y"
+          },
+          {
+            "value": "7f6174df-065a-4bc4-a71d-fa9b1f9678bf",
+            "text": "TEST_PROPERTY_w7vv"
+          },
+          {
+            "value": "5fdb2eb2-d493-4189-b8c6-2993109a555a",
+            "text": "TEST_PROPERTY_y9ib"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "priceSettings.currency",
+        "name": "priceSettings.currency",
+        "options": [
+          {
+            "value": "THB",
+            "text": "🇹🇭 Baht tailandês"
+          },
+          {
+            "value": "DKK",
+            "text": "🇩🇰 Coroa dinamarquesa"
+          },
+          {
+            "value": "NOK",
+            "text": "🇳🇴 Coroa norueguesa"
+          },
+          {
+            "value": "SEK",
+            "text": "🇸🇪 Coroa sueca"
+          },
+          {
+            "value": "CZK",
+            "text": "🇨🇿 Coroa tcheca"
+          },
+          {
+            "value": "BHD",
+            "text": "🇧🇭 Dinar bareinita"
+          },
+          {
+            "value": "JOD",
+            "text": "🇯🇴 Dinar jordaniano"
+          },
+          {
+            "value": "AED",
+            "text": "🇦🇪 Dirham dos Emirados Árabes Unidos"
+          },
+          {
+            "value": "MAD",
+            "text": "🇲🇦 Dirham marroquino"
+          },
+          {
+            "value": "USD",
+            "text": "🇺🇸 Dólar americano"
+          },
+          {
+            "value": "AUD",
+            "text": "🇦🇺 Dólar australiano"
+          },
+          {
+            "value": "BBD",
+            "text": "🇧🇩 Dólar barbadense"
+          },
+          {
+            "value": "CAD",
+            "text": "🇨🇦 Dólar canadense"
+          },
+          {
+            "value": "HKD",
+            "text": "🇭🇰 Dólar de Hong Kong"
+          },
+          {
+            "value": "TTD",
+            "text": "🇹🇹 Dólar de Trinidad e Tobago"
+          },
+          {
+            "value": "NZD",
+            "text": "🇳🇿 Dólar neozelandês"
+          },
+          {
+            "value": "SGD",
+            "text": "🇸🇬 Dólar singapuriano"
+          },
+          {
+            "value": "VND",
+            "text": "🇻🇳 Dong vietnamita"
+          },
+          {
+            "value": "CVE",
+            "text": "🇨🇻 Escudo cabo-verdiano"
+          },
+          {
+            "value": "EUR",
+            "text": "🇪🇺 Euro"
+          },
+          {
+            "value": "AWG",
+            "text": "🇦🇼 Florim arubano"
+          },
+          {
+            "value": "CHF",
+            "text": "🇨🇭 Franco suíço"
+          },
+          {
+            "value": "PYG",
+            "text": "🇵🇾 Guarani paraguaio"
+          },
+          {
+            "value": "JPY",
+            "text": "🇯🇵 Iene japonês"
+          },
+          {
+            "value": "RON",
+            "text": "🇷🇴 Leu romeno"
+          },
+          {
+            "value": "BGN",
+            "text": "🇧🇬 Lev búlgaro"
+          },
+          {
+            "value": "EGP",
+            "text": "🇪🇬 Libra egípcia"
+          },
+          {
+            "value": "GBP",
+            "text": "🇬🇧 Libra esterlina"
+          },
+          {
+            "value": "TRY",
+            "text": "🇹🇷 Lira turca"
+          },
+          {
+            "value": "TWD",
+            "text": "🇹🇼 Novo dólar taiwanês"
+          },
+          {
+            "value": "ILS",
+            "text": "🇮🇱 Novo shekel israelense"
+          },
+          {
+            "value": "PEN",
+            "text": "🇵🇪 Novo sol peruano"
+          },
+          {
+            "value": "ARS",
+            "text": "🇦🇷 Peso argentino"
+          },
+          {
+            "value": "CLP",
+            "text": "🇨🇱 Peso chileno"
+          },
+          {
+            "value": "COP",
+            "text": "🇨🇴 Peso colombiano"
+          },
+          {
+            "value": "PHP",
+            "text": "🇵🇭 Peso filipino"
+          },
+          {
+            "value": "MXN",
+            "text": "🇲🇽 Peso mexicano"
+          },
+          {
+            "value": "UYU",
+            "text": "🇺🇾 Peso uruguaio"
+          },
+          {
+            "value": "GTQ",
+            "text": "🇬🇹 Quetzal guatemalteco"
+          },
+          {
+            "value": "ZAR",
+            "text": "🇿🇦 Rand sul-africano"
+          },
+          {
+            "value": "BRL",
+            "text": "🇧🇷 Real brasileiro"
+          },
+          {
+            "value": "MYR",
+            "text": "🇲🇾 Ringgit malaio"
+          },
+          {
+            "value": "SAR",
+            "text": "🇸🇦 Riyal saudita"
+          },
+          {
+            "value": "RUB",
+            "text": "🇷🇺 Rublo russo"
+          },
+          {
+            "value": "INR",
+            "text": "🇮🇳 Rupia indiana"
+          },
+          {
+            "value": "IDR",
+            "text": "🇮🇩 Rupia indonésia"
+          },
+          {
+            "value": "VUV",
+            "text": "🇻🇺 Vatu de Vanuatu"
+          },
+          {
+            "value": "VEF",
+            "text": "🇻🇪 VEF"
+          },
+          {
+            "value": "KRW",
+            "text": "🇰🇷 Won sul-coreano"
+          },
+          {
+            "value": "CNY",
+            "text": "🇨🇳 Yuan chinês"
+          },
+          {
+            "value": "PLN",
+            "text": "🇵🇱 Zloty polonês"
+          }
+        ]
+      }
+    ],
+    "checkboxes": [],
+    "radios": [],
+    "textareas": [],
+    "other": []
+  }
+}

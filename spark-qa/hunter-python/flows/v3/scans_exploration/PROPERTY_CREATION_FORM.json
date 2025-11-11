@@ -1,0 +1,342 @@
+{
+  "timestamp": "2025-11-08 11:53:59",
+  "url": "https://platform.test.hostfully.com/app/#/property/add/single",
+  "title": "Hostfully | Adicionar Propriedade Única",
+  "buttons": [
+    {
+      "index": 0,
+      "text": "",
+      "testid": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "visible": true
+    },
+    {
+      "index": 1,
+      "text": "Carregar",
+      "testid": "upload-button",
+      "class": "sc-aXZVg ldwMXy attach-thumbnail-button btn btn-default",
+      "visible": true
+    },
+    {
+      "index": 2,
+      "text": "",
+      "testid": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "visible": true
+    },
+    {
+      "index": 3,
+      "text": "",
+      "testid": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "visible": true
+    },
+    {
+      "index": 4,
+      "text": "Definir quartos e tipos de cama",
+      "testid": "open-set-rooms-modal",
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "visible": true
+    },
+    {
+      "index": 5,
+      "text": "",
+      "testid": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "visible": true
+    },
+    {
+      "index": 6,
+      "text": "Cancelar",
+      "testid": "cancel-button",
+      "class": "sc-aXZVg ldwMXy btn btn-default",
+      "visible": true
+    },
+    {
+      "index": 7,
+      "text": "Salvar Propriedade",
+      "testid": "save-button",
+      "class": "sc-aXZVg ldwMXy btn btn-primary",
+      "visible": true
+    },
+    {
+      "index": 8,
+      "text": "Cancelar",
+      "testid": "cancel-button",
+      "class": "sc-aXZVg ldwMXy btn btn-default",
+      "visible": true
+    },
+    {
+      "index": 9,
+      "text": "Salvar Propriedade",
+      "testid": "save-button",
+      "class": "sc-aXZVg ldwMXy btn btn-primary",
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "index": 0,
+      "text": "Painel de Gerenciamento",
+      "href": "#/dashboard",
+      "testid": "nav-item-common.dashboard",
+      "visible": true
+    },
+    {
+      "index": 1,
+      "text": "Caixa de Entrada\n661",
+      "href": "#/inbox",
+      "testid": "nav-item-common.inbox",
+      "visible": true
+    },
+    {
+      "index": 2,
+      "text": "Pipeline",
+      "href": "#/pipeline",
+      "testid": "nav-item-common.pipeline",
+      "visible": true
+    },
+    {
+      "index": 3,
+      "text": "Calendário",
+      "href": "#/calendar",
+      "testid": "nav-item-common.calendar",
+      "visible": true
+    },
+    {
+      "index": 4,
+      "text": "Análise de dados",
+      "href": "#/analytics",
+      "testid": "nav-item-common.analytics",
+      "visible": true
+    },
+    {
+      "index": 5,
+      "text": "gerenciadordeprop2",
+      "href": "#",
+      "testid": null,
+      "visible": true
+    },
+    {
+      "index": 19,
+      "text": "",
+      "href": "https://help.hostfully.com",
+      "testid": "navbar-help-icon",
+      "visible": true
+    },
+    {
+      "index": 20,
+      "text": "",
+      "href": "#/property/add/single",
+      "testid": "navbar-guest-experience-icon",
+      "visible": true
+    },
+    {
+      "index": 21,
+      "text": "",
+      "href": "#/property/add/single",
+      "testid": "navbar-hostfully-devices-icon",
+      "visible": true
+    },
+    {
+      "index": 22,
+      "text": "",
+      "href": "#/account",
+      "testid": null,
+      "visible": true
+    },
+    {
+      "index": 23,
+      "text": "Propriedades",
+      "href": "#/properties",
+      "testid": null,
+      "visible": true
+    },
+    {
+      "index": 24,
+      "text": "Termos de serviço",
+      "href": "https://www.hostfully.com/terms-of-service/",
+      "testid": "link-terms-of-service",
+      "visible": true
+    },
+    {
+      "index": 25,
+      "text": "Política de Privacidade",
+      "href": "https://platform.hostfully.com/static/privacy.jsp",
+      "testid": "link-privacy-policy",
+      "visible": true
+    },
+    {
+      "index": 26,
+      "text": "Opinião",
+      "href": "javascript:void(0)",
+      "testid": "link-feedback",
+      "visible": true
+    }
+  ],
+  "inputs": [
+    {
+      "index": 0,
+      "type": null,
+      "name": "propertyDetails.propertyName",
+      "testid": "propertyDetails.propertyName",
+      "visible": true
+    },
+    {
+      "index": 2,
+      "type": null,
+      "name": "propertyDetails.weblink",
+      "testid": "propertyDetails.weblink",
+      "visible": true
+    },
+    {
+      "index": 3,
+      "type": "number",
+      "name": "propertyDetails.floorCount",
+      "testid": "propertyDetails.floorCount",
+      "visible": true
+    },
+    {
+      "index": 4,
+      "type": null,
+      "name": "propertyDetails.propertySize",
+      "testid": "propertyDetails.propertySize",
+      "visible": true
+    },
+    {
+      "index": 5,
+      "type": null,
+      "name": "propertyAddress.addressLine1",
+      "testid": "propertyAddress.addressLine1",
+      "visible": true
+    },
+    {
+      "index": 6,
+      "type": null,
+      "name": "propertyAddress.addressLine2",
+      "testid": "propertyAddress.addressLine2",
+      "visible": true
+    },
+    {
+      "index": 7,
+      "type": null,
+      "name": "propertyAddress.city",
+      "testid": "propertyAddress.city",
+      "visible": true
+    },
+    {
+      "index": 8,
+      "type": null,
+      "name": "propertyAddress.zipCode",
+      "testid": "propertyAddress.zipCode",
+      "visible": true
+    },
+    {
+      "index": 9,
+      "type": null,
+      "name": "propertyAddress.state",
+      "testid": "propertyAddress.state",
+      "visible": true
+    },
+    {
+      "index": 10,
+      "type": "number",
+      "name": "capacityDetails.baseGuests",
+      "testid": "capacityDetails.baseGuests",
+      "visible": true
+    },
+    {
+      "index": 11,
+      "type": "number",
+      "name": "capacityDetails.maxGuests",
+      "testid": "capacityDetails.maxGuests",
+      "visible": true
+    },
+    {
+      "index": 12,
+      "type": "number",
+      "name": "capacityDetails.extraGuestFee",
+      "testid": "capacityDetails.extraGuestFee",
+      "visible": true
+    },
+    {
+      "index": 13,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.nightlyBasePrice",
+      "testid": "propertyPricingFeesTaxes.nightlyBasePrice",
+      "visible": true
+    },
+    {
+      "index": 14,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.taxRate",
+      "testid": "propertyPricingFeesTaxes.taxRate",
+      "visible": true
+    },
+    {
+      "index": 15,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.securityDeposit",
+      "testid": "propertyPricingFeesTaxes.securityDeposit",
+      "visible": true
+    },
+    {
+      "index": 16,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.cleaningFee",
+      "testid": "propertyPricingFeesTaxes.cleaningFee",
+      "visible": true
+    },
+    {
+      "index": 17,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.cleaningFeeTax",
+      "testid": "propertyPricingFeesTaxes.cleaningFeeTax",
+      "visible": true
+    }
+  ],
+  "selects": [
+    {
+      "index": 0,
+      "name": "propertyDetails.propertyType",
+      "testid": "propertyDetails.propertyType",
+      "visible": true
+    },
+    {
+      "index": 1,
+      "name": "propertyDetails.propertySizeUnit",
+      "testid": "propertyDetails.propertySizeUnit",
+      "visible": true
+    },
+    {
+      "index": 2,
+      "name": "propertyAddress.countryCode",
+      "testid": "propertyAddress.countryCode",
+      "visible": true
+    },
+    {
+      "index": 3,
+      "name": "capacityDetails.bedroomCount",
+      "testid": "capacityDetails.bedroomCount",
+      "visible": true
+    },
+    {
+      "index": 4,
+      "name": "capacityDetails.bedCount",
+      "testid": "capacityDetails.bedCount",
+      "visible": true
+    },
+    {
+      "index": 5,
+      "name": "capacityDetails.bathroomCount",
+      "testid": "capacityDetails.bathroomCount",
+      "visible": true
+    },
+    {
+      "index": 6,
+      "name": "propertyPricingFeesTaxes.currency",
+      "testid": "propertyPricingFeesTaxes.currency",
+      "visible": true
+    }
+  ]
+}

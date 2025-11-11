@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Playwright
+.auth/
+playwright-report/
+test-results/
+screenshots/
+
+# RL Atomic Hunter - Data & Artifacts
+hunter-python/barril!!/screenshots/
+hunter-python/barril!!/logs/
+hunter-python/barril!!/*.json
+!hunter-python/barril!!/observable_rewards.json
+!hunter-python/barril!!/test_oracle.json
+!hunter-python/barril!!/adaptive_waits.json
+!hunter-python/barril!!/dom_graph.json
+!hunter-python/barril!!/hierarchical_options.json
+!hunter-python/barril!!/imitation_learning_patterns.json
+!hunter-python/barril!!/property_based_tests.json
+!hunter-python/barril!!/rl_selector_phase2.json
+!hunter-python/barril!!/visual_regression.json
+!hunter-python/barril!!/flaky_predictor.json
+
+# RL Checkpoints (keep latest, ignore older)
+hunter-python/rl_atomic/checkpoint_*.json
+
+# RAG Cache
+.rag_cache/
+
+# Environment & Secrets
+.env
+.env.local
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+training_output.log
+
+# Coverage
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# MCP Config (may contain sensitive info)
+.cursor/mcp.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+

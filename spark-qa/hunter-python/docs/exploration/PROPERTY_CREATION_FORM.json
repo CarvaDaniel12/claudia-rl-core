@@ -1,0 +1,2368 @@
+{
+  "timestamp": "2025-11-06 23:25:25",
+  "page_url": "https://platform.test.hostfully.com/app/#/property/add/single",
+  "inputs": [
+    {
+      "index": 0,
+      "type": null,
+      "name": "propertyDetails.propertyName",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyDetails.propertyName",
+      "id": "propertyDetails.propertyName",
+      "class": "form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 2,
+      "type": null,
+      "name": "propertyDetails.weblink",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyDetails.weblink",
+      "id": "propertyDetails.weblink",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 3,
+      "type": "number",
+      "name": "propertyDetails.floorCount",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyDetails.floorCount",
+      "id": "propertyDetails.floorCount",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 4,
+      "type": null,
+      "name": "propertyDetails.propertySize",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyDetails.propertySize",
+      "id": "propertyDetails.propertySize",
+      "class": "sc-lkuliq fmDxuy form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 5,
+      "type": null,
+      "name": "propertyAddress.addressLine1",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyAddress.addressLine1",
+      "id": "propertyAddress.addressLine1",
+      "class": "form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 6,
+      "type": null,
+      "name": "propertyAddress.addressLine2",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyAddress.addressLine2",
+      "id": "propertyAddress.addressLine2",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 7,
+      "type": null,
+      "name": "propertyAddress.city",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyAddress.city",
+      "id": "propertyAddress.city",
+      "class": "form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 8,
+      "type": null,
+      "name": "propertyAddress.zipCode",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyAddress.zipCode",
+      "id": "propertyAddress.zipCode",
+      "class": "form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 9,
+      "type": null,
+      "name": "propertyAddress.state",
+      "placeholder": null,
+      "value": "",
+      "testid": "propertyAddress.state",
+      "id": "propertyAddress.state",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 10,
+      "type": "number",
+      "name": "capacityDetails.baseGuests",
+      "placeholder": null,
+      "value": "1",
+      "testid": "capacityDetails.baseGuests",
+      "id": "capacityDetails.baseGuests",
+      "class": "form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 11,
+      "type": "number",
+      "name": "capacityDetails.maxGuests",
+      "placeholder": null,
+      "value": "1",
+      "testid": "capacityDetails.maxGuests",
+      "id": "capacityDetails.maxGuests",
+      "class": "form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 12,
+      "type": "number",
+      "name": "capacityDetails.extraGuestFee",
+      "placeholder": null,
+      "value": "0",
+      "testid": "capacityDetails.extraGuestFee",
+      "id": "capacityDetails.extraGuestFee",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 13,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.nightlyBasePrice",
+      "placeholder": null,
+      "value": "0",
+      "testid": "propertyPricingFeesTaxes.nightlyBasePrice",
+      "id": "propertyPricingFeesTaxes.nightlyBasePrice",
+      "class": "form-control",
+      "required": "",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 14,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.taxRate",
+      "placeholder": null,
+      "value": "0",
+      "testid": "propertyPricingFeesTaxes.taxRate",
+      "id": "propertyPricingFeesTaxes.taxRate",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 15,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.securityDeposit",
+      "placeholder": null,
+      "value": "0",
+      "testid": "propertyPricingFeesTaxes.securityDeposit",
+      "id": "propertyPricingFeesTaxes.securityDeposit",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 16,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.cleaningFee",
+      "placeholder": null,
+      "value": "0",
+      "testid": "propertyPricingFeesTaxes.cleaningFee",
+      "id": "propertyPricingFeesTaxes.cleaningFee",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 17,
+      "type": "number",
+      "name": "propertyPricingFeesTaxes.cleaningFeeTax",
+      "placeholder": null,
+      "value": "0",
+      "testid": "propertyPricingFeesTaxes.cleaningFeeTax",
+      "id": "propertyPricingFeesTaxes.cleaningFeeTax",
+      "class": "form-control",
+      "required": null,
+      "disabled": null,
+      "is_visible": true
+    }
+  ],
+  "textareas": [],
+  "selects": [
+    {
+      "index": 0,
+      "name": "propertyDetails.propertyType",
+      "testid": "propertyDetails.propertyType",
+      "id": "propertyDetails.propertyType",
+      "class": "form-control",
+      "required": "",
+      "options": [
+        {
+          "value": "APARTHOTEL",
+          "text": "ApartHotel"
+        },
+        {
+          "value": "APARTMENT",
+          "text": "Apartment"
+        },
+        {
+          "value": "BARN",
+          "text": "Barn"
+        },
+        {
+          "value": "BEDANDBREAKFAST",
+          "text": "Bnb"
+        },
+        {
+          "value": "BOAT",
+          "text": "Boat"
+        },
+        {
+          "value": "BOUTIQUE_HOTEL",
+          "text": "Boutique Hotel"
+        },
+        {
+          "value": "BUNGALOW",
+          "text": "Bungalow"
+        },
+        {
+          "value": "CABIN",
+          "text": "Cabin"
+        },
+        {
+          "value": "CAMPGROUND",
+          "text": "Campground"
+        },
+        {
+          "value": "CASA_PARTICULAR",
+          "text": "Casa particular"
+        },
+        {
+          "value": "CHATEAU",
+          "text": "Castle"
+        },
+        {
+          "value": "CAVE",
+          "text": "Cave"
+        },
+        {
+          "value": "CHALET",
+          "text": "Chalet"
+        },
+        {
+          "value": "CONDO",
+          "text": "Condominium"
+        },
+        {
+          "value": "COTTAGE",
+          "text": "Cottage"
+        },
+        {
+          "value": "COUNTRYHOUSE",
+          "text": "Country House"
+        },
+        {
+          "value": "CYCLADIC_HOUSE",
+          "text": "Cycladic House"
+        },
+        {
+          "value": "DAMMUSO",
+          "text": "Dammuso"
+        },
+        {
+          "value": "DOME_HOUSE",
+          "text": "Dome House"
+        },
+        {
+          "value": "DORM",
+          "text": "Dorm"
+        },
+        {
+          "value": "DUPLEX",
+          "text": "Duplex"
+        },
+        {
+          "value": "EARTHHOUSE",
+          "text": "Earthouse"
+        },
+        {
+          "value": "FARMHOUSE",
+          "text": "Farmhouse"
+        },
+        {
+          "value": "FOURPLEX",
+          "text": "Fourplex"
+        },
+        {
+          "value": "GUESTHOUSE",
+          "text": "Guest House"
+        },
+        {
+          "value": "GUEST_SUITE",
+          "text": "Guest Suite"
+        },
+        {
+          "value": "HERITAGE_HOTEL",
+          "text": "Heritage Hotel"
+        },
+        {
+          "value": "HOLIDAY_HOME",
+          "text": "Holiday Home"
+        },
+        {
+          "value": "HOLIDAY_PARK",
+          "text": "Holiday Park"
+        },
+        {
+          "value": "HOMESTAY",
+          "text": "Homestay"
+        },
+        {
+          "value": "HOSTEL",
+          "text": "Hostel"
+        },
+        {
+          "value": "HOTEL",
+          "text": "Hotel"
+        },
+        {
+          "value": "HOUSE",
+          "text": "House"
+        },
+        {
+          "value": "HOUSEBOAT",
+          "text": "Houseboat"
+        },
+        {
+          "value": "HUT",
+          "text": "Hut"
+        },
+        {
+          "value": "IGLOO",
+          "text": "Igloo"
+        },
+        {
+          "value": "ISLAND",
+          "text": "Island"
+        },
+        {
+          "value": "KEZHAN",
+          "text": "Kezhan"
+        },
+        {
+          "value": "LIGHTHOUSE",
+          "text": "Lighthouse"
+        },
+        {
+          "value": "LODGE",
+          "text": "Lodge"
+        },
+        {
+          "value": "LOFT",
+          "text": "Loft"
+        },
+        {
+          "value": "MINSU",
+          "text": "Minsu"
+        },
+        {
+          "value": "MOTELROOM",
+          "text": "Motel Room"
+        },
+        {
+          "value": "OTHER",
+          "text": "Other"
+        },
+        {
+          "value": "PENSION",
+          "text": "Pension"
+        },
+        {
+          "value": "PENTHOUSE",
+          "text": "Penthouse"
+        },
+        {
+          "value": "PLANE",
+          "text": "Plane"
+        },
+        {
+          "value": "RANCH",
+          "text": "Ranch"
+        },
+        {
+          "value": "RELIGIOUS_BUILDING",
+          "text": "Religious Building"
+        },
+        {
+          "value": "RESORT",
+          "text": "Resort"
+        },
+        {
+          "value": "RIAD",
+          "text": "Riad"
+        },
+        {
+          "value": "ROOM",
+          "text": "Room"
+        },
+        {
+          "value": "RV",
+          "text": "RV"
+        },
+        {
+          "value": "RYOKAN",
+          "text": "Ryokan"
+        },
+        {
+          "value": "SAMPLE",
+          "text": "Sample Property"
+        },
+        {
+          "value": "SERVICED_APARTMENT",
+          "text": "Serviced Apartment"
+        },
+        {
+          "value": "SHEPHERDS_HUT",
+          "text": "Shepherds Hut"
+        },
+        {
+          "value": "SHIPPING_CONTAINER",
+          "text": "Shipping Container"
+        },
+        {
+          "value": "STUDIO",
+          "text": "Studio"
+        },
+        {
+          "value": "TENT",
+          "text": "Tent"
+        },
+        {
+          "value": "TINY_HOUSE",
+          "text": "Tiny House"
+        },
+        {
+          "value": "TIPI",
+          "text": "Tipi"
+        },
+        {
+          "value": "TOWER",
+          "text": "Tower"
+        },
+        {
+          "value": "TOWNHOUSE",
+          "text": "Townhouse"
+        },
+        {
+          "value": "TRAIN",
+          "text": "Train"
+        },
+        {
+          "value": "TREEHOUSE",
+          "text": "Treehouse"
+        },
+        {
+          "value": "TRIPLEX",
+          "text": "Triplex"
+        },
+        {
+          "value": "TRULLO",
+          "text": "Trullo"
+        },
+        {
+          "value": "VILLA",
+          "text": "Villa"
+        },
+        {
+          "value": "WINDMILL",
+          "text": "Windmill"
+        },
+        {
+          "value": "YURT",
+          "text": "Yurt"
+        }
+      ],
+      "is_visible": true
+    },
+    {
+      "index": 1,
+      "name": "propertyDetails.propertySizeUnit",
+      "testid": "propertyDetails.propertySizeUnit",
+      "id": "propertyDetails.propertySizeUnit",
+      "class": "sc-inZACr fUccxf form-control",
+      "required": "",
+      "options": [
+        {
+          "value": "SQUARE_METERS",
+          "text": "m²"
+        },
+        {
+          "value": "SQUARE_FEET",
+          "text": "pés²"
+        }
+      ],
+      "is_visible": true
+    },
+    {
+      "index": 2,
+      "name": "propertyAddress.countryCode",
+      "testid": "propertyAddress.countryCode",
+      "id": "propertyAddress.countryCode",
+      "class": "form-control",
+      "required": "",
+      "options": [
+        {
+          "value": "AF",
+          "text": " Afeganistão"
+        },
+        {
+          "value": "ZA",
+          "text": " África do Sul"
+        },
+        {
+          "value": "AL",
+          "text": " Albânia"
+        },
+        {
+          "value": "DE",
+          "text": " Alemanha"
+        },
+        {
+          "value": "AD",
+          "text": " Andorra"
+        },
+        {
+          "value": "AO",
+          "text": " Angola"
+        },
+        {
+          "value": "AI",
+          "text": " Anguila"
+        },
+        {
+          "value": "AG",
+          "text": " Antígua e Barbuda"
+        },
+        {
+          "value": "SA",
+          "text": " Arábia Saudita"
+        },
+        {
+          "value": "DZ",
+          "text": " Argélia"
+        },
+        {
+          "value": "AR",
+          "text": " Argentina"
+        },
+        {
+          "value": "AM",
+          "text": " Armênia"
+        },
+        {
+          "value": "AW",
+          "text": " Aruba"
+        },
+        {
+          "value": "AU",
+          "text": " Austrália"
+        },
+        {
+          "value": "AT",
+          "text": " Áustria"
+        },
+        {
+          "value": "AZ",
+          "text": " Azerbaijão"
+        },
+        {
+          "value": "BS",
+          "text": " Bahamas"
+        },
+        {
+          "value": "BD",
+          "text": " Bangladesh"
+        },
+        {
+          "value": "BB",
+          "text": " Barbados"
+        },
+        {
+          "value": "BH",
+          "text": " Barein"
+        },
+        {
+          "value": "BE",
+          "text": " Bélgica"
+        },
+        {
+          "value": "BZ",
+          "text": " Belize"
+        },
+        {
+          "value": "BJ",
+          "text": " Benin"
+        },
+        {
+          "value": "BM",
+          "text": " Bermudas"
+        },
+        {
+          "value": "BY",
+          "text": " Bielorrússia"
+        },
+        {
+          "value": "BO",
+          "text": " Bolívia"
+        },
+        {
+          "value": "BA",
+          "text": " Bósnia e Herzegovina"
+        },
+        {
+          "value": "BW",
+          "text": " Botsuana"
+        },
+        {
+          "value": "BR",
+          "text": " Brasil"
+        },
+        {
+          "value": "BN",
+          "text": " Brunei"
+        },
+        {
+          "value": "BG",
+          "text": " Bulgária"
+        },
+        {
+          "value": "BF",
+          "text": " Burquina Faso"
+        },
+        {
+          "value": "BI",
+          "text": " Burundi"
+        },
+        {
+          "value": "BT",
+          "text": " Butão"
+        },
+        {
+          "value": "CV",
+          "text": " Cabo Verde"
+        },
+        {
+          "value": "CM",
+          "text": " Camarões"
+        },
+        {
+          "value": "KH",
+          "text": " Camboja"
+        },
+        {
+          "value": "CA",
+          "text": " Canadá"
+        },
+        {
+          "value": "QA",
+          "text": " Catar"
+        },
+        {
+          "value": "KZ",
+          "text": " Cazaquistão"
+        },
+        {
+          "value": "TD",
+          "text": " Chade"
+        },
+        {
+          "value": "CL",
+          "text": " Chile"
+        },
+        {
+          "value": "CN",
+          "text": " China"
+        },
+        {
+          "value": "CY",
+          "text": " Chipre"
+        },
+        {
+          "value": "VA",
+          "text": " Cidade do Vaticano"
+        },
+        {
+          "value": "CO",
+          "text": " Colômbia"
+        },
+        {
+          "value": "KM",
+          "text": " Comores"
+        },
+        {
+          "value": "CD",
+          "text": " Congo - Kinshasa"
+        },
+        {
+          "value": "KP",
+          "text": " Coreia do Norte"
+        },
+        {
+          "value": "KR",
+          "text": " Coreia do Sul"
+        },
+        {
+          "value": "CI",
+          "text": " Costa do Marfim"
+        },
+        {
+          "value": "CR",
+          "text": " Costa Rica"
+        },
+        {
+          "value": "HR",
+          "text": " Croácia"
+        },
+        {
+          "value": "CU",
+          "text": " Cuba"
+        },
+        {
+          "value": "CW",
+          "text": " Curaçao"
+        },
+        {
+          "value": "DK",
+          "text": " Dinamarca"
+        },
+        {
+          "value": "DJ",
+          "text": " Djibuti"
+        },
+        {
+          "value": "DM",
+          "text": " Dominica"
+        },
+        {
+          "value": "EG",
+          "text": " Egito"
+        },
+        {
+          "value": "SV",
+          "text": " El Salvador"
+        },
+        {
+          "value": "AE",
+          "text": " Emirados Árabes Unidos"
+        },
+        {
+          "value": "EC",
+          "text": " Equador"
+        },
+        {
+          "value": "ER",
+          "text": " Eritreia"
+        },
+        {
+          "value": "SK",
+          "text": " Eslováquia"
+        },
+        {
+          "value": "SI",
+          "text": " Eslovênia"
+        },
+        {
+          "value": "ES",
+          "text": " Espanha"
+        },
+        {
+          "value": "SZ",
+          "text": " Essuatíni"
+        },
+        {
+          "value": "US",
+          "text": " Estados Unidos"
+        },
+        {
+          "value": "EE",
+          "text": " Estônia"
+        },
+        {
+          "value": "ET",
+          "text": " Etiópia"
+        },
+        {
+          "value": "FJ",
+          "text": " Fiji"
+        },
+        {
+          "value": "PH",
+          "text": " Filipinas"
+        },
+        {
+          "value": "FI",
+          "text": " Finlândia"
+        },
+        {
+          "value": "FR",
+          "text": " França"
+        },
+        {
+          "value": "GA",
+          "text": " Gabão"
+        },
+        {
+          "value": "GM",
+          "text": " Gâmbia"
+        },
+        {
+          "value": "GH",
+          "text": " Gana"
+        },
+        {
+          "value": "GE",
+          "text": " Geórgia"
+        },
+        {
+          "value": "GI",
+          "text": " Gibraltar"
+        },
+        {
+          "value": "GD",
+          "text": " Granada"
+        },
+        {
+          "value": "GR",
+          "text": " Grécia"
+        },
+        {
+          "value": "GL",
+          "text": " Groenlândia"
+        },
+        {
+          "value": "GP",
+          "text": " Guadalupe"
+        },
+        {
+          "value": "GU",
+          "text": " Guam"
+        },
+        {
+          "value": "GT",
+          "text": " Guatemala"
+        },
+        {
+          "value": "GY",
+          "text": " Guiana"
+        },
+        {
+          "value": "GF",
+          "text": " Guiana Francesa"
+        },
+        {
+          "value": "GN",
+          "text": " Guiné"
+        },
+        {
+          "value": "GQ",
+          "text": " Guiné Equatorial"
+        },
+        {
+          "value": "GW",
+          "text": " Guiné-Bissau"
+        },
+        {
+          "value": "HT",
+          "text": " Haiti"
+        },
+        {
+          "value": "HN",
+          "text": " Honduras"
+        },
+        {
+          "value": "HK",
+          "text": " Hong Kong"
+        },
+        {
+          "value": "HU",
+          "text": " Hungria"
+        },
+        {
+          "value": "YE",
+          "text": " Iêmen"
+        },
+        {
+          "value": "CX",
+          "text": " Ilha Christmas"
+        },
+        {
+          "value": "IM",
+          "text": " Ilha de Man"
+        },
+        {
+          "value": "NF",
+          "text": " Ilha Norfolk"
+        },
+        {
+          "value": "KY",
+          "text": " Ilhas Cayman"
+        },
+        {
+          "value": "CC",
+          "text": " Ilhas Cocos (Keeling)"
+        },
+        {
+          "value": "CK",
+          "text": " Ilhas Cook"
+        },
+        {
+          "value": "FO",
+          "text": " Ilhas Faroé"
+        },
+        {
+          "value": "FK",
+          "text": " Ilhas Malvinas (Ilhas Falkland)"
+        },
+        {
+          "value": "MH",
+          "text": " Ilhas Marshall"
+        },
+        {
+          "value": "PN",
+          "text": " Ilhas Pitcairn"
+        },
+        {
+          "value": "SB",
+          "text": " Ilhas Salomão"
+        },
+        {
+          "value": "TC",
+          "text": " Ilhas Turcas e Caicos"
+        },
+        {
+          "value": "VI",
+          "text": " Ilhas Virgens Americanas"
+        },
+        {
+          "value": "VG",
+          "text": " Ilhas Virgens Britânicas"
+        },
+        {
+          "value": "IN",
+          "text": " Índia"
+        },
+        {
+          "value": "ID",
+          "text": " Indonésia"
+        },
+        {
+          "value": "IR",
+          "text": " Irã"
+        },
+        {
+          "value": "IQ",
+          "text": " Iraque"
+        },
+        {
+          "value": "IE",
+          "text": " Irlanda"
+        },
+        {
+          "value": "IS",
+          "text": " Islândia"
+        },
+        {
+          "value": "IL",
+          "text": " Israel"
+        },
+        {
+          "value": "IT",
+          "text": " Itália"
+        },
+        {
+          "value": "JM",
+          "text": " Jamaica"
+        },
+        {
+          "value": "JP",
+          "text": " Japão"
+        },
+        {
+          "value": "JE",
+          "text": " Jersey"
+        },
+        {
+          "value": "JO",
+          "text": " Jordânia"
+        },
+        {
+          "value": "KW",
+          "text": " Kuwait"
+        },
+        {
+          "value": "LA",
+          "text": " Laos"
+        },
+        {
+          "value": "LS",
+          "text": " Lesoto"
+        },
+        {
+          "value": "LV",
+          "text": " Letônia"
+        },
+        {
+          "value": "LB",
+          "text": " Líbano"
+        },
+        {
+          "value": "LR",
+          "text": " Libéria"
+        },
+        {
+          "value": "LY",
+          "text": " Líbia"
+        },
+        {
+          "value": "LI",
+          "text": " Liechtenstein"
+        },
+        {
+          "value": "LT",
+          "text": " Lituânia"
+        },
+        {
+          "value": "LU",
+          "text": " Luxemburgo"
+        },
+        {
+          "value": "MO",
+          "text": " Macau"
+        },
+        {
+          "value": "MK",
+          "text": " Macedônia do Norte"
+        },
+        {
+          "value": "MG",
+          "text": " Madagascar"
+        },
+        {
+          "value": "MY",
+          "text": " Malásia"
+        },
+        {
+          "value": "MW",
+          "text": " Malaui"
+        },
+        {
+          "value": "MV",
+          "text": " Maldivas"
+        },
+        {
+          "value": "ML",
+          "text": " Mali"
+        },
+        {
+          "value": "MT",
+          "text": " Malta"
+        },
+        {
+          "value": "MA",
+          "text": " Marrocos"
+        },
+        {
+          "value": "MQ",
+          "text": " Martinica"
+        },
+        {
+          "value": "MU",
+          "text": " Maurício"
+        },
+        {
+          "value": "MR",
+          "text": " Mauritânia"
+        },
+        {
+          "value": "YT",
+          "text": " Mayotte"
+        },
+        {
+          "value": "MX",
+          "text": " México"
+        },
+        {
+          "value": "MM",
+          "text": " Mianmar (Birmânia)"
+        },
+        {
+          "value": "FM",
+          "text": " Micronésia"
+        },
+        {
+          "value": "MZ",
+          "text": " Moçambique"
+        },
+        {
+          "value": "MD",
+          "text": " Moldávia"
+        },
+        {
+          "value": "MC",
+          "text": " Mônaco"
+        },
+        {
+          "value": "MN",
+          "text": " Mongólia"
+        },
+        {
+          "value": "ME",
+          "text": " Montenegro"
+        },
+        {
+          "value": "MS",
+          "text": " Montserrat"
+        },
+        {
+          "value": "NA",
+          "text": " Namíbia"
+        },
+        {
+          "value": "NR",
+          "text": " Nauru"
+        },
+        {
+          "value": "NP",
+          "text": " Nepal"
+        },
+        {
+          "value": "NI",
+          "text": " Nicarágua"
+        },
+        {
+          "value": "NE",
+          "text": " Níger"
+        },
+        {
+          "value": "NG",
+          "text": " Nigéria"
+        },
+        {
+          "value": "NU",
+          "text": " Niue"
+        },
+        {
+          "value": "NO",
+          "text": " Noruega"
+        },
+        {
+          "value": "NC",
+          "text": " Nova Caledônia"
+        },
+        {
+          "value": "NZ",
+          "text": " Nova Zelândia"
+        },
+        {
+          "value": "OM",
+          "text": " Omã"
+        },
+        {
+          "value": "NL",
+          "text": " Países Baixos"
+        },
+        {
+          "value": "BQ",
+          "text": " Países Baixos Caribenhos"
+        },
+        {
+          "value": "PW",
+          "text": " Palau"
+        },
+        {
+          "value": "PS",
+          "text": " Palestina"
+        },
+        {
+          "value": "PA",
+          "text": " Panamá"
+        },
+        {
+          "value": "PG",
+          "text": " Papua-Nova Guiné"
+        },
+        {
+          "value": "PK",
+          "text": " Paquistão"
+        },
+        {
+          "value": "PY",
+          "text": " Paraguai"
+        },
+        {
+          "value": "PE",
+          "text": " Peru"
+        },
+        {
+          "value": "PF",
+          "text": " Polinésia Francesa"
+        },
+        {
+          "value": "PL",
+          "text": " Polônia"
+        },
+        {
+          "value": "PR",
+          "text": " Porto Rico"
+        },
+        {
+          "value": "PT",
+          "text": " Portugal"
+        },
+        {
+          "value": "KE",
+          "text": " Quênia"
+        },
+        {
+          "value": "KG",
+          "text": " Quirguistão"
+        },
+        {
+          "value": "KI",
+          "text": " Quiribati"
+        },
+        {
+          "value": "GB",
+          "text": " Reino Unido"
+        },
+        {
+          "value": "CF",
+          "text": " República Centro-Africana"
+        },
+        {
+          "value": "CG",
+          "text": " República do Congo"
+        },
+        {
+          "value": "DO",
+          "text": " República Dominicana"
+        },
+        {
+          "value": "RE",
+          "text": " Reunião"
+        },
+        {
+          "value": "RO",
+          "text": " Romênia"
+        },
+        {
+          "value": "RW",
+          "text": " Ruanda"
+        },
+        {
+          "value": "RU",
+          "text": " Rússia"
+        },
+        {
+          "value": "EH",
+          "text": " Saara Ocidental"
+        },
+        {
+          "value": "WS",
+          "text": " Samoa"
+        },
+        {
+          "value": "AS",
+          "text": " Samoa Americana"
+        },
+        {
+          "value": "SM",
+          "text": " San Marino"
+        },
+        {
+          "value": "SH",
+          "text": " Santa Helena"
+        },
+        {
+          "value": "LC",
+          "text": " Santa Lúcia"
+        },
+        {
+          "value": "KN",
+          "text": " São Cristóvão e Névis"
+        },
+        {
+          "value": "PM",
+          "text": " São Pedro e Miquelão"
+        },
+        {
+          "value": "ST",
+          "text": " São Tomé e Príncipe"
+        },
+        {
+          "value": "VC",
+          "text": " São Vicente e Granadinas"
+        },
+        {
+          "value": "SC",
+          "text": " Seicheles"
+        },
+        {
+          "value": "SN",
+          "text": " Senegal"
+        },
+        {
+          "value": "SL",
+          "text": " Serra Leoa"
+        },
+        {
+          "value": "RS",
+          "text": " Sérvia"
+        },
+        {
+          "value": "SG",
+          "text": " Singapura"
+        },
+        {
+          "value": "SX",
+          "text": " Sint Maarten"
+        },
+        {
+          "value": "SY",
+          "text": " Síria"
+        },
+        {
+          "value": "SO",
+          "text": " Somália"
+        },
+        {
+          "value": "LK",
+          "text": " Sri Lanka"
+        },
+        {
+          "value": "SE",
+          "text": " Suécia"
+        },
+        {
+          "value": "CH",
+          "text": " Suíça"
+        },
+        {
+          "value": "SR",
+          "text": " Suriname"
+        },
+        {
+          "value": "SJ",
+          "text": " Svalbard e Jan Mayen"
+        },
+        {
+          "value": "TJ",
+          "text": " Tadjiquistão"
+        },
+        {
+          "value": "TH",
+          "text": " Tailândia"
+        },
+        {
+          "value": "TW",
+          "text": " Taiwan"
+        },
+        {
+          "value": "TZ",
+          "text": " Tanzânia"
+        },
+        {
+          "value": "CZ",
+          "text": " Tchéquia"
+        },
+        {
+          "value": "TG",
+          "text": " Togo"
+        },
+        {
+          "value": "TO",
+          "text": " Tonga"
+        },
+        {
+          "value": "TT",
+          "text": " Trinidad e Tobago"
+        },
+        {
+          "value": "TN",
+          "text": " Tunísia"
+        },
+        {
+          "value": "TM",
+          "text": " Turcomenistão"
+        },
+        {
+          "value": "TR",
+          "text": " Turquia"
+        },
+        {
+          "value": "TV",
+          "text": " Tuvalu"
+        },
+        {
+          "value": "UA",
+          "text": " Ucrânia"
+        },
+        {
+          "value": "UG",
+          "text": " Uganda"
+        },
+        {
+          "value": "UY",
+          "text": " Uruguai"
+        },
+        {
+          "value": "UZ",
+          "text": " Uzbequistão"
+        },
+        {
+          "value": "VU",
+          "text": " Vanuatu"
+        },
+        {
+          "value": "VE",
+          "text": " Venezuela"
+        },
+        {
+          "value": "VN",
+          "text": " Vietnã"
+        },
+        {
+          "value": "WF",
+          "text": " Wallis e Futuna"
+        },
+        {
+          "value": "ZM",
+          "text": " Zâmbia"
+        },
+        {
+          "value": "ZW",
+          "text": " Zimbábue"
+        }
+      ],
+      "is_visible": true
+    },
+    {
+      "index": 3,
+      "name": "capacityDetails.bedroomCount",
+      "testid": "capacityDetails.bedroomCount",
+      "id": "capacityDetails.bedroomCount",
+      "class": "form-control",
+      "required": null,
+      "options": [
+        {
+          "value": "0",
+          "text": "0"
+        },
+        {
+          "value": "1",
+          "text": "1"
+        },
+        {
+          "value": "2",
+          "text": "2"
+        },
+        {
+          "value": "3",
+          "text": "3"
+        },
+        {
+          "value": "4",
+          "text": "4"
+        },
+        {
+          "value": "5",
+          "text": "5"
+        },
+        {
+          "value": "6",
+          "text": "6"
+        },
+        {
+          "value": "7",
+          "text": "7"
+        },
+        {
+          "value": "8",
+          "text": "8"
+        },
+        {
+          "value": "9",
+          "text": "9"
+        },
+        {
+          "value": "10",
+          "text": "10"
+        },
+        {
+          "value": "11",
+          "text": "11"
+        },
+        {
+          "value": "12",
+          "text": "12"
+        },
+        {
+          "value": "13",
+          "text": "13"
+        },
+        {
+          "value": "14",
+          "text": "14"
+        },
+        {
+          "value": "15",
+          "text": "15"
+        },
+        {
+          "value": "16",
+          "text": "16"
+        },
+        {
+          "value": "17",
+          "text": "17"
+        },
+        {
+          "value": "18",
+          "text": "18"
+        },
+        {
+          "value": "19",
+          "text": "19"
+        },
+        {
+          "value": "20",
+          "text": "20"
+        }
+      ],
+      "is_visible": true
+    },
+    {
+      "index": 4,
+      "name": "capacityDetails.bedCount",
+      "testid": "capacityDetails.bedCount",
+      "id": "capacityDetails.bedCount",
+      "class": "form-control",
+      "required": null,
+      "options": [
+        {
+          "value": "0",
+          "text": "0"
+        },
+        {
+          "value": "1",
+          "text": "1"
+        },
+        {
+          "value": "2",
+          "text": "2"
+        },
+        {
+          "value": "3",
+          "text": "3"
+        },
+        {
+          "value": "4",
+          "text": "4"
+        },
+        {
+          "value": "5",
+          "text": "5"
+        },
+        {
+          "value": "6",
+          "text": "6"
+        },
+        {
+          "value": "7",
+          "text": "7"
+        },
+        {
+          "value": "8",
+          "text": "8"
+        },
+        {
+          "value": "9",
+          "text": "9"
+        },
+        {
+          "value": "10",
+          "text": "10"
+        },
+        {
+          "value": "11",
+          "text": "11"
+        },
+        {
+          "value": "12",
+          "text": "12"
+        },
+        {
+          "value": "13",
+          "text": "13"
+        },
+        {
+          "value": "14",
+          "text": "14"
+        },
+        {
+          "value": "15",
+          "text": "15"
+        },
+        {
+          "value": "16",
+          "text": "16"
+        },
+        {
+          "value": "17",
+          "text": "17"
+        },
+        {
+          "value": "18",
+          "text": "18"
+        },
+        {
+          "value": "19",
+          "text": "19"
+        },
+        {
+          "value": "20",
+          "text": "20"
+        }
+      ],
+      "is_visible": true
+    },
+    {
+      "index": 5,
+      "name": "capacityDetails.bathroomCount",
+      "testid": "capacityDetails.bathroomCount",
+      "id": "capacityDetails.bathroomCount",
+      "class": "form-control",
+      "required": null,
+      "options": [
+        {
+          "value": "0",
+          "text": "0"
+        },
+        {
+          "value": "1",
+          "text": "1"
+        },
+        {
+          "value": "1.5",
+          "text": "1,5"
+        },
+        {
+          "value": "2",
+          "text": "2"
+        },
+        {
+          "value": "2.5",
+          "text": "2,5"
+        },
+        {
+          "value": "3",
+          "text": "3"
+        },
+        {
+          "value": "3.5",
+          "text": "3,5"
+        },
+        {
+          "value": "4",
+          "text": "4"
+        },
+        {
+          "value": "4.5",
+          "text": "4,5"
+        },
+        {
+          "value": "5",
+          "text": "5"
+        },
+        {
+          "value": "5.5",
+          "text": "5,5"
+        },
+        {
+          "value": "6",
+          "text": "6"
+        },
+        {
+          "value": "6.5",
+          "text": "6,5"
+        },
+        {
+          "value": "7",
+          "text": "7"
+        },
+        {
+          "value": "7.5",
+          "text": "7,5"
+        },
+        {
+          "value": "8",
+          "text": "8"
+        },
+        {
+          "value": "8.5",
+          "text": "8,5"
+        },
+        {
+          "value": "9",
+          "text": "9"
+        },
+        {
+          "value": "9.5",
+          "text": "9,5"
+        },
+        {
+          "value": "10",
+          "text": "10"
+        },
+        {
+          "value": "11",
+          "text": "11"
+        },
+        {
+          "value": "12",
+          "text": "12"
+        },
+        {
+          "value": "13",
+          "text": "13"
+        },
+        {
+          "value": "14",
+          "text": "14"
+        },
+        {
+          "value": "15",
+          "text": "15"
+        },
+        {
+          "value": "16",
+          "text": "16"
+        },
+        {
+          "value": "17",
+          "text": "17"
+        },
+        {
+          "value": "18",
+          "text": "18"
+        },
+        {
+          "value": "19",
+          "text": "19"
+        },
+        {
+          "value": "20",
+          "text": "20"
+        },
+        {
+          "value": "21",
+          "text": "21"
+        },
+        {
+          "value": "22",
+          "text": "22"
+        },
+        {
+          "value": "23",
+          "text": "23"
+        },
+        {
+          "value": "24",
+          "text": "24"
+        },
+        {
+          "value": "25",
+          "text": "25"
+        },
+        {
+          "value": "26",
+          "text": "26"
+        },
+        {
+          "value": "27",
+          "text": "27"
+        },
+        {
+          "value": "28",
+          "text": "28"
+        },
+        {
+          "value": "29",
+          "text": "29"
+        },
+        {
+          "value": "30",
+          "text": "30"
+        }
+      ],
+      "is_visible": true
+    },
+    {
+      "index": 6,
+      "name": "propertyPricingFeesTaxes.currency",
+      "testid": "propertyPricingFeesTaxes.currency",
+      "id": "propertyPricingFeesTaxes.currency",
+      "class": "form-control",
+      "required": "",
+      "options": [
+        {
+          "value": "THB",
+          "text": " Baht tailandês"
+        },
+        {
+          "value": "DKK",
+          "text": " Coroa dinamarquesa"
+        },
+        {
+          "value": "NOK",
+          "text": " Coroa norueguesa"
+        },
+        {
+          "value": "SEK",
+          "text": " Coroa sueca"
+        },
+        {
+          "value": "CZK",
+          "text": " Coroa tcheca"
+        },
+        {
+          "value": "BHD",
+          "text": " Dinar bareinita"
+        },
+        {
+          "value": "JOD",
+          "text": " Dinar jordaniano"
+        },
+        {
+          "value": "AED",
+          "text": " Dirham dos Emirados Árabes Unidos"
+        },
+        {
+          "value": "MAD",
+          "text": " Dirham marroquino"
+        },
+        {
+          "value": "USD",
+          "text": " Dólar americano"
+        },
+        {
+          "value": "AUD",
+          "text": " Dólar australiano"
+        },
+        {
+          "value": "BBD",
+          "text": " Dólar barbadense"
+        },
+        {
+          "value": "CAD",
+          "text": " Dólar canadense"
+        },
+        {
+          "value": "HKD",
+          "text": " Dólar de Hong Kong"
+        },
+        {
+          "value": "TTD",
+          "text": " Dólar de Trinidad e Tobago"
+        },
+        {
+          "value": "NZD",
+          "text": " Dólar neozelandês"
+        },
+        {
+          "value": "SGD",
+          "text": " Dólar singapuriano"
+        },
+        {
+          "value": "VND",
+          "text": " Dong vietnamita"
+        },
+        {
+          "value": "CVE",
+          "text": " Escudo cabo-verdiano"
+        },
+        {
+          "value": "EUR",
+          "text": " Euro"
+        },
+        {
+          "value": "AWG",
+          "text": " Florim arubano"
+        },
+        {
+          "value": "CHF",
+          "text": " Franco suíço"
+        },
+        {
+          "value": "PYG",
+          "text": " Guarani paraguaio"
+        },
+        {
+          "value": "JPY",
+          "text": " Iene japonês"
+        },
+        {
+          "value": "RON",
+          "text": " Leu romeno"
+        },
+        {
+          "value": "BGN",
+          "text": " Lev búlgaro"
+        },
+        {
+          "value": "EGP",
+          "text": " Libra egípcia"
+        },
+        {
+          "value": "GBP",
+          "text": " Libra esterlina"
+        },
+        {
+          "value": "TRY",
+          "text": " Lira turca"
+        },
+        {
+          "value": "TWD",
+          "text": " Novo dólar taiwanês"
+        },
+        {
+          "value": "ILS",
+          "text": " Novo shekel israelense"
+        },
+        {
+          "value": "PEN",
+          "text": " Novo sol peruano"
+        },
+        {
+          "value": "ARS",
+          "text": " Peso argentino"
+        },
+        {
+          "value": "CLP",
+          "text": " Peso chileno"
+        },
+        {
+          "value": "COP",
+          "text": " Peso colombiano"
+        },
+        {
+          "value": "PHP",
+          "text": " Peso filipino"
+        },
+        {
+          "value": "MXN",
+          "text": " Peso mexicano"
+        },
+        {
+          "value": "UYU",
+          "text": " Peso uruguaio"
+        },
+        {
+          "value": "GTQ",
+          "text": " Quetzal guatemalteco"
+        },
+        {
+          "value": "ZAR",
+          "text": " Rand sul-africano"
+        },
+        {
+          "value": "BRL",
+          "text": " Real brasileiro"
+        },
+        {
+          "value": "MYR",
+          "text": " Ringgit malaio"
+        },
+        {
+          "value": "SAR",
+          "text": " Riyal saudita"
+        },
+        {
+          "value": "RUB",
+          "text": " Rublo russo"
+        },
+        {
+          "value": "INR",
+          "text": " Rupia indiana"
+        },
+        {
+          "value": "IDR",
+          "text": " Rupia indonésia"
+        },
+        {
+          "value": "VUV",
+          "text": " Vatu de Vanuatu"
+        },
+        {
+          "value": "VEF",
+          "text": " VEF"
+        },
+        {
+          "value": "KRW",
+          "text": " Won sul-coreano"
+        },
+        {
+          "value": "CNY",
+          "text": " Yuan chinês"
+        },
+        {
+          "value": "PLN",
+          "text": " Zloty polonês"
+        }
+      ],
+      "is_visible": true
+    }
+  ],
+  "buttons": [
+    {
+      "index": 0,
+      "type": "button",
+      "text": "",
+      "testid": null,
+      "id": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 1,
+      "type": "button",
+      "text": "Carregar",
+      "testid": "upload-button",
+      "id": null,
+      "class": "sc-aXZVg ldwMXy attach-thumbnail-button btn btn-default",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 2,
+      "type": "button",
+      "text": "",
+      "testid": null,
+      "id": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 3,
+      "type": "button",
+      "text": "",
+      "testid": null,
+      "id": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 4,
+      "type": "button",
+      "text": "Definir quartos e tipos de cama",
+      "testid": "open-set-rooms-modal",
+      "id": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 5,
+      "type": "button",
+      "text": "",
+      "testid": null,
+      "id": null,
+      "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 6,
+      "type": "button",
+      "text": "Cancelar",
+      "testid": "cancel-button",
+      "id": null,
+      "class": "sc-aXZVg ldwMXy btn btn-default",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 7,
+      "type": "submit",
+      "text": "Salvar Propriedade",
+      "testid": "save-button",
+      "id": null,
+      "class": "sc-aXZVg ldwMXy btn btn-primary",
+      "disabled": "",
+      "is_visible": true
+    },
+    {
+      "index": 8,
+      "type": "button",
+      "text": "Cancelar",
+      "testid": "cancel-button",
+      "id": null,
+      "class": "sc-aXZVg ldwMXy btn btn-default",
+      "disabled": null,
+      "is_visible": true
+    },
+    {
+      "index": 9,
+      "type": "submit",
+      "text": "Salvar Propriedade",
+      "testid": "save-button",
+      "id": null,
+      "class": "sc-aXZVg ldwMXy btn btn-primary",
+      "disabled": "",
+      "is_visible": true
+    }
+  ],
+  "labels": [
+    {
+      "index": 0,
+      "text": "Tipo de propriedade",
+      "for": null,
+      "testid": "propertyDetails.propertyType-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 1,
+      "text": "Nome da propriedade interna",
+      "for": null,
+      "testid": "propertyDetails.propertyName-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 2,
+      "text": "Miniatura interna",
+      "for": null,
+      "testid": "propertyDetails.internalThumbnail-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 3,
+      "text": "Link da Web",
+      "for": null,
+      "testid": "propertyDetails.weblink-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 4,
+      "text": "Número de andares",
+      "for": null,
+      "testid": "propertyDetails.floorCount-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 5,
+      "text": "Tamanho da propriedade",
+      "for": null,
+      "testid": "propertyDetails.propertySize-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 6,
+      "text": "Endereço 1",
+      "for": null,
+      "testid": "propertyAddress.addressLine1-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 7,
+      "text": "Endereço 2",
+      "for": null,
+      "testid": "propertyAddress.addressLine2-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 8,
+      "text": "Cidade",
+      "for": null,
+      "testid": "propertyAddress.city-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 9,
+      "text": "Código postal",
+      "for": null,
+      "testid": "propertyAddress.zipCode-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 10,
+      "text": "Estado",
+      "for": null,
+      "testid": "propertyAddress.state-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 11,
+      "text": "País",
+      "for": null,
+      "testid": "propertyAddress.countryCode-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 12,
+      "text": "Quartos de dormir",
+      "for": null,
+      "testid": "capacityDetails.bedroomCount-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 13,
+      "text": "Número de leitos",
+      "for": null,
+      "testid": "capacityDetails.bedCount-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 14,
+      "text": "Banheiros",
+      "for": null,
+      "testid": "capacityDetails.bathroomCount-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 15,
+      "text": "Hóspedes da Base",
+      "for": null,
+      "testid": "capacityDetails.baseGuests-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 16,
+      "text": "Máximo de hóspedes",
+      "for": null,
+      "testid": "capacityDetails.maxGuests-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 17,
+      "text": "Taxa para hóspede adicional",
+      "for": null,
+      "testid": "capacityDetails.extraGuestFee-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 18,
+      "text": "Moeda",
+      "for": null,
+      "testid": "propertyPricingFeesTaxes.currency-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 19,
+      "text": "Preço base noturno",
+      "for": null,
+      "testid": "propertyPricingFeesTaxes.nightlyBasePrice-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 20,
+      "text": "Taxa de imposto",
+      "for": null,
+      "testid": "propertyPricingFeesTaxes.taxRate-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 21,
+      "text": "Depósito de segurança",
+      "for": null,
+      "testid": "propertyPricingFeesTaxes.securityDeposit-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 22,
+      "text": "Taxa de Limpeza",
+      "for": null,
+      "testid": "propertyPricingFeesTaxes.cleaningFee-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    },
+    {
+      "index": 23,
+      "text": "Cleaning Fee Tax",
+      "for": null,
+      "testid": "propertyPricingFeesTaxes.cleaningFeeTax-field-label",
+      "class": "col-sm-5 col-xs-4 control-label",
+      "is_visible": true
+    }
+  ],
+  "form_structure": {
+    "address_field_candidates": 2,
+    "property_type_candidates": 1,
+    "save_button_candidates": 2
+  },
+  "screenshots": [
+    "C:\\Users\\User\\Desktop\\Spark QA tool face\\hunter-python\\FORM_DROPDOWN_OPENED.png",
+    "C:\\Users\\User\\Desktop\\Spark QA tool face\\hunter-python\\FORM_LOADED.png"
+  ]
+}

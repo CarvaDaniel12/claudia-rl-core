@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-11-10 02:01:24",
+  "url": "https://platform.test.hostfully.com/app/",
+  "selectors": {
+    "email": [
+      {
+        "type": "testid",
+        "value": "email",
+        "visible": true
+      },
+      {
+        "type": "name",
+        "value": "email",
+        "visible": true
+      },
+      {
+        "type": "css",
+        "value": "input[type=\"email\"]",
+        "visible": true
+      }
+    ],
+    "password": [
+      {
+        "type": "testid",
+        "value": "password",
+        "visible": true
+      },
+      {
+        "type": "name",
+        "value": "password",
+        "visible": true
+      },
+      {
+        "type": "css",
+        "value": "input[type=\"password\"]",
+        "visible": true
+      }
+    ],
+    "submit": [
+      {
+        "type": "css",
+        "value": "button[type=\"submit\"]",
+        "visible": true,
+        "enabled": true
+      }
+    ],
+    "post_login_anchor": [],
+    "spinner": []
+  },
+  "selector_counts": {
+    "email": 3,
+    "password": 3,
+    "submit": 1,
+    "post_login_anchor": 0,
+    "spinner": 0
+  }
+}

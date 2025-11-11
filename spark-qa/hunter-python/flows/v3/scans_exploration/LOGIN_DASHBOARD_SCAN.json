@@ -1,0 +1,3667 @@
+{
+  "timestamp": "2025-11-08 02:38:04",
+  "url": "https://platform.test.hostfully.com/app/#/dashboard",
+  "title": "Hostfully | Painel da Agência",
+  "buttons": [
+    {
+      "index": 0,
+      "text": "Adicionar lead",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+      "type": "button",
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 1,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 2,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 3,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 4,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 5,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 6,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 7,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 8,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 9,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 10,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 11,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 12,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 13,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 14,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 15,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 16,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 17,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 18,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 19,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 20,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 21,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 22,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 23,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 24,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 25,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 26,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 27,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 28,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 29,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 30,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 31,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 32,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 33,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 34,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 35,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 36,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 37,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 38,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 39,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 40,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 41,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 42,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 43,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 44,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 45,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 46,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 47,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 48,
+      "text": "Atribuir para mim",
+      "testid": "dashboard-lead-assignee-button",
+      "class": "sc-bwGlVi fSOwA-D",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    },
+    {
+      "index": 49,
+      "text": "Visualizar",
+      "testid": "lead-view-button",
+      "class": "sc-hwhrDX jBxCXm lead-view-button",
+      "type": null,
+      "disabled": null,
+      "visible": true
+    }
+  ],
+  "links": [
+    {
+      "index": 0,
+      "text": "Painel de Gerenciamento",
+      "href": "#/dashboard",
+      "testid": "nav-item-common.dashboard",
+      "class": "active",
+      "visible": true
+    },
+    {
+      "index": 1,
+      "text": "Caixa de Entrada\n661",
+      "href": "#/inbox",
+      "testid": "nav-item-common.inbox",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 2,
+      "text": "Pipeline",
+      "href": "#/pipeline",
+      "testid": "nav-item-common.pipeline",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 3,
+      "text": "Calendário",
+      "href": "#/calendar",
+      "testid": "nav-item-common.calendar",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 4,
+      "text": "Análise de dados",
+      "href": "#/analytics",
+      "testid": "nav-item-common.analytics",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 5,
+      "text": "gerenciadordeprop2",
+      "href": "#",
+      "testid": null,
+      "class": "dropdown-toggle",
+      "visible": true
+    },
+    {
+      "index": 19,
+      "text": "",
+      "href": "https://help.hostfully.com",
+      "testid": "navbar-help-icon",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 20,
+      "text": "",
+      "href": "#/dashboard",
+      "testid": "navbar-guest-experience-icon",
+      "class": "active",
+      "visible": true
+    },
+    {
+      "index": 21,
+      "text": "",
+      "href": "#/dashboard",
+      "testid": "navbar-hostfully-devices-icon",
+      "class": "active",
+      "visible": true
+    },
+    {
+      "index": 22,
+      "text": "",
+      "href": "#/account",
+      "testid": null,
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 23,
+      "text": "Analytics",
+      "href": "#/analytics",
+      "testid": "page-subtitle-guest-portal-link",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 24,
+      "text": "Nova",
+      "href": "#",
+      "testid": null,
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 25,
+      "text": "Entradas",
+      "href": "#",
+      "testid": null,
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 26,
+      "text": "Check-outs",
+      "href": "#",
+      "testid": null,
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 27,
+      "text": "12-timezoneTestBR->Flo",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 28,
+      "text": "3-timezone",
+      "href": "#/property/5674e956-b522-4ef9-9f16-494e3fda04ec",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 29,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 30,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 31,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 32,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 33,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 34,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 35,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 36,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 37,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 38,
+      "text": "4-timezone florida",
+      "href": "#/property/6a4c28e7-3021-4c3f-bb90-058f987da358",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 39,
+      "text": "4-timezone florida",
+      "href": "#/property/6a4c28e7-3021-4c3f-bb90-058f987da358",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 40,
+      "text": "MUnitFE290425",
+      "href": "#/property/9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+      "testid": "lead-hotel-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 41,
+      "text": "masterRoom",
+      "href": "#/property/30893d36-d696-4be9-b78e-38332508f887",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 42,
+      "text": "MUnitFE290425",
+      "href": "#/property/9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+      "testid": "lead-hotel-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 43,
+      "text": "masterRoom",
+      "href": "#/property/30893d36-d696-4be9-b78e-38332508f887",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 44,
+      "text": "MUnitFE290425",
+      "href": "#/property/9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+      "testid": "lead-hotel-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 45,
+      "text": "masterRoom",
+      "href": "#/property/30893d36-d696-4be9-b78e-38332508f887",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 46,
+      "text": "MUnitFE290425",
+      "href": "#/property/9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+      "testid": "lead-hotel-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 47,
+      "text": "masterRoom",
+      "href": "#/property/30893d36-d696-4be9-b78e-38332508f887",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 48,
+      "text": "MUnitFE290425",
+      "href": "#/property/9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+      "testid": "lead-hotel-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 49,
+      "text": "masterRoom",
+      "href": "#/property/30893d36-d696-4be9-b78e-38332508f887",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 50,
+      "text": "3-timezone",
+      "href": "#/property/5674e956-b522-4ef9-9f16-494e3fda04ec",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 51,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 52,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 53,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 54,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 55,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 56,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 57,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 58,
+      "text": "12-timezoneTestBR->Flo",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 59,
+      "text": "12-timezoneTestBR->Flo",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 60,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 61,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link",
+      "visible": true
+    },
+    {
+      "index": 62,
+      "text": "Termos de serviço",
+      "href": "https://www.hostfully.com/terms-of-service/",
+      "testid": "link-terms-of-service",
+      "class": "sc-cAXmzm cSjUXK",
+      "visible": true
+    },
+    {
+      "index": 63,
+      "text": "Política de Privacidade",
+      "href": "https://platform.hostfully.com/static/privacy.jsp",
+      "testid": "link-privacy-policy",
+      "class": "sc-cAXmzm cSjUXK",
+      "visible": true
+    },
+    {
+      "index": 64,
+      "text": "Opinião",
+      "href": "javascript:void(0)",
+      "testid": "link-feedback",
+      "class": "sc-cAXmzm cSjUXK",
+      "visible": true
+    }
+  ],
+  "inputs": [
+    {
+      "index": 0,
+      "type": "checkbox",
+      "name": null,
+      "placeholder": null,
+      "testid": "dashboard-hide-processed-leads-checkbox",
+      "id": "hideProcessedLeads",
+      "class": null,
+      "required": null,
+      "visible": true
+    }
+  ],
+  "selects": [],
+  "other_testids": [
+    {
+      "index": 6,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 8,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 10,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 11,
+      "tag": "div",
+      "testid": "app-page-child-content",
+      "text": "gerenciadordeprop2 Painel de Gerenciamento\nMétricas mostradas para este período do mês: November 202",
+      "class": "sc-WCcEW cMXVqI",
+      "visible": true
+    },
+    {
+      "index": 12,
+      "tag": "span",
+      "testid": "page-header-title",
+      "text": "gerenciadordeprop2 Painel de Gerenciamento",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 13,
+      "tag": "div",
+      "testid": "dashboard-analytics-cards-container",
+      "text": "Métricas mostradas para este período do mês: November 2025. Para obter detalhes completos sobre as m",
+      "class": "sc-hFbbzE fKcTjr row",
+      "visible": true
+    },
+    {
+      "index": 15,
+      "tag": "form",
+      "testid": "analytics-filter-form",
+      "text": "",
+      "class": "form-horizontal",
+      "visible": false
+    },
+    {
+      "index": 16,
+      "tag": "div",
+      "testid": "analytics-list-rentalRevenue",
+      "text": "Receita de aluguel\nUS$ 3,94 mil\n-18.2%",
+      "class": "sc-leQnM dBYjwb",
+      "visible": true
+    },
+    {
+      "index": 17,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 18,
+      "tag": "span",
+      "testid": "analytics-list-rentalRevenue-percentage",
+      "text": "-18.2%",
+      "class": "sc-kDrquE sc-kSsbVf gxIKDf eoYqQu",
+      "visible": true
+    },
+    {
+      "index": 19,
+      "tag": "div",
+      "testid": "analytics-list-nightsBooked",
+      "text": "Noites reservadas\n58\n+7.4%",
+      "class": "sc-leQnM jRxLZr",
+      "visible": true
+    },
+    {
+      "index": 20,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 21,
+      "tag": "span",
+      "testid": "analytics-list-nightsBooked-percentage",
+      "text": "+7.4%",
+      "class": "sc-kDrquE gxIKDf",
+      "visible": true
+    },
+    {
+      "index": 22,
+      "tag": "div",
+      "testid": "analytics-list-occupancyRate",
+      "text": "Taxa de ocupação\n2,44%\n+2.4%",
+      "class": "sc-leQnM jCYRDV",
+      "visible": true
+    },
+    {
+      "index": 23,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 24,
+      "tag": "span",
+      "testid": "analytics-list-occupancyRate-percentage",
+      "text": "+2.4%",
+      "class": "sc-kDrquE gxIKDf",
+      "visible": true
+    },
+    {
+      "index": 25,
+      "tag": "div",
+      "testid": "analytics-list-avgDailyRate",
+      "text": "Taxa diária média\nUS$ 68\n-23.8%",
+      "class": "sc-leQnM dlRGMi",
+      "visible": true
+    },
+    {
+      "index": 26,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 27,
+      "tag": "span",
+      "testid": "analytics-list-avgDailyRate-percentage",
+      "text": "-23.8%",
+      "class": "sc-kDrquE sc-kSsbVf gxIKDf eoYqQu",
+      "visible": true
+    },
+    {
+      "index": 28,
+      "tag": "div",
+      "testid": "analytics-list-revPar",
+      "text": "RevPar\nUS$ 2\n-22%",
+      "class": "sc-leQnM doIOQN",
+      "visible": true
+    },
+    {
+      "index": 29,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 30,
+      "tag": "span",
+      "testid": "analytics-list-revPar-percentage",
+      "text": "-22%",
+      "class": "sc-kDrquE sc-kSsbVf gxIKDf eoYqQu",
+      "visible": true
+    },
+    {
+      "index": 32,
+      "tag": "span",
+      "testid": "tooltip-container",
+      "text": "",
+      "class": "tooltip-container",
+      "visible": true
+    },
+    {
+      "index": 33,
+      "tag": "span",
+      "testid": "property-channel-widget-info",
+      "text": "",
+      "class": "glyphicon glyphicon-info-sign",
+      "visible": true
+    },
+    {
+      "index": 34,
+      "tag": "ul",
+      "testid": "dashboard-lead-list",
+      "text": "há 17 dias: reservado através da Vrbo\n\nUS$ 375\nDaniel Testid\n1\nadulto\n\nsáb., 26 de dez. de 2026 a sá",
+      "class": "sc-idnGQK ffrFXA",
+      "visible": true
+    },
+    {
+      "index": 35,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-8dba7994-44f0-4403-972e-55e6e8bbc36b",
+      "text": "há 17 dias: reservado através da Vrbo\n\nUS$ 375\nDaniel Testid\n1\nadulto\n\nsáb., 26 de dez. de 2026 a sá",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 36,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 17 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 38,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 375",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 39,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 40,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 41,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testid",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 42,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 43,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 26 de dez. de 2026 a sáb., 26 de dez. de 2026 ()",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 44,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "()",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 46,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 49,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-9e028319-7209-4c6b-8329-c60c32c96e07",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 375\nDaniel Testing Verbo Paid 15/10/25\n1\nadulto\n\nqua., 12",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 50,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 52,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 375",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 53,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 54,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 55,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Verbo Paid 15/10/25",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 56,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 57,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "qua., 12 de nov. a qua., 19 de nov. (7 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 58,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(7 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 60,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 63,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-8474513d-07a9-4ea4-a763-0e58131c37c1",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 375\nDaniel Testing Variables\n1\nadulto\n\nseg., 5 de abr. de",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 64,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 66,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 375",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 67,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 68,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 69,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 70,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 71,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "seg., 5 de abr. de 2027 a ter., 13 de abr. de 2027 (8 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 72,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(8 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 74,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 77,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-95e63249-e587-45fb-bdd6-18ed0e4b68c1",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 375\nDaniel Testing Variables\n1\nadulto\n\nsáb., 6 de mar. de",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 78,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 80,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 375",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 81,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 82,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 83,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 84,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 85,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 6 de mar. de 2027 a sáb., 13 de mar. de 2027 (7 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 86,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(7 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 88,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 91,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-546dd868-cb1f-458b-8b32-426992e15ba1",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 435\nDaniel Testing Variables\n1\nadulto\n\nseg., 1 de mar. de",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 92,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 94,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 435",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 95,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 435",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 96,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 97,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 98,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 99,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "seg., 1 de mar. de 2027 a sex., 5 de mar. de 2027 (4 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 100,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(4 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 102,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 105,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-43becda8-a225-4ec2-8501-4e90182c4fde",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 435\nDaniel Testing Variables\n1\nadulto\n\nsáb., 20 de mar. d",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 106,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 108,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 435",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 109,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 435",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 110,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 111,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 112,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 113,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 20 de mar. de 2027 a dom., 28 de mar. de 2027 (8 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 114,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(8 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 116,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 119,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-864b1f15-1a48-49b0-bf17-fd40d7ed062f",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 435\nDaniel Testing Variables\n1\nadulto\n\nsáb., 20 de fev. d",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 120,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 122,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 435",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 123,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 435",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 124,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 125,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 126,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 127,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 20 de fev. de 2027 a dom., 28 de fev. de 2027 (8 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 128,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(8 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 130,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 133,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-f537978e-d75f-462c-aa13-395aba130a13",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 435\nDaniel Testing Variables\n1\nadulto\n\nsáb., 20 de nov. d",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 134,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 136,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 435",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 137,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 435",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 138,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 139,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 140,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 141,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 20 de nov. de 2027 a seg., 29 de nov. de 2027 (9 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 142,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(9 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 144,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 147,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-87d7d2c9-4a81-4433-85ce-99a5d916f886",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 580\nSev4-1 Pmp-13697\n1\nadulto\n\nqui., 24 de jul. a sáb., 2",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 148,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 150,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 580",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 151,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 580",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 152,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 153,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Sev4-1 Pmp-13697",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 154,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 155,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "qui., 24 de jul. a sáb., 26 de jul. (2 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 156,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(2 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 158,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 161,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-18fd6e81-7be1-45eb-b41e-fa23430fecea",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 580\nStripe-Should Be Unpaid-Test Pmp-13749\n1\nadulto\n\nter.",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 162,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 164,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 580",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 165,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 580",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 166,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 167,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Stripe-Should Be Unpaid-Test Pmp-13749",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 168,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 169,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "ter., 24 de nov. de 2026 a dom., 29 de nov. de 2026 (5 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 170,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(5 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 172,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 175,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-8963188c-7a18-49a6-984b-5905998c09c2",
+      "text": "há 24 dias: reservado através da Vrbo\n\nUS$ 580\nStripe-Should Be Unpaid-Test Pmp-13749\n1\nadulto\n\nseg.",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 176,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 24 dias: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 178,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 580",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 179,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 580",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 180,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 181,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Stripe-Should Be Unpaid-Test Pmp-13749",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 182,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 183,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "seg., 24 de nov. a sáb., 29 de nov. (5 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 184,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(5 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 186,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 189,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-84a346af-fd52-4148-8329-176be103f315",
+      "text": "há 25 dias: reservado através da Hostfully\n\nUS$ 1.000\ndaniel@hostfully.com\n1\nadulto\n\nqua., 15 de out",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 190,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 25 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 192,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 1.000",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 193,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 1.000",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 194,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 195,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 196,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 197,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "qua., 15 de out. a sáb., 25 de out. (10 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 198,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(10 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 200,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 201,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 203,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-09d98be0-487a-4062-9a8b-f1d4297e1aac",
+      "text": "há 25 dias: reservado através da Hostfully\n\nUS$ 1.520\ndaniel@hostfully.com\n1\nadulto\n\nsáb., 1 de nov.",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 204,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 25 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 206,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 1.520",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 207,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 1.520",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 208,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 209,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 210,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 211,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 1 de nov. a sáb., 15 de nov. (14 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 212,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(14 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 214,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 215,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 217,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-1729b766-93db-4d14-957d-f95009c0be5f",
+      "text": "há 25 dias: reservado através da Hostfully\n\nUS$ 300\ndaniel@hostfully.com\n1\nadulto\n\nsex., 28 de nov. ",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 218,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 25 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 220,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 300",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 221,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 300",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 222,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 223,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 224,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 225,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sex., 28 de nov. a seg., 1 de dez. (3 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 226,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(3 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 229,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 230,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 232,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-5819c23e-96a4-4d16-b009-10f67b7efb4f",
+      "text": "há 25 dias: reservado através da Hostfully\n\nUS$ 500\ndaniel@hostfully.com\n1\nadulto\n\nqui., 20 de nov. ",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 233,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 25 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 235,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 500",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 236,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 500",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 237,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 238,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 239,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 240,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "qui., 20 de nov. a ter., 25 de nov. (5 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 241,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(5 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 244,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 245,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 247,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-ea2e62d2-08f7-4f22-856b-6d25dba4b1ca",
+      "text": "há 25 dias: reservado através da Hostfully\n\nUS$ 500\ndaniel@hostfully.com\n1\nadulto\n\nseg., 10 de nov. ",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 248,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 25 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 250,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 500",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 251,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 500",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 252,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 253,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 254,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 255,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "seg., 10 de nov. a sáb., 15 de nov. (5 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 256,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(5 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 259,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 260,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 262,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-13eebf48-fa39-409a-982d-4c33873e3a0c",
+      "text": "há 25 dias: reservado através da Hostfully\n\nUS$ 495\ndaniel+PMP@hostfully.com\n1\nadulto\n\nsex., 17 de o",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 263,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 25 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 265,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 495",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 266,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 495",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 267,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 268,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel+PMP@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 269,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 270,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sex., 17 de out. a seg., 20 de out. (3 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 271,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(3 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 274,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 275,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 277,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-406dd219-ad2e-4af3-94c9-fe0728c748e5",
+      "text": "há 25 dias: reservado através da Hostfully\n\nUS$ 395\ndaniel+PMP@hostfully.com\n1\nadulto\n\nsáb., 18 de o",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 278,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 25 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 280,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 395",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 281,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 395",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 282,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 283,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel+PMP@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 284,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 285,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 18 de out. a seg., 20 de out. (2 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 286,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(2 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 289,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 290,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 292,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-b8f5d417-a542-4b18-871d-c9e1361d6dea",
+      "text": "há 28 dias: reservado através da Hostfully\n\nR$ 28.695\ndaniel+PMP@hostfully.com\n1\nadulto\n\nsáb., 11 de",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 293,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 28 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 295,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "R$ 28.695",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 296,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "R$ 28.695",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 297,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 298,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel+PMP@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 299,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 300,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sáb., 11 de out. a qui., 30 de out. (19 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 301,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(19 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 303,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 304,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 306,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-44b82369-0875-4212-b1ca-a4ab1dde6c42",
+      "text": "há 28 dias: reservado através da Hostfully\n\nUS$ 1.035\ndaniel+PMP@hostfully.com\n1\nadulto\n\nseg., 10 de",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 307,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há 28 dias: reservado através da Hostfully",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 309,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 1.035",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 310,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 1.035",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 311,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 312,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "daniel+PMP@hostfully.com",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 313,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 314,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "seg., 10 de nov. a seg., 24 de nov. (14 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 315,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(14 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 317,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 318,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 320,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-d7f91cef-a5b7-493f-85af-94b34c12d752",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 2.711\nRequest_test Test\n1\nadulto\n\nsex., 24 ",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 321,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 323,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 2.711",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 324,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 2.711",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 325,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 326,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Request_test Test",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 327,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 328,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sex., 24 de out. a qui., 30 de out. (6 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 329,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(6 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 331,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 332,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 334,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-3e7f2c7e-e559-43d6-bbfb-d54637a6ad79",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 2.711\nRequest_test Test\n1\nadulto\n\nqua., 24 ",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 335,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 337,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 2.711",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 338,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 2.711",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 339,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 340,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Request_test Test",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 341,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 342,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "qua., 24 de set. a ter., 30 de set. (6 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 343,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(6 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 345,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Visualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 346,
+      "tag": "img",
+      "testid": "dashboard-lead-assignee-picture",
+      "text": "",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 348,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-d034c045-3d78-4ff7-ad68-88aa1b109519",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 2.711\nRequest_test Test\n1\nadulto\n\nseg., 15 ",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 349,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 351,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 2.711",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 352,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 2.711",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 353,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 354,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Request_test Test",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 355,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 356,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "seg., 15 de jun. de 2026 a ter., 23 de jun. de 2026 (8 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 357,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(8 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 359,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 362,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-365599e0-bd00-4af5-9df7-5291990978b4",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 2.711\nMax_stay_2_days Test\n1\nadulto\n\nsex., ",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 363,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 365,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 2.711",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 366,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 2.711",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 367,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 368,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Max_stay_2_days Test",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 369,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 370,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sex., 5 de jun. de 2026 a sex., 12 de jun. de 2026 (7 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 371,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(7 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 373,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 376,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-736f8134-3fcd-4a02-9457-9ab45e29db33",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 1.100\nMateusz Guest230228.1\n1\nadulto\n\nsex.,",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 377,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 379,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 1.100",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 380,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 1.100",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 381,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 382,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Mateusz Guest230228.1",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 383,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 384,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "sex., 13 de mar. de 2026 a dom., 22 de mar. de 2026 (9 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 385,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(9 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 387,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 390,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-5072db29-cd37-4390-95d9-e27c88805ae8",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 1.100\nMateusz Guest230228.1\n1\nadulto\n\nseg.,",
+      "class": "sc-frWhYi doVmxG",
+      "visible": true
+    },
+    {
+      "index": 391,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 393,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 1.100",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 394,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 1.100",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 395,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 396,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Mateusz Guest230228.1",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 397,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 398,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "seg., 13 de mar. de 2023 a qua., 15 de mar. de 2023 (2 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 399,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(2 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 401,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 404,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-67ac8e48-8253-4c6c-96ad-282588513301",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 2.711\nMax_stay_2_days Test\n1\nadulto\n\nter., ",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 405,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 407,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 2.711",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 408,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 2.711",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 409,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 410,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Max_stay_2_days Test",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 411,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 412,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "ter., 5 de mai. de 2026 a qui., 7 de mai. de 2026 (2 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 413,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(2 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 415,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 418,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-04858fcd-558b-4f21-9ec7-20466d8e59bf",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 2.711\nMax_stay_2_days Test\n1\nadulto\n\nter., ",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 419,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 421,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 2.711",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 422,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 2.711",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 423,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 424,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Max_stay_2_days Test",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 425,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 426,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "ter., 10 de mar. de 2026 a qui., 12 de mar. de 2026 (2 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 427,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(2 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 429,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 432,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-1b6d7af3-b5cc-4f84-b55e-a3a4209969fb",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 580\nStripe-Should Be Paid-Test 250925 Pmp-1",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 433,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 435,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 580",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 436,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 580",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 437,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 438,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Stripe-Should Be Paid-Test 250925 Pmp-13749",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 439,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 440,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "qui., 24 de dez. de 2026 a ter., 29 de dez. de 2026 (5 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 441,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(5 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 443,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 446,
+      "tag": "div",
+      "testid": "dashboard-lead-uid-e3ee2fd0-ba77-4648-beaa-8e5857ba818a",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo\n\nUS$ 580\nStripe-Should Be Paid-Test 250925 Pmp-1",
+      "class": "sc-frWhYi bgEjVj",
+      "visible": true
+    },
+    {
+      "index": 447,
+      "tag": "p",
+      "testid": "dashboard-lead-header-new-mode",
+      "text": "há aproximadamente 1 mês: reservado através da Vrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 449,
+      "tag": "div",
+      "testid": "dashboard-lead-tags-container",
+      "text": "US$ 580",
+      "class": "sc-eBfVOF delVcC",
+      "visible": true
+    },
+    {
+      "index": 450,
+      "tag": "div",
+      "testid": "lead-price-tag",
+      "text": "US$ 580",
+      "class": "sc-ksCcjW gLHHpL",
+      "visible": true
+    },
+    {
+      "index": 451,
+      "tag": "div",
+      "testid": "lead-property-image",
+      "text": "",
+      "class": "sc-bDpDS kkRZwW",
+      "visible": true
+    },
+    {
+      "index": 452,
+      "tag": "span",
+      "testid": "lead-guest-name",
+      "text": "Stripe-Should Be Paid-Test 250925 Pmp-13749",
+      "class": "sc-fMMURN iUgaGK",
+      "visible": true
+    },
+    {
+      "index": 453,
+      "tag": "div",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 454,
+      "tag": "p",
+      "testid": "lead-date-details",
+      "text": "ter., 24 de nov. de 2026 a dom., 29 de nov. de 2026 (5 noites)",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 455,
+      "tag": "span",
+      "testid": "lead-night-count",
+      "text": "(5 noites)",
+      "class": "sc-YysOf jTACsi",
+      "visible": true
+    },
+    {
+      "index": 457,
+      "tag": "div",
+      "testid": "dashboard-lead-action-container",
+      "text": "Atribuir para mim\nVisualizar",
+      "class": "sc-fnLEGM hRxYZn",
+      "visible": true
+    },
+    {
+      "index": 460,
+      "tag": "div",
+      "testid": "channelPieChart-container",
+      "text": "Receita por fonte\n\nHostfully\n\nVrbo",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 461,
+      "tag": "p",
+      "testid": "channel-legend-wrapper",
+      "text": "Hostfully",
+      "class": "sc-fDinKg izaumC",
+      "visible": true
+    },
+    {
+      "index": 462,
+      "tag": "p",
+      "testid": "channel-legend-wrapper",
+      "text": "Vrbo",
+      "class": "sc-fDinKg coCkdT",
+      "visible": true
+    },
+    {
+      "index": 463,
+      "tag": "div",
+      "testid": "revParPieChart-container",
+      "text": "RevPar por propriedade\n\n4-timezone florida\n\n1-timezone(early)\n\nmasterRoom\n\n3-timezone\n\nOutros",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 464,
+      "tag": "p",
+      "testid": "channel-legend-wrapper",
+      "text": "4-timezone florida",
+      "class": "sc-fDinKg hOMdhV",
+      "visible": true
+    },
+    {
+      "index": 465,
+      "tag": "p",
+      "testid": "channel-legend-wrapper",
+      "text": "1-timezone(early)",
+      "class": "sc-fDinKg kliwtw",
+      "visible": true
+    },
+    {
+      "index": 466,
+      "tag": "p",
+      "testid": "channel-legend-wrapper",
+      "text": "masterRoom",
+      "class": "sc-fDinKg iSKAJc",
+      "visible": true
+    },
+    {
+      "index": 467,
+      "tag": "p",
+      "testid": "channel-legend-wrapper",
+      "text": "3-timezone",
+      "class": "sc-fDinKg fVWLfy",
+      "visible": true
+    },
+    {
+      "index": 468,
+      "tag": "p",
+      "testid": "channel-legend-wrapper",
+      "text": "Outros",
+      "class": "sc-fDinKg fqCHhv",
+      "visible": true
+    },
+    {
+      "index": 469,
+      "tag": "div",
+      "testid": "app-page-content-footer",
+      "text": "2025 Hostfully © Todos os direitos reservados\nTermos de serviço | Política de Privacidade | Opinião",
+      "class": "sc-geEwSt kQBLob",
+      "visible": true
+    },
+    {
+      "index": 470,
+      "tag": "span",
+      "testid": "copyright-notice",
+      "text": "2025 Hostfully © Todos os direitos reservados",
+      "class": null,
+      "visible": true
+    }
+  ]
+}

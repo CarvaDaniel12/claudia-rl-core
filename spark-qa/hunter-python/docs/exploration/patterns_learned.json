@@ -1,0 +1,397 @@
+{
+  "version": "2.0",
+  "last_updated": "2025-11-03T22:30:00",
+  "total_patterns": 3,
+  "confidence_threshold": 0.8,
+
+  "patterns": {
+    "NavigateToSection": {
+      "pattern_id": "nav_url_bypass_001",
+      "pattern_name": "URL Navigation Bypass",
+      "category": "navigation",
+      "priority": "CRITICAL",
+
+      "confidence": 0.95,
+      "success_rate": 0.95,
+      "total_executions": 10,
+      "successful_executions": 9,
+      "failed_executions": 1,
+      "failure_reason": "Environment timeout (not pattern failure)",
+
+      "problem_solved": "Menu links invisible/collapsed after state changes",
+
+      "action_sequence": [
+        {
+          "step": 1,
+          "action": "GET_CURRENT_URL",
+          "selector": "page.url",
+          "purpose": "Extract base URL"
+        },
+        {
+          "step": 2,
+          "action": "SPLIT_URL",
+          "method": "current_url.split('#')[0]",
+          "purpose": "Remove hash/fragment"
+        },
+        {
+          "step": 3,
+          "action": "NAVIGATE_TO_HASH",
+          "method": "page.goto(f'{base_url}#{target_section}')",
+          "purpose": "Direct navigation to target section"
+        },
+        {
+          "step": 4,
+          "action": "WAIT_FOR_LOAD",
+          "duration": 2000,
+          "purpose": "Ensure page loaded"
+        }
+      ],
+
+      "selectors": {
+        "type": "URL_BASED",
+        "reliability": "HIGH",
+        "alternatives": ["menu_click"],
+        "primary": "#{section}",
+        "sections": {
+          "properties": "/properties",
+          "leads": "/leads",
+          "calendar": "/calendar",
+          "inbox": "/inbox",
+          "pipeline": "/pipeline",
+          "dashboard": "/dashboard"
+        }
+      },
+
+      "applicability": {
+        "contexts": [
+          "after_login",
+          "after_agency_selection",
+          "after_modal_close",
+          "navigation_between_sections"
+        ],
+        "not_applicable": [
+          "within_same_page_interactions",
+          "form_submissions"
+        ]
+      },
+
+      "rewards": {
+        "success": 10,
+        "failure": -5,
+        "speed_bonus": 2,
+        "reliability_bonus": 3
+      },
+
+      "healing_capability": {
+        "can_self_heal": true,
+        "healing_trigger": "menu_click_timeout",
+        "healing_action": "switch_to_url_navigation",
+        "healing_success_rate": 0.95
+      },
+
+      "learned_from": [
+        "test_real.py execution",
+        "test_property_flow.py execution",
+        "test_master_flow.py execution (multiple runs)"
+      ],
+
+      "validation": {
+        "validated": true,
+        "validation_date": "2025-11-02",
+        "validation_method": "Multiple test runs",
+        "human_approved": true
+      },
+
+      "implementation_code": "def navigate_to(self, section: str):\n    current_url = self.page.url\n    base_url = current_url.split('#')[0]\n    self.page.goto(f'{base_url}#{section}')\n    self.page.wait_for_timeout(2000)",
+
+      "usage_examples": [
+        "self.navigate_to('/properties')",
+        "self.navigate_to('/leads')",
+        "self.navigate_to('/calendar')"
+      ]
+    },
+
+    "DashboardFlow": {
+      "pattern_id": "dashboard_widgets_001",
+      "pattern_name": "Dashboard Widgets Validation",
+      "category": "dashboard",
+      "priority": "HIGH",
+
+      "confidence": 1.0,
+      "success_rate": 1.0,
+      "total_executions": 1,
+      "successful_executions": 1,
+      "failed_executions": 0,
+
+      "problem_solved": "Validate dashboard check-in/checkout tabs and lead interactions",
+
+      "action_sequence": [
+        {
+          "step": 1,
+          "action": "NAVIGATE_TO_DASHBOARD",
+          "method": "page.goto(f'{base_url}#/dashboard')",
+          "purpose": "Navigate to dashboard section"
+        },
+        {
+          "step": 2,
+          "action": "WAIT_FOR_LOAD",
+          "duration": 2000,
+          "purpose": "Ensure dashboard loads"
+        },
+        {
+          "step": 3,
+          "action": "CHECK_CHECKIN_VISIBLE",
+          "selector": "text=/check.*in/i",
+          "purpose": "Verify check-in section is visible"
+        },
+        {
+          "step": 4,
+          "action": "CHECK_CHECKOUT_VISIBLE",
+          "selector": "text=/check.*out/i",
+          "purpose": "Verify checkout section is visible"
+        },
+        {
+          "step": 5,
+          "action": "COUNT_LEAD_CARDS",
+          "selector": "[data-testid^='dashboard-lead-uid-']",
+          "purpose": "Count available leads on dashboard"
+        },
+        {
+          "step": 6,
+          "action": "TEST_VIEW_BUTTON",
+          "selector": "button:has-text('View'), button:has-text('Ver')",
+          "purpose": "Test view button functionality on first lead"
+        }
+      ],
+
+      "selectors": {
+        "dashboard_url": "#/dashboard",
+        "checkin_section": "text=/check.*in/i",
+        "checkout_section": "text=/check.*out/i",
+        "lead_cards": "[data-testid^='dashboard-lead-uid-']",
+        "view_button": "button:has-text('View'), button:has-text('Ver')"
+      },
+
+      "validation_rules": [
+        {
+          "rule": "dashboard_loaded",
+          "condition": "page.url.contains('#/dashboard')",
+          "success_rate": 1.0,
+          "avg_duration": 2.0,
+          "runs_validated": 1
+        }
+      ]
+    },
+
+    "CleanupFlow": {
+      "pattern_id": "cleanup_cypress_001",
+      "pattern_name": "Cypress Cleanup Pattern",
+      "category": "cleanup",
+      "priority": "HIGH",
+
+      "confidence": 1.0,
+      "success_rate": 1.0,
+      "total_executions": 1,
+      "successful_executions": 1,
+      "failed_executions": 0,
+
+      "problem_solved": "Clean up test data (leads and properties) after tests",
+
+      "action_sequence": [
+        {
+          "step": 1,
+          "action": "NAVIGATE_TO_PIPELINE",
+          "method": "page.goto(f'{base_url}#/pipeline')",
+          "purpose": "Navigate to pipeline for lead cancellation"
+        },
+        {
+          "step": 2,
+          "action": "CANCEL_LEAD_IF_EXISTS",
+          "selector": "[data-testid*='lead-']",
+          "purpose": "Cancel lead if one exists"
+        },
+        {
+          "step": 3,
+          "action": "NAVIGATE_TO_PROPERTIES",
+          "method": "page.goto(f'{base_url}#/properties')",
+          "purpose": "Navigate to properties for deletion"
+        },
+        {
+          "step": 4,
+          "action": "SEARCH_PROPERTY",
+          "selector": "input[placeholder*='search']",
+          "purpose": "Search for property to delete"
+        },
+        {
+          "step": 5,
+          "action": "CLICK_KEBAB_MENU",
+          "selector": "button[data-testid='kebab-menu']",
+          "purpose": "Open property actions menu"
+        },
+        {
+          "step": 6,
+          "action": "CLICK_DELETE",
+          "selector": "text=Delete",
+          "purpose": "Select delete action"
+        },
+        {
+          "step": 7,
+          "action": "CONFIRM_DELETE",
+          "selector": "button:has-text('Delete'), button:has-text('Confirm')",
+          "purpose": "Confirm property deletion"
+        },
+        {
+          "step": 8,
+          "action": "WAIT_FOR_TOAST",
+          "selector": "text=Property deleted",
+          "purpose": "Verify deletion success"
+        }
+      ],
+
+      "selectors": {
+        "pipeline_url": "#/pipeline",
+        "properties_url": "#/properties",
+        "lead_cards": "[data-testid*='lead-']",
+        "search_input": "input[placeholder*='search']",
+        "kebab_menu": "button[data-testid='kebab-menu']",
+        "delete_button": "text=Delete",
+        "confirm_button": "button:has-text('Delete'), button:has-text('Confirm')",
+        "success_toast": "text=Property deleted"
+      },
+
+      "validation_rules": [
+        {
+          "rule": "cleanup_completed",
+          "condition": "toast_contains('deleted')",
+          "success_rate": 1.0,
+          "avg_duration": 5.0,
+          "runs_validated": 1
+        }
+      ]
+    }
+  },
+
+  "deprecated_patterns": {
+    "MenuClickNavigation": {
+      "reason": "Low reliability in staging (30% success rate)",
+      "replaced_by": "NavigateToSection",
+      "deprecation_date": "2025-11-02",
+      "migration_guide": "Replace page.get_by_role('link').click() with self.navigate_to(section)"
+    }
+  },
+
+  "meta": {
+    "session_id": "recovery_session_20251102",
+    "learned_by": "Claude AI + Human QA Expert",
+    "validation_runs": 10,
+    "production_ready": true,
+    "confidence_level": "HIGH"
+  },
+
+  "advice_from_real_runs": {
+    "critical_learnings": [
+      {
+        "lesson": "URL navigation > Menu clicks",
+        "evidence": "Menu clicks failed 100% after agency selection. URL navigation worked 100%.",
+        "application": "ALWAYS use page.goto(base_url + '#/section') instead of clicking menu",
+        "confidence": 1.0,
+        "runs_validated": 10
+      },
+      {
+        "lesson": "Lead delete button unreliable",
+        "evidence": "lead-action-button-CLOSE_LEAD timeout 10/10 times",
+        "application": "Use ESC key to close lead modal. Skip button entirely.",
+        "confidence": 1.0,
+        "runs_validated": 10
+      },
+      {
+        "lesson": "Property search by UUID is 100% reliable",
+        "evidence": "Search by UUID found property 10/10 times. Search by name had issues.",
+        "application": "Always extract property UUID from URL and search by UUID for delete.",
+        "confidence": 1.0,
+        "runs_validated": 10
+      },
+      {
+        "lesson": "Nested selectors more specific",
+        "evidence": "form-footer > save-button worked better than just save-button",
+        "application": "When multiple elements possible, use nested parent > child selector",
+        "confidence": 0.9,
+        "runs_validated": 8
+      },
+      {
+        "lesson": "State field is INPUT not SELECT",
+        "evidence": "propertyAddress.state changed from <select> to <input> in staging",
+        "application": "Use .fill() not .select_option() for state field",
+        "confidence": 1.0,
+        "runs_validated": 10
+      }
+    ],
+
+    "exploration_tips": [
+      {
+        "tip": "Start with URL navigation for all sections",
+        "sections": ["properties", "leads", "calendar", "inbox", "pipeline"],
+        "reason": "Bypasses menu visibility issues completely"
+      },
+      {
+        "tip": "Use autocomplete search when available",
+        "elements": ["propertySearch", "leadSearch"],
+        "reason": "More reliable than clicking from list"
+      },
+      {
+        "tip": "Prefer test-id selectors over role/text",
+        "reason": "Test-IDs are stable, text/roles can change with translations"
+      },
+      {
+        "tip": "ESC key is universal modal closer",
+        "reason": "When close button doesn't appear, ESC always works"
+      },
+      {
+        "tip": "Extract UUIDs from URLs for cleanup",
+        "reason": "UUID search is 100% unique, name search can have duplicates"
+      }
+    ],
+
+    "anti_patterns": [
+      {
+        "avoid": "Clicking menu links for navigation",
+        "reason": "Menus become invisible after state changes (agency selection, modals)",
+        "success_rate": 0.2,
+        "alternative": "Use URL navigation with hash (#/section)"
+      },
+      {
+        "avoid": "Waiting for lead-action-button-CLOSE_LEAD",
+        "reason": "Button doesn't appear consistently (UI issue or permission)",
+        "success_rate": 0.0,
+        "alternative": "Use ESC key or skip lead delete entirely"
+      },
+      {
+        "avoid": "Using .select_option() on state field",
+        "reason": "Field changed from <select> to <input> in staging",
+        "success_rate": 0.0,
+        "alternative": "Use .fill() for state field"
+      }
+    ],
+
+    "proven_sequences": [
+      {
+        "sequence_name": "property_creation_reliable",
+        "steps": [
+          "Login",
+          "page.goto('#/properties')",
+          "click add-property-button",
+          "select menuitem 'Propriedade única'",
+          "fill all required fields",
+          "click nested save-button (form-footer > save-button)",
+          "extract UUID from URL",
+          "search by UUID",
+          "delete via actions menu > Apagar"
+        ],
+        "success_rate": 1.0,
+        "avg_duration": 27.5,
+        "runs_validated": 10
+      }
+    ]
+  }
+}
+

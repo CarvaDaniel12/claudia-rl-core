@@ -1,0 +1,465 @@
+{
+  "timestamp": "2025-11-10 00:36:27",
+  "modal_name": "Property Fee/Tax Add Modal",
+  "elements": {
+    "inputs": [
+      {
+        "testid": "name",
+        "id": "name",
+        "name": "name",
+        "type": null,
+        "placeholder": null,
+        "value": null
+      },
+      {
+        "testid": "amount",
+        "id": "amount",
+        "name": "amount",
+        "type": null,
+        "placeholder": null,
+        "value": null
+      },
+      {
+        "testid": "fee.taxationRate",
+        "id": "fee.taxationRate",
+        "name": "fee.taxationRate",
+        "type": "number",
+        "placeholder": null,
+        "value": "0"
+      },
+      {
+        "testid": null,
+        "id": "appliesTo-allProperties",
+        "name": "appliesTo",
+        "type": "radio",
+        "placeholder": null,
+        "value": "ALL_PROPERTIES"
+      },
+      {
+        "testid": null,
+        "id": "appliesTo-selectedProperties",
+        "name": "appliesTo",
+        "type": "radio",
+        "placeholder": null,
+        "value": "SELECTED_PROPERTIES"
+      },
+      {
+        "testid": "appliesToHostfully",
+        "id": "appliesToHostfully-NO",
+        "name": "appliesToHostfully",
+        "type": "radio",
+        "placeholder": null,
+        "value": "NO"
+      },
+      {
+        "testid": "appliesToHostfully",
+        "id": "appliesToHostfully-YES",
+        "name": "appliesToHostfully",
+        "type": "radio",
+        "placeholder": null,
+        "value": "YES"
+      }
+    ],
+    "buttons": [
+      {
+        "testid": null,
+        "text": "×\nClose",
+        "disabled": false
+      },
+      {
+        "testid": "filter-icon",
+        "text": null,
+        "disabled": false
+      },
+      {
+        "testid": "modal-form-cancel-button",
+        "text": "Cancelar",
+        "disabled": false
+      },
+      {
+        "testid": "modal-form-submit-button",
+        "text": "Salvar",
+        "disabled": true
+      }
+    ],
+    "selects": [
+      {
+        "testid": "type",
+        "name": "type",
+        "options": [
+          {
+            "value": "CUSTOM",
+            "text": "Taxa"
+          },
+          {
+            "value": "TAX",
+            "text": "Imposto"
+          }
+        ]
+      },
+      {
+        "testid": "amountType",
+        "name": "amountType",
+        "options": [
+          {
+            "value": "AMOUNT",
+            "text": "USD"
+          },
+          {
+            "value": "TAX",
+            "text": "%"
+          }
+        ]
+      },
+      {
+        "testid": "scope.amount",
+        "name": "scope.amount",
+        "options": [
+          {
+            "value": "PER_STAY",
+            "text": "Por estadia"
+          },
+          {
+            "value": "PER_NIGHT",
+            "text": "Por noite"
+          },
+          {
+            "value": "PER_GUEST",
+            "text": "Por hóspede"
+          },
+          {
+            "value": "PER_GUEST_PER_NIGHT",
+            "text": "Por hóspede por noite"
+          },
+          {
+            "value": "PER_PET",
+            "text": "Por animal de estimação"
+          },
+          {
+            "value": "PER_PET_PER_NIGHT",
+            "text": "Por animal de estimação por noite"
+          }
+        ]
+      },
+      {
+        "testid": "airbnbMappingType",
+        "name": "airbnbMappingType",
+        "options": [
+          {
+            "value": "",
+            "text": "Por favor selecione"
+          },
+          {
+            "value": "PASS_THROUGH_COMMUNITY_FEE",
+            "text": "Taxa comunitária"
+          },
+          {
+            "value": "PASS_THROUGH_MANAGEMENT_FEE",
+            "text": "Taxa de Administração"
+          },
+          {
+            "value": "PASS_THROUGH_WATER_FEE",
+            "text": "Taxa de Água"
+          },
+          {
+            "value": "PASS_THROUGH_PET_FEE",
+            "text": "Taxa de animal de estimação"
+          },
+          {
+            "value": "PASS_THROUGH_HEATING_FEE",
+            "text": "Taxa de aquecimento"
+          },
+          {
+            "value": "PASS_THROUGH_AIR_CONDITIONING_FEE",
+            "text": "Taxa de ar condicionado"
+          },
+          {
+            "value": "PASS_THROUGH_ELECTRICITY_FEE",
+            "text": "Taxa de eletricidade"
+          },
+          {
+            "value": "PASS_THROUGH_CLEANING_FEE",
+            "text": "Taxa de Limpeza"
+          },
+          {
+            "value": "PASS_THROUGH_SHORT_TERM_CLEANING_FEE",
+            "text": "Taxa de limpeza de curto prazo"
+          },
+          {
+            "value": "PASS_THROUGH_LINEN_FEE",
+            "text": "Taxa de linho"
+          },
+          {
+            "value": "PASS_THROUGH_RESORT_FEE",
+            "text": "Taxa de resort"
+          },
+          {
+            "value": "PASS_THROUGH_UTILITY_FEE",
+            "text": "Taxa de utilidade"
+          }
+        ]
+      },
+      {
+        "testid": "vrboMappingType",
+        "name": "vrboMappingType",
+        "options": [
+          {
+            "value": "",
+            "text": "Por favor selecione"
+          },
+          {
+            "value": "ADMINISTRATIVE",
+            "text": "Administrativo"
+          },
+          {
+            "value": "WATER",
+            "text": "Água"
+          },
+          {
+            "value": "WATER_DRINKING",
+            "text": "Água potável"
+          },
+          {
+            "value": "RENT",
+            "text": "Aluguel"
+          },
+          {
+            "value": "WATER_CRAFT_MOORING",
+            "text": "Amarração de embarcações aquáticas"
+          },
+          {
+            "value": "HEATING",
+            "text": "Aquecimento"
+          },
+          {
+            "value": "POOL_HEATING",
+            "text": "Aquecimento de piscina"
+          },
+          {
+            "value": "AIR_CONDITIONING",
+            "text": "Ar condicionado"
+          },
+          {
+            "value": "CLASS",
+            "text": "Aula"
+          },
+          {
+            "value": "RESORT",
+            "text": "Balneário"
+          },
+          {
+            "value": "SPA",
+            "text": "Balneário"
+          },
+          {
+            "value": "PET",
+            "text": "Bicho de estimação"
+          },
+          {
+            "value": "HIGH_CHAIR",
+            "text": "Cadeira alta"
+          },
+          {
+            "value": "ADDITIONAL_BED",
+            "text": "Cama adicional"
+          },
+          {
+            "value": "BABY_BED",
+            "text": "Cama de bebê"
+          },
+          {
+            "value": "ARRIVAL_EARLY",
+            "text": "Chegada antecipada"
+          },
+          {
+            "value": "CLUB",
+            "text": "Clube"
+          },
+          {
+            "value": "FOOD",
+            "text": "Comida"
+          },
+          {
+            "value": "CONCIERGE",
+            "text": "Concierge"
+          }
+        ]
+      },
+      {
+        "testid": "bookingMappingType",
+        "name": "bookingMappingType",
+        "options": [
+          {
+            "value": "",
+            "text": "Por favor selecione"
+          },
+          {
+            "value": "CITY_TAX",
+            "text": "City Tax"
+          },
+          {
+            "value": "SPA_TAX",
+            "text": "Imposto de Spa"
+          },
+          {
+            "value": "GOVERNMENT_TAX",
+            "text": "Imposto do Governo"
+          },
+          {
+            "value": "LOCAL_COUNCIL_TAX",
+            "text": "Imposto Municipal Local"
+          },
+          {
+            "value": "RESIDENTIAL_TAX",
+            "text": "Imposto Residencial"
+          },
+          {
+            "value": "GOODS_AND_SERVICES_TAX",
+            "text": "Imposto sobre bens e serviços"
+          },
+          {
+            "value": "HOT_SPRING_TAX",
+            "text": "Imposto sobre fontes termais"
+          },
+          {
+            "value": "SAUNA_FITNESS_FACILITIES_TAX",
+            "text": "Imposto sobre instalações de sauna/fitness"
+          },
+          {
+            "value": "WATER_FEE",
+            "text": "Taxa de Água"
+          },
+          {
+            "value": "PETS_FEE",
+            "text": "Taxa de animais de estimação"
+          },
+          {
+            "value": "HEATING_FEE",
+            "text": "Taxa de aquecimento"
+          },
+          {
+            "value": "AIR_CONDITIONING_FEE",
+            "text": "Taxa de ar condicionado"
+          },
+          {
+            "value": "CREDIT_CARD_FEE",
+            "text": "Taxa de cartão de crédito"
+          },
+          {
+            "value": "CONSERVATION_FEE",
+            "text": "Taxa de Conservação"
+          },
+          {
+            "value": "DESTINATION_FEE",
+            "text": "Taxa de destino"
+          },
+          {
+            "value": "ELECTRICITY_FEE",
+            "text": "Taxa de eletricidade"
+          },
+          {
+            "value": "GAS_FEE",
+            "text": "Taxa de gás"
+          },
+          {
+            "value": "SEA_PLANE_FEE",
+            "text": "Taxa de hidroavião"
+          },
+          {
+            "value": "HOUSEKEEPING_FEE",
+            "text": "Taxa de limpeza"
+          }
+        ]
+      },
+      {
+        "testid": "hvmbMappingType",
+        "name": "hvmbMappingType",
+        "options": [
+          {
+            "value": "",
+            "text": "Por favor selecione"
+          },
+          {
+            "value": "CITY_TAX",
+            "text": "City Tax"
+          },
+          {
+            "value": "COUNTY_TAX",
+            "text": "Country Tax"
+          },
+          {
+            "value": "OCCUPANCY_TAX",
+            "text": "Imposto de ocupação"
+          },
+          {
+            "value": "HOTEL_TAX",
+            "text": "Imposto Hoteleiro"
+          },
+          {
+            "value": "VAT_TAX",
+            "text": "Imposto sobre IVA"
+          },
+          {
+            "value": "WAIVER_DAMAGE_FEE",
+            "text": "Isenção de taxa de danos"
+          },
+          {
+            "value": "GUEST_REGISTRATION",
+            "text": "Registro de Convidados"
+          },
+          {
+            "value": "STATE_TAX",
+            "text": "State Tax"
+          },
+          {
+            "value": "ADMINISTRATIVE_FEE",
+            "text": "Taxa Administrativa"
+          },
+          {
+            "value": "MANAGEMENT_FEE",
+            "text": "Taxa de Administração"
+          },
+          {
+            "value": "PET_FEE",
+            "text": "Taxa de animal de estimação"
+          },
+          {
+            "value": "POOL_HEATING_FEE",
+            "text": "Taxa de aquecimento da piscina"
+          },
+          {
+            "value": "HOA_FEE",
+            "text": "Taxa de associação de moradores"
+          },
+          {
+            "value": "HOT_TUB_FEE",
+            "text": "Taxa de banheira de hidromassagem"
+          },
+          {
+            "value": "SECURITY_DEPOSIT_FEE",
+            "text": "Taxa de depósito de segurança"
+          },
+          {
+            "value": "DOCK_FEE",
+            "text": "Taxa de doca"
+          },
+          {
+            "value": "PARKING_FEE",
+            "text": "Taxa de estacionamento"
+          },
+          {
+            "value": "CLEANING_FEE",
+            "text": "Taxa de Limpeza"
+          },
+          {
+            "value": "POOL_FEE",
+            "text": "Taxa de piscina"
+          }
+        ]
+      }
+    ],
+    "checkboxes": [],
+    "radios": [],
+    "textareas": []
+  }
+}

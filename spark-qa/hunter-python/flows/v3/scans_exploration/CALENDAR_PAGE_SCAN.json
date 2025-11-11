@@ -1,0 +1,963 @@
+{
+  "timestamp": "2025-11-08 18:11:07",
+  "page_name": "Calendar",
+  "url": "https://platform.test.hostfully.com/app/#/calendar",
+  "elements": {
+    "buttons": [
+      {
+        "type": "button",
+        "visible": true,
+        "testid": null,
+        "id": "addLeadButton",
+        "name": null,
+        "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+        "placeholder": null,
+        "aria_label": null,
+        "text": "Adicionar lead"
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "calendar-today-button",
+        "id": null,
+        "name": null,
+        "class": "sc-aXZVg ldwMXy btn btn-default",
+        "placeholder": null,
+        "aria_label": null,
+        "text": "Hoje"
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "mode-switcher-button-BOOKING",
+        "id": null,
+        "name": null,
+        "class": "sc-aXZVg ldwMXy btn btn-primary",
+        "placeholder": null,
+        "aria_label": null,
+        "text": "Reservas"
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "mode-switcher-button-PRICING",
+        "id": null,
+        "name": null,
+        "class": "sc-aXZVg ldwMXy btn btn-default",
+        "placeholder": null,
+        "aria_label": null,
+        "text": "Preços"
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "filter-icon",
+        "id": null,
+        "name": null,
+        "class": "sc-JrDLc kcnMUT",
+        "placeholder": null,
+        "aria_label": null,
+        "text": ""
+      }
+    ],
+    "inputs": [],
+    "selects": [],
+    "links": [
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.dashboard",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/dashboard"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.inbox",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/inbox"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.pipeline",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/pipeline"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.calendar",
+        "id": null,
+        "name": null,
+        "class": "active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.analytics",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/analytics"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": "basic-nav-dropdown",
+        "name": null,
+        "class": "dropdown-toggle",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "navbar-help-icon",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "https://help.hostfully.com"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "navbar-guest-experience-icon",
+        "id": null,
+        "name": null,
+        "class": "active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "navbar-hostfully-devices-icon",
+        "id": null,
+        "name": null,
+        "class": "active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/account"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=b37f48a1-4d48-4603-8801-3aee18610968"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=0d8d3a74-6ced-4f88-a3d3-47078bece67f"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=5674e956-b522-4ef9-9f16-494e3fda04ec"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=6a4c28e7-3021-4c3f-bb90-058f987da358"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=4c46a789-c890-4950-91c2-2dad6d84bc86"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=07e3a40d-2b13-4efd-ba01-fa57f38cc89c"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=ba54f2db-fec7-4ca6-88c4-3700b07616cd"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=faf30776-12d1-4e2b-9026-c44a0d07b595"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=dfb77a5f-32ab-413b-bbb5-fb842526c4d3"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=3a729185-10e5-4f63-b32e-b30a439e32e2"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=ffd6d278-2199-4c8e-bbd4-6f16b40c8dc1"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=8a8a3dc3-fbff-447e-914a-6275905e1a4b"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=ccf0a1b2-c5f2-4205-8432-81234c1ede69"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=797a3f1f-650a-422b-bb42-cc818127e766"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=3996998d-4338-4785-8483-43da28860e91"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=18bec39e-4314-447a-8a34-ffb1a6f56a64"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=556e8ed0-c092-4515-95e7-a00b7d5a774e"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=9174afd6-1499-476e-aaca-e72360a98d1f"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=fe62e2fa-6436-4325-a453-3215e5f6c2c2"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=c813c866-0fe2-455c-95ed-a67d19e8aece"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=a75c20d6-732a-42ed-a2d3-395bc75d87e4"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=099eeb1d-45dd-4cd8-b9e5-fc257f8e37ee"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=a8baa2a6-ebab-4b2e-9e81-24693678950d"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=7e765886-30f6-4e39-92bc-16816db812fb"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "btn btn-link property-avatar-name-button active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar?propertyUid=1d27d8d2-e470-4cf6-9578-515b945ceee5"
+      }
+    ],
+    "headings": [
+      {
+        "type": "h2",
+        "visible": true,
+        "testid": "stacked-calendar-title",
+        "id": null,
+        "name": null,
+        "class": null,
+        "placeholder": null,
+        "aria_label": null,
+        "text": "gerenciadordeprop2 Calendário de propriedades"
+      }
+    ],
+    "calendar_cells": [
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "sc-ddjGPC hSMLki stacked-calendar",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "gerenciadordeprop2 C"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "sc-kuVLHQ hSxfpu stacked-calendar-body-mode-booking",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\nRequest_test Tes"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\nRequest_test Tes"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-container-scrollable",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\nRequest_test Tes"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\nRequest_test Tes"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\nSev4-1 Pmp-13697"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\ndaniel+PMP@hostf"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\ndaniel@hostfully"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\nStripe-Should Be"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='calendar']",
+        "class": "stacked-calendar-body-row",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌\n‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell body-inactive-day-cell date-before-today width-35",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "‌\n‌"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "Request_test Test"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable weekend",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable weekend",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ddpfvc check-out day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": "Pet-Fee-Test 300725"
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH giCzny check-in day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "body-day-cell date-before-today width-35 unavailable weekend",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      },
+      {
+        "type": "calendar_cell",
+        "selector": "[class*='day']",
+        "class": "sc-gIEZMH ejXfTm day-cell-lead-container",
+        "id": null,
+        "testid": null,
+        "data_date": null,
+        "text": ""
+      }
+    ],
+    "tables": []
+  },
+  "summary": {
+    "buttons": 5,
+    "inputs": 0,
+    "selects": 0,
+    "links": 35,
+    "headings": 1,
+    "calendar_cells": 50,
+    "tables": 0
+  }
+}

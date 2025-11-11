@@ -1,0 +1,1676 @@
+{
+  "timestamp": "2025-11-08 18:10:03",
+  "page_name": "Analytics",
+  "url": "https://platform.test.hostfully.com/app/#/analytics",
+  "elements": {
+    "buttons": [],
+    "inputs": [
+      {
+        "type": "input",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": "rangePicker",
+        "class": "form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "input_type": null,
+        "readonly": null
+      }
+    ],
+    "selects": [
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "presetDateRange",
+        "id": "presetDateRange",
+        "name": "presetDateRange",
+        "class": "form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "options": [
+          {
+            "value": "TODAY",
+            "text": "Hoje"
+          },
+          {
+            "value": "TOMORROW",
+            "text": "Amanhã"
+          },
+          {
+            "value": "LAST_WEEK",
+            "text": "Semana passada"
+          },
+          {
+            "value": "THIS_WEEK",
+            "text": "Essa semana"
+          },
+          {
+            "value": "NEXT_WEEK",
+            "text": "Semana que vem"
+          },
+          {
+            "value": "LAST_MONTH",
+            "text": "Mês passado"
+          },
+          {
+            "value": "THIS_MONTH",
+            "text": "Este mês"
+          },
+          {
+            "value": "NEXT_MONTH",
+            "text": "Próximo mês"
+          },
+          {
+            "value": "LAST_QUARTER",
+            "text": "Ultimo quarto"
+          },
+          {
+            "value": "THIS_QUARTER",
+            "text": "Este trimestre"
+          },
+          {
+            "value": "NEXT_QUARTER",
+            "text": "Próximo trimestre"
+          },
+          {
+            "value": "LAST_YEAR",
+            "text": "Ano passado"
+          },
+          {
+            "value": "THIS_YEAR",
+            "text": "Este ano"
+          },
+          {
+            "value": "CUSTOM",
+            "text": "Personalizado"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "dateType",
+        "id": "dateType",
+        "name": "dateType",
+        "class": "form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "options": [
+          {
+            "value": "CHECK_IN",
+            "text": "Data de check-in"
+          },
+          {
+            "value": "CHECK_OUT",
+            "text": "Data de check-out"
+          },
+          {
+            "value": "OCCUPANCY",
+            "text": "Data de ocupação"
+          },
+          {
+            "value": "RESERVATION",
+            "text": "Data da reserva"
+          },
+          {
+            "value": "LEAD_CREATION",
+            "text": "Data de criação do lead"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "propertyUid",
+        "id": "propertyUid",
+        "name": "propertyUid",
+        "class": "form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "options": [
+          {
+            "value": "",
+            "text": "Todas as propriedades"
+          },
+          {
+            "value": "b37f48a1-4d48-4603-8801-3aee18610968",
+            "text": "1-timezone(early)"
+          },
+          {
+            "value": "0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+            "text": "12-timezoneTestBR->Flo"
+          },
+          {
+            "value": "5674e956-b522-4ef9-9f16-494e3fda04ec",
+            "text": "3-timezone"
+          },
+          {
+            "value": "6a4c28e7-3021-4c3f-bb90-058f987da358",
+            "text": "4-timezone florida"
+          },
+          {
+            "value": "4c46a789-c890-4950-91c2-2dad6d84bc86",
+            "text": "5-timezone germany"
+          },
+          {
+            "value": "07e3a40d-2b13-4efd-ba01-fa57f38cc89c",
+            "text": "6-timezone flor"
+          },
+          {
+            "value": "ba54f2db-fec7-4ca6-88c4-3700b07616cd",
+            "text": "AirbnbPhotoMapping1"
+          },
+          {
+            "value": "faf30776-12d1-4e2b-9026-c44a0d07b595",
+            "text": "AirbnbPhotoMapping12345534"
+          },
+          {
+            "value": "dfb77a5f-32ab-413b-bbb5-fb842526c4d3",
+            "text": "Apt #2 - Active"
+          },
+          {
+            "value": "3a729185-10e5-4f63-b32e-b30a439e32e2",
+            "text": "Apt #3 - Active"
+          },
+          {
+            "value": "ffd6d278-2199-4c8e-bbd4-6f16b40c8dc1",
+            "text": "Apt #4 - Active"
+          },
+          {
+            "value": "8a8a3dc3-fbff-447e-914a-6275905e1a4b",
+            "text": "Apt #5 - Active"
+          },
+          {
+            "value": "ccf0a1b2-c5f2-4205-8432-81234c1ede69",
+            "text": "Charming Suite NewThad 1762039655285"
+          },
+          {
+            "value": "797a3f1f-650a-422b-bb42-cc818127e766",
+            "text": "Charming Suite Schaeferborough 1762042980241"
+          },
+          {
+            "value": "3996998d-4338-4785-8483-43da28860e91",
+            "text": "Charming Villa Pacochamouth 1762029567881"
+          },
+          {
+            "value": "18bec39e-4314-447a-8a34-ffb1a6f56a64",
+            "text": "Cozy Apartment LakeDuncanview 1761959156489"
+          },
+          {
+            "value": "556e8ed0-c092-4515-95e7-a00b7d5a774e",
+            "text": "Cozy Condo NorthAra 1761959911354"
+          },
+          {
+            "value": "9174afd6-1499-476e-aaca-e72360a98d1f",
+            "text": "Cozy Villa Balistreristad 1762040967528"
+          },
+          {
+            "value": "fe62e2fa-6436-4325-a453-3215e5f6c2c2",
+            "text": "Cozy Villa NewMonty 1761959211795"
+          },
+          {
+            "value": "c813c866-0fe2-455c-95ed-a67d19e8aece",
+            "text": "dn,sajdnjANFJLsnfjnejslfn"
+          },
+          {
+            "value": "a75c20d6-732a-42ed-a2d3-395bc75d87e4",
+            "text": "dsadasdasdaswdasdasd"
+          },
+          {
+            "value": "099eeb1d-45dd-4cd8-b9e5-fc257f8e37ee",
+            "text": "Elegant Suite Anaheim 1761958999606"
+          },
+          {
+            "value": "a8baa2a6-ebab-4b2e-9e81-24693678950d",
+            "text": "Elegant Villa NorthMckenna 1762041947049"
+          },
+          {
+            "value": "7e765886-30f6-4e39-92bc-16816db812fb",
+            "text": "Elegant Villa Ziemannland 1762042630468"
+          },
+          {
+            "value": "1d27d8d2-e470-4cf6-9578-515b945ceee5",
+            "text": "ExploreAm_1762459505"
+          },
+          {
+            "value": "e8021cb1-467c-4c63-972a-af7ecb0b29d2",
+            "text": "ExploreTest-property-hunt-1761949048851-78x1l"
+          },
+          {
+            "value": "0a74332d-dcba-49ee-825e-c35d434d63b2",
+            "text": "floridatimezoneTest1H"
+          },
+          {
+            "value": "850bf6f1-8e67-4943-83b6-695c06d7ce12",
+            "text": "Hunter Property 11040218"
+          },
+          {
+            "value": "cc92aa49-1411-4f24-8e33-97ee97593c39",
+            "text": "instHousePricingtest"
+          },
+          {
+            "value": "b8c7a1b1-1aa3-45cb-aaf9-5b717df55119",
+            "text": "instHousePricingtest (Copy)"
+          },
+          {
+            "value": "617d869a-ed7e-4567-8aa6-3f247e6542ef",
+            "text": "instHousePricingtest (Copy)"
+          },
+          {
+            "value": "3e811ac3-992d-4d7f-94fc-68a972db0885",
+            "text": "instHousePricingtest (Copy)"
+          },
+          {
+            "value": "e6ed7db6-82fd-4dd0-9548-9bd458f4e835",
+            "text": "Luxury Condo Clairtown 1762029554315"
+          },
+          {
+            "value": "627c09b2-fd89-497b-8cd2-a74de549639c",
+            "text": "Master 1103202926"
+          },
+          {
+            "value": "ce14bb35-bf6c-4d72-941a-7e0add81d7f0",
+            "text": "Master 1103211759"
+          },
+          {
+            "value": "f20af284-2526-40ac-b4b0-a1fe3297e317",
+            "text": "Modern Apartment WestKennedy 1762029582036"
+          },
+          {
+            "value": "000db2a2-ea33-4ac7-a05e-d8473bed2d79",
+            "text": "Modern Suite Luisfurt 1761956622013"
+          },
+          {
+            "value": "bb4f4b8a-f235-44d7-979d-e59c402af34e",
+            "text": "multiunitSanity"
+          },
+          {
+            "value": "e53ec9a1-68aa-4ad3-9c07-938eed3184af",
+            "text": "  SubUnitySanity"
+          },
+          {
+            "value": "9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+            "text": "MUnitFE290425"
+          },
+          {
+            "value": "50249f4e-9863-4987-a6cf-01552d5d1453",
+            "text": "  Economic"
+          },
+          {
+            "value": "30893d36-d696-4be9-b78e-38332508f887",
+            "text": "  masterRoom"
+          },
+          {
+            "value": "d50a5971-9e52-47ec-99bd-d797866d9a7f",
+            "text": "nomedapropriedade"
+          },
+          {
+            "value": "6bf72b7e-62a0-4d64-9f45-c69e1f0dccb6",
+            "text": "Peaceful Condo Feeneyton 1761959951304"
+          },
+          {
+            "value": "fe2f3030-38a1-45a4-ad2b-e29473b7898a",
+            "text": "Peaceful Cottage Euless 1761959062171"
+          },
+          {
+            "value": "36d3dd07-1acc-4497-b677-03184379cd9a",
+            "text": "Peaceful Studio WestGeorgiana 1761958068579"
+          },
+          {
+            "value": "b7fb7ab4-681a-4b36-bdcb-28498b5df448",
+            "text": "Peaceful Villa Albashire 1762035000573"
+          },
+          {
+            "value": "91e558b0-5a4b-41de-b8b5-e0cb7dd9a45d",
+            "text": "Pricing14/05/25"
+          },
+          {
+            "value": "6bec973d-ed12-471b-9ef0-636ccfc6edc5",
+            "text": "PricingTest235"
+          },
+          {
+            "value": "74a22227-28a6-412f-a383-71ededc467a5",
+            "text": "rentalCondTest"
+          },
+          {
+            "value": "d13d303d-2c34-40ed-8b56-7c62bab89528",
+            "text": "  masterRoom"
+          },
+          {
+            "value": "4db4a3c6-2f9b-4bb2-9628-8b01d5ddf719",
+            "text": "  rCondUnit"
+          },
+          {
+            "value": "867ff8cf-5781-4354-820e-25a3ebaf8f7e",
+            "text": "  subAgencyRentalCond"
+          },
+          {
+            "value": "41155c15-1822-4c4c-a327-916d0d3be633",
+            "text": "Spacious Studio Carolina 1761959104045"
+          },
+          {
+            "value": "9dfe5278-41d5-438c-a339-8b1403eecb85",
+            "text": "StandardTest-property-hunt-1761948459254"
+          },
+          {
+            "value": "e46fa742-0992-4433-ba0a-efae36b9e0da",
+            "text": "StandardTest-property-hunt-1761948748696"
+          },
+          {
+            "value": "0c0b60bf-1c3e-4c34-9a67-4e181c6ab62c",
+            "text": "StandardTest-property-hunt-1761948794396"
+          },
+          {
+            "value": "926bbad2-7cd9-4a9a-a382-15947a01ee48",
+            "text": "Sunny Studio Mullertown 1761958973512"
+          },
+          {
+            "value": "b2f82348-e9ed-4b33-83ab-c06e7fb7b4ad",
+            "text": "Sunny Studio NewBethel 1762029529822"
+          },
+          {
+            "value": "e765d02c-b81b-4a97-8e45-ac32d530706b",
+            "text": "Sunny Suite Rosenbaumside 1762027549828"
+          },
+          {
+            "value": "d853b272-bfc1-4e99-a3b2-19f4767222f9",
+            "text": "Test 1102175708"
+          },
+          {
+            "value": "773fcd0c-1991-4ae8-a240-151a0a3488a8",
+            "text": "TEST_06gv"
+          },
+          {
+            "value": "31171931-2132-49c6-8d3f-549539700af5",
+            "text": "TEST_0l31"
+          },
+          {
+            "value": "10e33ca8-2dde-414d-b4d3-25ead723350e",
+            "text": "TEST_1gdo"
+          },
+          {
+            "value": "db87f744-a807-49f1-91bb-6e53b3072e78",
+            "text": "TEST_1xv9"
+          },
+          {
+            "value": "a056e333-ac19-4abf-8903-ebb9af4edc98",
+            "text": "TEST_2rlb"
+          },
+          {
+            "value": "f25c782e-ef9f-4835-9add-7e8084673f03",
+            "text": "TEST_2ydx"
+          },
+          {
+            "value": "bb0fe30e-4dc0-4496-9fd6-4bcbba82fcbe",
+            "text": "TEST_594k"
+          },
+          {
+            "value": "04e1346e-85e3-4c08-82cd-8eb92a85473a",
+            "text": "TEST_5bc5"
+          },
+          {
+            "value": "6737276e-e226-4f03-9be4-2d6f7e72eea6",
+            "text": "TEST_6xuh"
+          },
+          {
+            "value": "d9723894-2624-4343-829e-1025b2c70fc9",
+            "text": "TEST_8o07"
+          },
+          {
+            "value": "c54b9c76-a8e5-4308-8faa-0fc6f9577aaa",
+            "text": "TEST_9t2m"
+          },
+          {
+            "value": "9e30ed0e-e89a-4a7b-b76c-ff5e4af79b11",
+            "text": "TEST_aq4v"
+          },
+          {
+            "value": "797516f7-a94f-4a10-a5ce-7c14ed80aced",
+            "text": "TEST_b4kd"
+          },
+          {
+            "value": "03d9c85b-5b2a-4582-9264-c7cb84b1f0d3",
+            "text": "TEST_bk1w"
+          },
+          {
+            "value": "5b93ca72-dfe6-4a06-aea7-f0497bd10067",
+            "text": "TEST_bohh"
+          },
+          {
+            "value": "0fac3fbd-c557-4757-a2b2-0af303623912",
+            "text": "TEST_bwy7"
+          },
+          {
+            "value": "591a003d-a352-4d6d-a5a2-7ac20ca00a8e",
+            "text": "TEST_cv1j"
+          },
+          {
+            "value": "186a1308-dee8-4067-8094-15dfa28e87a6",
+            "text": "TEST_dhje"
+          },
+          {
+            "value": "a0c4b230-a07c-485a-996b-6fd0cb16ae5f",
+            "text": "TEST_fpqh"
+          },
+          {
+            "value": "1a59c87d-6363-491e-8fe1-961d4dcb15b3",
+            "text": "TEST_g5mu"
+          },
+          {
+            "value": "85981116-f721-4cd0-a786-887417047506",
+            "text": "TEST_i5cp"
+          },
+          {
+            "value": "3861b732-7444-4811-9418-887abc35d430",
+            "text": "TEST_j670"
+          },
+          {
+            "value": "0e439014-5b53-4f43-bbb8-be422fe35323",
+            "text": "TEST_jd4v"
+          },
+          {
+            "value": "082a5ed0-5b6b-4546-8047-7ef2346927dd",
+            "text": "TEST_jn1k"
+          },
+          {
+            "value": "58732fcf-c255-4efb-82ce-b05f79afd08b",
+            "text": "TEST_jv2e"
+          },
+          {
+            "value": "85f2fa32-a0d4-42f9-b4c3-3d3a2297917f",
+            "text": "TEST_maxe"
+          },
+          {
+            "value": "4100957e-f5c3-4884-a99b-ca643f67215b",
+            "text": "TEST_me5i"
+          },
+          {
+            "value": "d43e6fd4-34a6-40a5-854f-6bc50fd285a0",
+            "text": "TEST_mezz"
+          },
+          {
+            "value": "9eb2ea8d-f609-4f9c-9331-d9eab2ccafe0",
+            "text": "TEST_mymi"
+          },
+          {
+            "value": "5a25cfff-5a1b-4ab8-9fb0-87efbb09e495",
+            "text": "TEST_n23x"
+          },
+          {
+            "value": "1e32d54c-1377-4fb3-a0fd-6b7a3a0b3c8b",
+            "text": "TEST_n6iw"
+          },
+          {
+            "value": "041f2168-528e-4aa7-b663-6081484a436c",
+            "text": "TEST_nkgj"
+          },
+          {
+            "value": "7cfcda98-376d-4787-b2c8-26beedcbd5ef",
+            "text": "TEST_nth1"
+          },
+          {
+            "value": "427b1024-a040-47e9-8f26-9674aef8eb77",
+            "text": "TEST_Property_k4we03"
+          },
+          {
+            "value": "a3c4dcd7-8a69-4dd2-af32-251cfeb0550f",
+            "text": "TEST_Property_ma3tvm"
+          },
+          {
+            "value": "6c9d491f-01ff-4db3-b4af-d239c52ce559",
+            "text": "TEST_r25m"
+          },
+          {
+            "value": "80a8d1f9-5b7a-44b0-8654-dca91a71ed9e",
+            "text": "TEST_s0q5"
+          },
+          {
+            "value": "85f5a291-804f-41a1-bdfd-3c1f4d57b252",
+            "text": "TEST_sgwh"
+          },
+          {
+            "value": "dab906ae-ba74-4328-a4b5-57c441daa75b",
+            "text": "TEST_skri"
+          },
+          {
+            "value": "19aa1683-1531-49e7-bc99-3d8242cbbee0",
+            "text": "TEST_vh5e"
+          },
+          {
+            "value": "69ce68a9-426e-4082-a5c8-df54a5ae84ff",
+            "text": "TEST_wyxt"
+          },
+          {
+            "value": "78b35ab9-b264-4a18-8020-5e62afc8bdeb",
+            "text": "TEST_xyn2"
+          },
+          {
+            "value": "fe58f78b-d9e7-42f5-976d-252247fef288",
+            "text": "TEST_z179"
+          },
+          {
+            "value": "f6ac5c75-f541-4e9e-827a-297d70c15130",
+            "text": "TEST_zehx"
+          },
+          {
+            "value": "67d71114-fb94-47e4-92c1-8d66c256cf1d",
+            "text": "testcharge property"
+          },
+          {
+            "value": "b1dc2c8f-5249-4ad8-b578-d9cc6e0d7360",
+            "text": "testecancelationPROP"
+          },
+          {
+            "value": "6947b9b3-27f6-4cbb-aece-f31ffc57ea8a",
+            "text": "testepropautoAPI"
+          },
+          {
+            "value": "bc1e29e8-d7f2-4e21-b253-84a0c72fddb9",
+            "text": "testmigration"
+          },
+          {
+            "value": "57869655-0371-4b9e-bf68-c4501bc34086",
+            "text": "UltimateTest 1762452366"
+          },
+          {
+            "value": "f92f363b-ce20-4061-a8b3-a56f47668f5b",
+            "text": "VisualTest_1762461350"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "channel",
+        "id": "channel",
+        "name": "channel",
+        "class": "form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "options": [
+          {
+            "value": "",
+            "text": "Todos os canais"
+          },
+          {
+            "value": "HOSTFULLY",
+            "text": "Hostfully"
+          },
+          {
+            "value": "AIRBNB",
+            "text": "Airbnb"
+          },
+          {
+            "value": "VRBO",
+            "text": "Vrbo"
+          },
+          {
+            "value": "BOOKING_COM",
+            "text": "Booking.com"
+          },
+          {
+            "value": "GOOGLE",
+            "text": "Google"
+          },
+          {
+            "value": "ANYSTAY",
+            "text": "Anystay"
+          },
+          {
+            "value": "B0ARDING",
+            "text": "b0arding"
+          },
+          {
+            "value": "BLUEGROUND",
+            "text": "Blueground"
+          },
+          {
+            "value": "SAVVY",
+            "text": "bnbfinder"
+          },
+          {
+            "value": "CREWDOGS",
+            "text": "Crewdogs"
+          },
+          {
+            "value": "EGETINNZ",
+            "text": "eGetinnz"
+          },
+          {
+            "value": "FLATAWAY",
+            "text": "FlatAway"
+          },
+          {
+            "value": "GETAWAYGOGO",
+            "text": "GetawayGoGo"
+          },
+          {
+            "value": "GOLIGHTLY",
+            "text": "GoLightly"
+          },
+          {
+            "value": "HOLIDU",
+            "text": "Holidu"
+          },
+          {
+            "value": "HOMADS",
+            "text": "Homads"
+          },
+          {
+            "value": "HOMETOGO",
+            "text": "HomeToGo"
+          },
+          {
+            "value": "HOUFY",
+            "text": "Houfy"
+          },
+          {
+            "value": "HVMB",
+            "text": "HVMB"
+          },
+          {
+            "value": "LAKE",
+            "text": "Lake"
+          },
+          {
+            "value": "LODGELOVERS",
+            "text": "Lodge Lovers"
+          },
+          {
+            "value": "MINISTAYS",
+            "text": "MiniStays"
+          },
+          {
+            "value": "MONAKER_GROUP",
+            "text": "Monaker Group"
+          },
+          {
+            "value": "NEXTPAX",
+            "text": "Nextpax"
+          },
+          {
+            "value": "OWNERDIRECT",
+            "text": "OwnerDirect"
+          },
+          {
+            "value": "REDAWNING",
+            "text": "RedAwning"
+          },
+          {
+            "value": "RENTALS_UNITED",
+            "text": "Rentals United"
+          },
+          {
+            "value": "STAY",
+            "text": "Stay"
+          },
+          {
+            "value": "STAYNEARN",
+            "text": "StayNEarn"
+          },
+          {
+            "value": "TRAMONA",
+            "text": "Tramona"
+          },
+          {
+            "value": "TRAVELSTAYTION",
+            "text": "TravelStaytion"
+          },
+          {
+            "value": "TRIP_ADVISOR",
+            "text": "TripAdvisor"
+          },
+          {
+            "value": "VACAYMYMAY",
+            "text": "VacayMyWay"
+          },
+          {
+            "value": "VRASIO",
+            "text": "Vrasio"
+          },
+          {
+            "value": "WHIMSTAY",
+            "text": "Whimstay"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "timeReference",
+        "id": "timeReference",
+        "name": "timeReference",
+        "class": "form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "options": [
+          {
+            "value": "PRECEDING_PERIOD",
+            "text": "Preceding period"
+          },
+          {
+            "value": "LAST_YEAR",
+            "text": "Same period last year"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "type",
+        "id": "type",
+        "name": "type",
+        "class": "btn btn-chart-type form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "options": [
+          {
+            "value": "FINANCIAL_PERFORMANCE",
+            "text": "Desempenho financeiro"
+          },
+          {
+            "value": "PROPERTY_PERFORMANCE",
+            "text": "Desempenho Imobiliário"
+          },
+          {
+            "value": "TEAM_PERFORMANCE",
+            "text": "Performance da equipe"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "metric",
+        "id": "metric",
+        "name": "metric",
+        "class": "btn btn-chart-metric form-control",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "options": [
+          {
+            "value": "RENTAL_REVENUE",
+            "text": "Receita de aluguel"
+          },
+          {
+            "value": "FEES",
+            "text": "Taxas"
+          },
+          {
+            "value": "TAXES",
+            "text": "Taxas"
+          },
+          {
+            "value": "TOTAL_REVENUE",
+            "text": "Rendimento total"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.dashboard",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/dashboard"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.inbox",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/inbox"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.pipeline",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/pipeline"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.calendar",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/calendar"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "nav-item-common.analytics",
+        "id": null,
+        "name": null,
+        "class": "active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/analytics"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": "basic-nav-dropdown",
+        "name": null,
+        "class": "dropdown-toggle",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "navbar-help-icon",
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "https://help.hostfully.com"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "navbar-guest-experience-icon",
+        "id": null,
+        "name": null,
+        "class": "active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/analytics"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "navbar-hostfully-devices-icon",
+        "id": null,
+        "name": null,
+        "class": "active",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/analytics"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": "",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "#/account"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "link-terms-of-service",
+        "id": null,
+        "name": null,
+        "class": "sc-cAXmzm cSjUXK",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "https://www.hostfully.com/terms-of-service/"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "link-privacy-policy",
+        "id": null,
+        "name": null,
+        "class": "sc-cAXmzm cSjUXK",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "https://platform.hostfully.com/static/privacy.jsp"
+      },
+      {
+        "type": "link",
+        "visible": true,
+        "testid": "link-feedback",
+        "id": "uv-1",
+        "name": null,
+        "class": "sc-cAXmzm cSjUXK",
+        "placeholder": null,
+        "aria_label": null,
+        "text": null,
+        "href": "javascript:void(0)"
+      }
+    ],
+    "headings": [
+      {
+        "type": "h1",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": null,
+        "placeholder": null,
+        "aria_label": null,
+        "text": "Análise"
+      },
+      {
+        "type": "h2",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": null,
+        "placeholder": null,
+        "aria_label": null,
+        "text": "Receita por fonte"
+      },
+      {
+        "type": "h2",
+        "visible": true,
+        "testid": null,
+        "id": null,
+        "name": null,
+        "class": null,
+        "placeholder": null,
+        "aria_label": null,
+        "text": "RevPar por propriedade"
+      }
+    ],
+    "charts": [
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "btn btn-chart-type form-control",
+        "id": "type",
+        "testid": "type"
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "btn btn-chart-metric form-control",
+        "id": "metric",
+        "testid": "metric"
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-responsive-container",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-wrapper",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-surface",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-line",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-curve recharts-line-curve",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-line-dots",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-dot recharts-line-dot",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-cartesian-grid",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-cartesian-grid-horizontal",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-cartesian-grid-vertical",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis recharts-xAxis xAxis",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-cartesian-axis-ticks",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis recharts-yAxis yAxis",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-cartesian-axis-ticks",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-cartesian-axis-tick",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-text recharts-cartesian-axis-tick-value",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-legend-wrapper",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-default-legend",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-legend-item legend-item-0",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-surface",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-symbols",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-legend-item-text",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-responsive-container",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-wrapper",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-surface",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-pie",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-pie-sector",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-sector",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-layer recharts-pie-sector",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "[class*='chart']",
+        "class": "recharts-sector",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "svg[class*='chart']",
+        "class": "recharts-surface",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "svg[class*='chart']",
+        "class": "recharts-surface",
+        "id": null,
+        "testid": null
+      },
+      {
+        "type": "chart",
+        "selector": "svg[class*='chart']",
+        "class": "recharts-surface",
+        "id": null,
+        "testid": null
+      }
+    ],
+    "tables": []
+  },
+  "summary": {
+    "buttons": 0,
+    "inputs": 1,
+    "selects": 7,
+    "links": 13,
+    "headings": 3,
+    "charts": 93,
+    "tables": 0
+  }
+}

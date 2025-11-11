@@ -1,0 +1,3805 @@
+{
+  "tab1_detalhes_lead": {
+    "timestamp": "2025-11-08 18:08:17",
+    "tab_name": "Detalhes do lead",
+    "elements": {
+      "buttons": [
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": "addLeadButton",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Adicionar lead"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "filter-icon",
+          "id": null,
+          "name": null,
+          "class": "sc-JrDLc kcnMUT",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "close",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "×\nClose"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-NEW",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD QrKwD btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Novo"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-ON_HOLD",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD igRxKU btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Em espera"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BOOKED_BY_AGENT",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD cNrMPH btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Reservado"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BLOCKED",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD jTJVwn btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Bloqueio"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "add-new-item-button",
+          "id": null,
+          "name": null,
+          "class": "btn btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": " Adicionar item de linha"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-modal-footer-cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit",
+          "id": "submit",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit-open-mailer",
+          "id": "submit-open-mailer",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar e abrir mailer"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "lead",
+          "id": null,
+          "name": null,
+          "class": "rbt-input-main form-control rbt-input",
+          "placeholder": "Nome ou email do hóspede",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "text",
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "rbt-input-hint",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": ""
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "checkInDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "8 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "checkOutDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "9 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "petCount",
+          "id": "petCount",
+          "name": "petCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "number",
+          "value": "0",
+          "readonly": null
+        }
+      ],
+      "selects": [
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyUid",
+          "id": "propertyUid",
+          "name": "propertyUid",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "options": [
+            {
+              "value": "b37f48a1-4d48-4603-8801-3aee18610968",
+              "text": "1-timezone(early)"
+            },
+            {
+              "value": "0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+              "text": "12-timezoneTestBR->Flo"
+            },
+            {
+              "value": "5674e956-b522-4ef9-9f16-494e3fda04ec",
+              "text": "3-timezone"
+            },
+            {
+              "value": "6a4c28e7-3021-4c3f-bb90-058f987da358",
+              "text": "4-timezone florida"
+            },
+            {
+              "value": "4c46a789-c890-4950-91c2-2dad6d84bc86",
+              "text": "5-timezone germany"
+            },
+            {
+              "value": "07e3a40d-2b13-4efd-ba01-fa57f38cc89c",
+              "text": "6-timezone flor"
+            },
+            {
+              "value": "ba54f2db-fec7-4ca6-88c4-3700b07616cd",
+              "text": "AirbnbPhotoMapping1"
+            },
+            {
+              "value": "faf30776-12d1-4e2b-9026-c44a0d07b595",
+              "text": "AirbnbPhotoMapping12345534"
+            },
+            {
+              "value": "dfb77a5f-32ab-413b-bbb5-fb842526c4d3",
+              "text": "Apt #2 - Active"
+            },
+            {
+              "value": "3a729185-10e5-4f63-b32e-b30a439e32e2",
+              "text": "Apt #3 - Active"
+            },
+            {
+              "value": "ffd6d278-2199-4c8e-bbd4-6f16b40c8dc1",
+              "text": "Apt #4 - Active"
+            },
+            {
+              "value": "8a8a3dc3-fbff-447e-914a-6275905e1a4b",
+              "text": "Apt #5 - Active"
+            },
+            {
+              "value": "ccf0a1b2-c5f2-4205-8432-81234c1ede69",
+              "text": "Charming Suite NewThad 1762039655285"
+            },
+            {
+              "value": "797a3f1f-650a-422b-bb42-cc818127e766",
+              "text": "Charming Suite Schaeferborough 1762042980241"
+            },
+            {
+              "value": "3996998d-4338-4785-8483-43da28860e91",
+              "text": "Charming Villa Pacochamouth 1762029567881"
+            },
+            {
+              "value": "18bec39e-4314-447a-8a34-ffb1a6f56a64",
+              "text": "Cozy Apartment LakeDuncanview 1761959156489"
+            },
+            {
+              "value": "556e8ed0-c092-4515-95e7-a00b7d5a774e",
+              "text": "Cozy Condo NorthAra 1761959911354"
+            },
+            {
+              "value": "9174afd6-1499-476e-aaca-e72360a98d1f",
+              "text": "Cozy Villa Balistreristad 1762040967528"
+            },
+            {
+              "value": "fe62e2fa-6436-4325-a453-3215e5f6c2c2",
+              "text": "Cozy Villa NewMonty 1761959211795"
+            },
+            {
+              "value": "c813c866-0fe2-455c-95ed-a67d19e8aece",
+              "text": "dn,sajdnjANFJLsnfjnejslfn"
+            },
+            {
+              "value": "a75c20d6-732a-42ed-a2d3-395bc75d87e4",
+              "text": "dsadasdasdaswdasdasd"
+            },
+            {
+              "value": "099eeb1d-45dd-4cd8-b9e5-fc257f8e37ee",
+              "text": "Elegant Suite Anaheim 1761958999606"
+            },
+            {
+              "value": "a8baa2a6-ebab-4b2e-9e81-24693678950d",
+              "text": "Elegant Villa NorthMckenna 1762041947049"
+            },
+            {
+              "value": "7e765886-30f6-4e39-92bc-16816db812fb",
+              "text": "Elegant Villa Ziemannland 1762042630468"
+            },
+            {
+              "value": "1d27d8d2-e470-4cf6-9578-515b945ceee5",
+              "text": "ExploreAm_1762459505"
+            },
+            {
+              "value": "e8021cb1-467c-4c63-972a-af7ecb0b29d2",
+              "text": "ExploreTest-property-hunt-1761949048851-78x1l"
+            },
+            {
+              "value": "0a74332d-dcba-49ee-825e-c35d434d63b2",
+              "text": "floridatimezoneTest1H"
+            },
+            {
+              "value": "850bf6f1-8e67-4943-83b6-695c06d7ce12",
+              "text": "Hunter Property 11040218"
+            },
+            {
+              "value": "cc92aa49-1411-4f24-8e33-97ee97593c39",
+              "text": "instHousePricingtest"
+            },
+            {
+              "value": "b8c7a1b1-1aa3-45cb-aaf9-5b717df55119",
+              "text": "instHousePricingtest (Copy)"
+            },
+            {
+              "value": "617d869a-ed7e-4567-8aa6-3f247e6542ef",
+              "text": "instHousePricingtest (Copy)"
+            },
+            {
+              "value": "3e811ac3-992d-4d7f-94fc-68a972db0885",
+              "text": "instHousePricingtest (Copy)"
+            },
+            {
+              "value": "e6ed7db6-82fd-4dd0-9548-9bd458f4e835",
+              "text": "Luxury Condo Clairtown 1762029554315"
+            },
+            {
+              "value": "627c09b2-fd89-497b-8cd2-a74de549639c",
+              "text": "Master 1103202926"
+            },
+            {
+              "value": "ce14bb35-bf6c-4d72-941a-7e0add81d7f0",
+              "text": "Master 1103211759"
+            },
+            {
+              "value": "f20af284-2526-40ac-b4b0-a1fe3297e317",
+              "text": "Modern Apartment WestKennedy 1762029582036"
+            },
+            {
+              "value": "000db2a2-ea33-4ac7-a05e-d8473bed2d79",
+              "text": "Modern Suite Luisfurt 1761956622013"
+            },
+            {
+              "value": "bb4f4b8a-f235-44d7-979d-e59c402af34e",
+              "text": "multiunitSanity"
+            },
+            {
+              "value": "e53ec9a1-68aa-4ad3-9c07-938eed3184af",
+              "text": "  SubUnitySanity"
+            },
+            {
+              "value": "28b1d848-dc22-4c5b-8311-d08939db0087",
+              "text": "    SubUnitySanity 1"
+            },
+            {
+              "value": "73b88d86-fc56-4e0e-9cd4-859116323106",
+              "text": "    SubUnitySanity 2"
+            },
+            {
+              "value": "36a6e0c7-0314-4111-b2af-60ddfec35969",
+              "text": "    SubUnitySanity 3"
+            },
+            {
+              "value": "fadc50ac-5315-4aff-b7bb-fb7fd0fced1a",
+              "text": "    SubUnitySanity 4"
+            },
+            {
+              "value": "ecee85d7-30a6-4234-8ea6-4780af9e3fe4",
+              "text": "    SubUnitySanity 5"
+            },
+            {
+              "value": "d8060c3d-a90e-41ce-81b6-a44aa21c72f2",
+              "text": "    SubUnitySanity 6"
+            },
+            {
+              "value": "9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+              "text": "MUnitFE290425"
+            },
+            {
+              "value": "50249f4e-9863-4987-a6cf-01552d5d1453",
+              "text": "  Economic"
+            },
+            {
+              "value": "6b84bb9f-99c0-46a3-931d-370369b1adc4",
+              "text": "    Economic 1"
+            },
+            {
+              "value": "2e6cc0b1-c68c-478c-857a-06d9a3a8d896",
+              "text": "    Economic 2"
+            },
+            {
+              "value": "592d0159-b80e-461b-9e14-f88df98139cf",
+              "text": "    Economic 3"
+            },
+            {
+              "value": "e954e018-c2e4-4461-9dcb-185b798101ed",
+              "text": "    Economic 4"
+            },
+            {
+              "value": "01979af1-0754-4b63-bbc4-2b69dea9a96a",
+              "text": "    Economic 5"
+            },
+            {
+              "value": "a41f6a51-13ca-43d9-878a-15531d62ae52",
+              "text": "    Economic 6"
+            },
+            {
+              "value": "30893d36-d696-4be9-b78e-38332508f887",
+              "text": "  masterRoom"
+            },
+            {
+              "value": "3243d813-0046-416b-b46d-2a166588dd99",
+              "text": "    masterRoom 1"
+            },
+            {
+              "value": "392160ec-ecdf-4b40-ae52-ebd079196d9e",
+              "text": "    masterRoom 2"
+            },
+            {
+              "value": "0c7bf042-9b88-4b13-8710-93038e436854",
+              "text": "    masterRoom 3"
+            },
+            {
+              "value": "fd5050cd-87de-43ed-8435-91619f50c840",
+              "text": "    masterRoom 4"
+            },
+            {
+              "value": "818da7f7-3daa-4834-91eb-776b87144664",
+              "text": "    masterRoom 5"
+            },
+            {
+              "value": "ed746bc1-6e6a-426f-969f-e6b8f14ab38f",
+              "text": "    masterRoom 6"
+            },
+            {
+              "value": "d50a5971-9e52-47ec-99bd-d797866d9a7f",
+              "text": "nomedapropriedade"
+            },
+            {
+              "value": "6bf72b7e-62a0-4d64-9f45-c69e1f0dccb6",
+              "text": "Peaceful Condo Feeneyton 1761959951304"
+            },
+            {
+              "value": "fe2f3030-38a1-45a4-ad2b-e29473b7898a",
+              "text": "Peaceful Cottage Euless 1761959062171"
+            },
+            {
+              "value": "36d3dd07-1acc-4497-b677-03184379cd9a",
+              "text": "Peaceful Studio WestGeorgiana 1761958068579"
+            },
+            {
+              "value": "b7fb7ab4-681a-4b36-bdcb-28498b5df448",
+              "text": "Peaceful Villa Albashire 1762035000573"
+            },
+            {
+              "value": "91e558b0-5a4b-41de-b8b5-e0cb7dd9a45d",
+              "text": "Pricing14/05/25"
+            },
+            {
+              "value": "6bec973d-ed12-471b-9ef0-636ccfc6edc5",
+              "text": "PricingTest235"
+            },
+            {
+              "value": "74a22227-28a6-412f-a383-71ededc467a5",
+              "text": "rentalCondTest"
+            },
+            {
+              "value": "d13d303d-2c34-40ed-8b56-7c62bab89528",
+              "text": "  masterRoom"
+            },
+            {
+              "value": "e5c749dc-1aef-467a-91ac-06fbff15c85d",
+              "text": "    masterRoom 1"
+            },
+            {
+              "value": "ce52ff33-13b4-4bda-b3e2-f8dee66fde89",
+              "text": "    masterRoom 2"
+            },
+            {
+              "value": "3c4853dd-1bf8-4caa-86f5-91c863cdc142",
+              "text": "    masterRoom 3"
+            },
+            {
+              "value": "fecc8290-2226-4fee-98c0-209970fec240",
+              "text": "    masterRoom 4"
+            },
+            {
+              "value": "ac54bb65-5cd1-4b59-b24b-8f6a768cb528",
+              "text": "    masterRoom 5"
+            },
+            {
+              "value": "4db4a3c6-2f9b-4bb2-9628-8b01d5ddf719",
+              "text": "  rCondUnit"
+            },
+            {
+              "value": "4aeb14ed-7807-4e06-9566-05eaa83de97e",
+              "text": "    rCondUnit 1"
+            },
+            {
+              "value": "ecf037c1-a74c-46cf-aa49-8108cde57abd",
+              "text": "    rCondUnit 2"
+            },
+            {
+              "value": "cd80d1bd-0f39-42bf-ae61-7e5cb1c45fb4",
+              "text": "    rCondUnit 3"
+            },
+            {
+              "value": "ce035ccb-89b8-47a7-85c1-c9428c4da3b6",
+              "text": "    rCondUnit 4"
+            },
+            {
+              "value": "f39b3989-5683-45cc-b5ac-c2376f1af6cc",
+              "text": "    rCondUnit 5"
+            },
+            {
+              "value": "867ff8cf-5781-4354-820e-25a3ebaf8f7e",
+              "text": "  subAgencyRentalCond"
+            },
+            {
+              "value": "d83bdbca-6932-4663-8049-fb309f766215",
+              "text": "    subAgencyRentalCond 1"
+            },
+            {
+              "value": "076a9b85-8967-4999-8819-0df24b4ec1aa",
+              "text": "    subAgencyRentalCond 2"
+            },
+            {
+              "value": "8fd5dbb7-c675-4084-848d-f9f40d870a5b",
+              "text": "    subAgencyRentalCond 3"
+            },
+            {
+              "value": "b45908c3-111c-45af-a77f-1711669c504e",
+              "text": "    subAgencyRentalCond 4"
+            },
+            {
+              "value": "41155c15-1822-4c4c-a327-916d0d3be633",
+              "text": "Spacious Studio Carolina 1761959104045"
+            },
+            {
+              "value": "9dfe5278-41d5-438c-a339-8b1403eecb85",
+              "text": "StandardTest-property-hunt-1761948459254"
+            },
+            {
+              "value": "e46fa742-0992-4433-ba0a-efae36b9e0da",
+              "text": "StandardTest-property-hunt-1761948748696"
+            },
+            {
+              "value": "0c0b60bf-1c3e-4c34-9a67-4e181c6ab62c",
+              "text": "StandardTest-property-hunt-1761948794396"
+            },
+            {
+              "value": "926bbad2-7cd9-4a9a-a382-15947a01ee48",
+              "text": "Sunny Studio Mullertown 1761958973512"
+            },
+            {
+              "value": "b2f82348-e9ed-4b33-83ab-c06e7fb7b4ad",
+              "text": "Sunny Studio NewBethel 1762029529822"
+            },
+            {
+              "value": "e765d02c-b81b-4a97-8e45-ac32d530706b",
+              "text": "Sunny Suite Rosenbaumside 1762027549828"
+            },
+            {
+              "value": "d853b272-bfc1-4e99-a3b2-19f4767222f9",
+              "text": "Test 1102175708"
+            },
+            {
+              "value": "773fcd0c-1991-4ae8-a240-151a0a3488a8",
+              "text": "TEST_06gv"
+            },
+            {
+              "value": "31171931-2132-49c6-8d3f-549539700af5",
+              "text": "TEST_0l31"
+            },
+            {
+              "value": "10e33ca8-2dde-414d-b4d3-25ead723350e",
+              "text": "TEST_1gdo"
+            },
+            {
+              "value": "db87f744-a807-49f1-91bb-6e53b3072e78",
+              "text": "TEST_1xv9"
+            },
+            {
+              "value": "a056e333-ac19-4abf-8903-ebb9af4edc98",
+              "text": "TEST_2rlb"
+            },
+            {
+              "value": "f25c782e-ef9f-4835-9add-7e8084673f03",
+              "text": "TEST_2ydx"
+            },
+            {
+              "value": "bb0fe30e-4dc0-4496-9fd6-4bcbba82fcbe",
+              "text": "TEST_594k"
+            },
+            {
+              "value": "04e1346e-85e3-4c08-82cd-8eb92a85473a",
+              "text": "TEST_5bc5"
+            },
+            {
+              "value": "6737276e-e226-4f03-9be4-2d6f7e72eea6",
+              "text": "TEST_6xuh"
+            },
+            {
+              "value": "d9723894-2624-4343-829e-1025b2c70fc9",
+              "text": "TEST_8o07"
+            },
+            {
+              "value": "c54b9c76-a8e5-4308-8faa-0fc6f9577aaa",
+              "text": "TEST_9t2m"
+            },
+            {
+              "value": "9e30ed0e-e89a-4a7b-b76c-ff5e4af79b11",
+              "text": "TEST_aq4v"
+            },
+            {
+              "value": "797516f7-a94f-4a10-a5ce-7c14ed80aced",
+              "text": "TEST_b4kd"
+            },
+            {
+              "value": "03d9c85b-5b2a-4582-9264-c7cb84b1f0d3",
+              "text": "TEST_bk1w"
+            },
+            {
+              "value": "5b93ca72-dfe6-4a06-aea7-f0497bd10067",
+              "text": "TEST_bohh"
+            },
+            {
+              "value": "0fac3fbd-c557-4757-a2b2-0af303623912",
+              "text": "TEST_bwy7"
+            },
+            {
+              "value": "591a003d-a352-4d6d-a5a2-7ac20ca00a8e",
+              "text": "TEST_cv1j"
+            },
+            {
+              "value": "186a1308-dee8-4067-8094-15dfa28e87a6",
+              "text": "TEST_dhje"
+            },
+            {
+              "value": "a0c4b230-a07c-485a-996b-6fd0cb16ae5f",
+              "text": "TEST_fpqh"
+            },
+            {
+              "value": "1a59c87d-6363-491e-8fe1-961d4dcb15b3",
+              "text": "TEST_g5mu"
+            },
+            {
+              "value": "85981116-f721-4cd0-a786-887417047506",
+              "text": "TEST_i5cp"
+            },
+            {
+              "value": "3861b732-7444-4811-9418-887abc35d430",
+              "text": "TEST_j670"
+            },
+            {
+              "value": "0e439014-5b53-4f43-bbb8-be422fe35323",
+              "text": "TEST_jd4v"
+            },
+            {
+              "value": "082a5ed0-5b6b-4546-8047-7ef2346927dd",
+              "text": "TEST_jn1k"
+            },
+            {
+              "value": "58732fcf-c255-4efb-82ce-b05f79afd08b",
+              "text": "TEST_jv2e"
+            },
+            {
+              "value": "85f2fa32-a0d4-42f9-b4c3-3d3a2297917f",
+              "text": "TEST_maxe"
+            },
+            {
+              "value": "4100957e-f5c3-4884-a99b-ca643f67215b",
+              "text": "TEST_me5i"
+            },
+            {
+              "value": "d43e6fd4-34a6-40a5-854f-6bc50fd285a0",
+              "text": "TEST_mezz"
+            },
+            {
+              "value": "9eb2ea8d-f609-4f9c-9331-d9eab2ccafe0",
+              "text": "TEST_mymi"
+            },
+            {
+              "value": "5a25cfff-5a1b-4ab8-9fb0-87efbb09e495",
+              "text": "TEST_n23x"
+            },
+            {
+              "value": "1e32d54c-1377-4fb3-a0fd-6b7a3a0b3c8b",
+              "text": "TEST_n6iw"
+            },
+            {
+              "value": "041f2168-528e-4aa7-b663-6081484a436c",
+              "text": "TEST_nkgj"
+            },
+            {
+              "value": "7cfcda98-376d-4787-b2c8-26beedcbd5ef",
+              "text": "TEST_nth1"
+            },
+            {
+              "value": "427b1024-a040-47e9-8f26-9674aef8eb77",
+              "text": "TEST_Property_k4we03"
+            },
+            {
+              "value": "a3c4dcd7-8a69-4dd2-af32-251cfeb0550f",
+              "text": "TEST_Property_ma3tvm"
+            },
+            {
+              "value": "6c9d491f-01ff-4db3-b4af-d239c52ce559",
+              "text": "TEST_r25m"
+            },
+            {
+              "value": "80a8d1f9-5b7a-44b0-8654-dca91a71ed9e",
+              "text": "TEST_s0q5"
+            },
+            {
+              "value": "85f5a291-804f-41a1-bdfd-3c1f4d57b252",
+              "text": "TEST_sgwh"
+            },
+            {
+              "value": "dab906ae-ba74-4328-a4b5-57c441daa75b",
+              "text": "TEST_skri"
+            },
+            {
+              "value": "19aa1683-1531-49e7-bc99-3d8242cbbee0",
+              "text": "TEST_vh5e"
+            },
+            {
+              "value": "69ce68a9-426e-4082-a5c8-df54a5ae84ff",
+              "text": "TEST_wyxt"
+            },
+            {
+              "value": "78b35ab9-b264-4a18-8020-5e62afc8bdeb",
+              "text": "TEST_xyn2"
+            },
+            {
+              "value": "fe58f78b-d9e7-42f5-976d-252247fef288",
+              "text": "TEST_z179"
+            },
+            {
+              "value": "f6ac5c75-f541-4e9e-827a-297d70c15130",
+              "text": "TEST_zehx"
+            },
+            {
+              "value": "67d71114-fb94-47e4-92c1-8d66c256cf1d",
+              "text": "testcharge property"
+            },
+            {
+              "value": "b1dc2c8f-5249-4ad8-b578-d9cc6e0d7360",
+              "text": "testecancelationPROP"
+            },
+            {
+              "value": "6947b9b3-27f6-4cbb-aece-f31ffc57ea8a",
+              "text": "testepropautoAPI"
+            },
+            {
+              "value": "bc1e29e8-d7f2-4e21-b253-84a0c72fddb9",
+              "text": "testmigration"
+            },
+            {
+              "value": "57869655-0371-4b9e-bf68-c4501bc34086",
+              "text": "UltimateTest 1762452366"
+            },
+            {
+              "value": "f92f363b-ce20-4061-a8b3-a56f47668f5b",
+              "text": "VisualTest_1762461350"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "adultCount",
+          "id": "adultCount",
+          "name": "adultCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "options": [
+            {
+              "value": "1",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "childrenCount",
+          "id": "childrenCount",
+          "name": "childrenCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "options": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "infantCount",
+          "id": "infantCount",
+          "name": "infantCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "options": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            }
+          ]
+        }
+      ],
+      "textareas": [
+        {
+          "type": "textarea",
+          "visible": true,
+          "testid": "notes",
+          "id": "notes",
+          "name": "notes",
+          "class": "form-control",
+          "placeholder": "Notas (do convidado)",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null
+        }
+      ],
+      "labels": [
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyUid-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "checkInDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "disabled": false,
+          "text": "De",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "checkOutDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "disabled": false,
+          "text": "Para",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "adultCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Adultos",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "childrenCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Crianças",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "infantCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Bebês",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "petCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Animais de estimação",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "notes-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Anotações",
+          "for": null
+        }
+      ],
+      "checkboxes": [],
+      "radios": []
+    },
+    "summary": {
+      "buttons": 12,
+      "inputs": 5,
+      "checkboxes": 0,
+      "radios": 0,
+      "selects": 4,
+      "textareas": 1,
+      "labels": 8
+    }
+  },
+  "tab2_informacao_cliente": {
+    "timestamp": "2025-11-08 18:08:20",
+    "tab_name": "Informacao ao cliente",
+    "elements": {
+      "buttons": [
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": "addLeadButton",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Adicionar lead"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "filter-icon",
+          "id": null,
+          "name": null,
+          "class": "sc-JrDLc kcnMUT",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "close",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "×\nClose"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-NEW",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD QrKwD btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Novo"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-ON_HOLD",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD igRxKU btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Em espera"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BOOKED_BY_AGENT",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD cNrMPH btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Reservado"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BLOCKED",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD jTJVwn btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Bloqueio"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-modal-footer-cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit",
+          "id": "submit",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit-open-mailer",
+          "id": "submit-open-mailer",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar e abrir mailer"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "lead",
+          "id": null,
+          "name": null,
+          "class": "rbt-input-main form-control rbt-input",
+          "placeholder": "Nome ou email do hóspede",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "text",
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "rbt-input-hint",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": ""
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "firstName",
+          "id": "firstName",
+          "name": "firstName",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "lastName",
+          "id": "lastName",
+          "name": "lastName",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "email",
+          "id": "email",
+          "name": "email",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "secondaryEmail",
+          "id": "secondaryEmail",
+          "name": "secondaryEmail",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "react-select-2-input",
+          "name": null,
+          "class": "",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "text",
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "phoneNumber_base",
+          "id": "phoneNumber_base",
+          "name": "phoneNumber_base",
+          "class": "form-control",
+          "placeholder": "512 345 678",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "react-select-3-input",
+          "name": null,
+          "class": "",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "text",
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "cellPhoneNumber_base",
+          "id": "cellPhoneNumber_base",
+          "name": "cellPhoneNumber_base",
+          "class": "form-control",
+          "placeholder": "512 345 678",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "address",
+          "id": "address",
+          "name": "address",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "address2",
+          "id": "address2",
+          "name": "address2",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "city",
+          "id": "city",
+          "name": "city",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "state",
+          "id": "state",
+          "name": "state",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "zipCode",
+          "id": "zipCode",
+          "name": "zipCode",
+          "class": "form-control",
+          "placeholder": "CEP",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        }
+      ],
+      "selects": [
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "countryCode",
+          "id": "countryCode",
+          "name": "countryCode",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "options": [
+            {
+              "value": "AF",
+              "text": "🇦🇫 Afeganistão"
+            },
+            {
+              "value": "ZA",
+              "text": "🇿🇦 África do Sul"
+            },
+            {
+              "value": "AL",
+              "text": "🇦🇱 Albânia"
+            },
+            {
+              "value": "DE",
+              "text": "🇩🇪 Alemanha"
+            },
+            {
+              "value": "AD",
+              "text": "🇦🇩 Andorra"
+            },
+            {
+              "value": "AO",
+              "text": "🇦🇴 Angola"
+            },
+            {
+              "value": "AI",
+              "text": "🇦🇮 Anguila"
+            },
+            {
+              "value": "AG",
+              "text": "🇦🇬 Antígua e Barbuda"
+            },
+            {
+              "value": "SA",
+              "text": "🇸🇦 Arábia Saudita"
+            },
+            {
+              "value": "DZ",
+              "text": "🇩🇿 Argélia"
+            },
+            {
+              "value": "AR",
+              "text": "🇦🇷 Argentina"
+            },
+            {
+              "value": "AM",
+              "text": "🇦🇲 Armênia"
+            },
+            {
+              "value": "AW",
+              "text": "🇦🇼 Aruba"
+            },
+            {
+              "value": "AU",
+              "text": "🇦🇺 Austrália"
+            },
+            {
+              "value": "AT",
+              "text": "🇦🇹 Áustria"
+            },
+            {
+              "value": "AZ",
+              "text": "🇦🇿 Azerbaijão"
+            },
+            {
+              "value": "BS",
+              "text": "🇧🇸 Bahamas"
+            },
+            {
+              "value": "BD",
+              "text": "🇧🇩 Bangladesh"
+            },
+            {
+              "value": "BB",
+              "text": "🇧🇧 Barbados"
+            },
+            {
+              "value": "BH",
+              "text": "🇧🇭 Barein"
+            },
+            {
+              "value": "BE",
+              "text": "🇧🇪 Bélgica"
+            },
+            {
+              "value": "BZ",
+              "text": "🇧🇿 Belize"
+            },
+            {
+              "value": "BJ",
+              "text": "🇧🇯 Benin"
+            },
+            {
+              "value": "BM",
+              "text": "🇧🇲 Bermudas"
+            },
+            {
+              "value": "BY",
+              "text": "🇧🇾 Bielorrússia"
+            },
+            {
+              "value": "BO",
+              "text": "🇧🇴 Bolívia"
+            },
+            {
+              "value": "BA",
+              "text": "🇧🇦 Bósnia e Herzegovina"
+            },
+            {
+              "value": "BW",
+              "text": "🇧🇼 Botsuana"
+            },
+            {
+              "value": "BR",
+              "text": "🇧🇷 Brasil"
+            },
+            {
+              "value": "BN",
+              "text": "🇧🇳 Brunei"
+            },
+            {
+              "value": "BG",
+              "text": "🇧🇬 Bulgária"
+            },
+            {
+              "value": "BF",
+              "text": "🇧🇫 Burquina Faso"
+            },
+            {
+              "value": "BI",
+              "text": "🇧🇮 Burundi"
+            },
+            {
+              "value": "BT",
+              "text": "🇧🇹 Butão"
+            },
+            {
+              "value": "CV",
+              "text": "🇨🇻 Cabo Verde"
+            },
+            {
+              "value": "CM",
+              "text": "🇨🇲 Camarões"
+            },
+            {
+              "value": "KH",
+              "text": "🇰🇭 Camboja"
+            },
+            {
+              "value": "CA",
+              "text": "🇨🇦 Canadá"
+            },
+            {
+              "value": "QA",
+              "text": "🇶🇦 Catar"
+            },
+            {
+              "value": "KZ",
+              "text": "🇰🇿 Cazaquistão"
+            },
+            {
+              "value": "TD",
+              "text": "🇹🇩 Chade"
+            },
+            {
+              "value": "CL",
+              "text": "🇨🇱 Chile"
+            },
+            {
+              "value": "CN",
+              "text": "🇨🇳 China"
+            },
+            {
+              "value": "CY",
+              "text": "🇨🇾 Chipre"
+            },
+            {
+              "value": "VA",
+              "text": "🇻🇦 Cidade do Vaticano"
+            },
+            {
+              "value": "CO",
+              "text": "🇨🇴 Colômbia"
+            },
+            {
+              "value": "KM",
+              "text": "🇰🇲 Comores"
+            },
+            {
+              "value": "CD",
+              "text": "🇨🇩 Congo - Kinshasa"
+            },
+            {
+              "value": "KP",
+              "text": "🇰🇵 Coreia do Norte"
+            },
+            {
+              "value": "KR",
+              "text": "🇰🇷 Coreia do Sul"
+            },
+            {
+              "value": "CI",
+              "text": "🇨🇮 Costa do Marfim"
+            },
+            {
+              "value": "CR",
+              "text": "🇨🇷 Costa Rica"
+            },
+            {
+              "value": "HR",
+              "text": "🇭🇷 Croácia"
+            },
+            {
+              "value": "CU",
+              "text": "🇨🇺 Cuba"
+            },
+            {
+              "value": "CW",
+              "text": "🇨🇼 Curaçao"
+            },
+            {
+              "value": "DK",
+              "text": "🇩🇰 Dinamarca"
+            },
+            {
+              "value": "DJ",
+              "text": "🇩🇯 Djibuti"
+            },
+            {
+              "value": "DM",
+              "text": "🇩🇲 Dominica"
+            },
+            {
+              "value": "EG",
+              "text": "🇪🇬 Egito"
+            },
+            {
+              "value": "SV",
+              "text": "🇸🇻 El Salvador"
+            },
+            {
+              "value": "AE",
+              "text": "🇦🇪 Emirados Árabes Unidos"
+            },
+            {
+              "value": "EC",
+              "text": "🇪🇨 Equador"
+            },
+            {
+              "value": "ER",
+              "text": "🇪🇷 Eritreia"
+            },
+            {
+              "value": "SK",
+              "text": "🇸🇰 Eslováquia"
+            },
+            {
+              "value": "SI",
+              "text": "🇸🇮 Eslovênia"
+            },
+            {
+              "value": "ES",
+              "text": "🇪🇸 Espanha"
+            },
+            {
+              "value": "SZ",
+              "text": "🇸🇿 Essuatíni"
+            },
+            {
+              "value": "US",
+              "text": "🇺🇸 Estados Unidos"
+            },
+            {
+              "value": "EE",
+              "text": "🇪🇪 Estônia"
+            },
+            {
+              "value": "ET",
+              "text": "🇪🇹 Etiópia"
+            },
+            {
+              "value": "FJ",
+              "text": "🇫🇯 Fiji"
+            },
+            {
+              "value": "PH",
+              "text": "🇵🇭 Filipinas"
+            },
+            {
+              "value": "FI",
+              "text": "🇫🇮 Finlândia"
+            },
+            {
+              "value": "FR",
+              "text": "🇫🇷 França"
+            },
+            {
+              "value": "GA",
+              "text": "🇬🇦 Gabão"
+            },
+            {
+              "value": "GM",
+              "text": "🇬🇲 Gâmbia"
+            },
+            {
+              "value": "GH",
+              "text": "🇬🇭 Gana"
+            },
+            {
+              "value": "GE",
+              "text": "🇬🇪 Geórgia"
+            },
+            {
+              "value": "GI",
+              "text": "🇬🇮 Gibraltar"
+            },
+            {
+              "value": "GD",
+              "text": "🇬🇩 Granada"
+            },
+            {
+              "value": "GR",
+              "text": "🇬🇷 Grécia"
+            },
+            {
+              "value": "GL",
+              "text": "🇬🇱 Groenlândia"
+            },
+            {
+              "value": "GP",
+              "text": "🇬🇵 Guadalupe"
+            },
+            {
+              "value": "GU",
+              "text": "🇬🇺 Guam"
+            },
+            {
+              "value": "GT",
+              "text": "🇬🇹 Guatemala"
+            },
+            {
+              "value": "GY",
+              "text": "🇬🇾 Guiana"
+            },
+            {
+              "value": "GF",
+              "text": "🇬🇫 Guiana Francesa"
+            },
+            {
+              "value": "GN",
+              "text": "🇬🇳 Guiné"
+            },
+            {
+              "value": "GQ",
+              "text": "🇬🇶 Guiné Equatorial"
+            },
+            {
+              "value": "GW",
+              "text": "🇬🇼 Guiné-Bissau"
+            },
+            {
+              "value": "HT",
+              "text": "🇭🇹 Haiti"
+            },
+            {
+              "value": "HN",
+              "text": "🇭🇳 Honduras"
+            },
+            {
+              "value": "HK",
+              "text": "🇭🇰 Hong Kong"
+            },
+            {
+              "value": "HU",
+              "text": "🇭🇺 Hungria"
+            },
+            {
+              "value": "YE",
+              "text": "🇾🇪 Iêmen"
+            },
+            {
+              "value": "CX",
+              "text": "🇨🇽 Ilha Christmas"
+            },
+            {
+              "value": "IM",
+              "text": "🇮🇲 Ilha de Man"
+            },
+            {
+              "value": "NF",
+              "text": "🇳🇫 Ilha Norfolk"
+            },
+            {
+              "value": "KY",
+              "text": "🇰🇾 Ilhas Cayman"
+            },
+            {
+              "value": "CC",
+              "text": "🇨🇨 Ilhas Cocos (Keeling)"
+            },
+            {
+              "value": "CK",
+              "text": "🇨🇰 Ilhas Cook"
+            },
+            {
+              "value": "FO",
+              "text": "🇫🇴 Ilhas Faroé"
+            },
+            {
+              "value": "FK",
+              "text": "🇫🇰 Ilhas Malvinas (Ilhas Falkland)"
+            },
+            {
+              "value": "MH",
+              "text": "🇲🇭 Ilhas Marshall"
+            },
+            {
+              "value": "PN",
+              "text": "🇵🇳 Ilhas Pitcairn"
+            },
+            {
+              "value": "SB",
+              "text": "🇸🇧 Ilhas Salomão"
+            },
+            {
+              "value": "TC",
+              "text": "🇹🇨 Ilhas Turcas e Caicos"
+            },
+            {
+              "value": "VI",
+              "text": "🇻🇮 Ilhas Virgens Americanas"
+            },
+            {
+              "value": "VG",
+              "text": "🇻🇬 Ilhas Virgens Britânicas"
+            },
+            {
+              "value": "IN",
+              "text": "🇮🇳 Índia"
+            },
+            {
+              "value": "ID",
+              "text": "🇮🇩 Indonésia"
+            },
+            {
+              "value": "IR",
+              "text": "🇮🇷 Irã"
+            },
+            {
+              "value": "IQ",
+              "text": "🇮🇶 Iraque"
+            },
+            {
+              "value": "IE",
+              "text": "🇮🇪 Irlanda"
+            },
+            {
+              "value": "IS",
+              "text": "🇮🇸 Islândia"
+            },
+            {
+              "value": "IL",
+              "text": "🇮🇱 Israel"
+            },
+            {
+              "value": "IT",
+              "text": "🇮🇹 Itália"
+            },
+            {
+              "value": "JM",
+              "text": "🇯🇲 Jamaica"
+            },
+            {
+              "value": "JP",
+              "text": "🇯🇵 Japão"
+            },
+            {
+              "value": "JE",
+              "text": "🇯🇪 Jersey"
+            },
+            {
+              "value": "JO",
+              "text": "🇯🇴 Jordânia"
+            },
+            {
+              "value": "KW",
+              "text": "🇰🇼 Kuwait"
+            },
+            {
+              "value": "LA",
+              "text": "🇱🇦 Laos"
+            },
+            {
+              "value": "LS",
+              "text": "🇱🇸 Lesoto"
+            },
+            {
+              "value": "LV",
+              "text": "🇱🇻 Letônia"
+            },
+            {
+              "value": "LB",
+              "text": "🇱🇧 Líbano"
+            },
+            {
+              "value": "LR",
+              "text": "🇱🇷 Libéria"
+            },
+            {
+              "value": "LY",
+              "text": "🇱🇾 Líbia"
+            },
+            {
+              "value": "LI",
+              "text": "🇱🇮 Liechtenstein"
+            },
+            {
+              "value": "LT",
+              "text": "🇱🇹 Lituânia"
+            },
+            {
+              "value": "LU",
+              "text": "🇱🇺 Luxemburgo"
+            },
+            {
+              "value": "MO",
+              "text": "🇲🇴 Macau"
+            },
+            {
+              "value": "MK",
+              "text": "🇲🇰 Macedônia do Norte"
+            },
+            {
+              "value": "MG",
+              "text": "🇲🇬 Madagascar"
+            },
+            {
+              "value": "MY",
+              "text": "🇲🇾 Malásia"
+            },
+            {
+              "value": "MW",
+              "text": "🇲🇼 Malaui"
+            },
+            {
+              "value": "MV",
+              "text": "🇲🇻 Maldivas"
+            },
+            {
+              "value": "ML",
+              "text": "🇲🇱 Mali"
+            },
+            {
+              "value": "MT",
+              "text": "🇲🇹 Malta"
+            },
+            {
+              "value": "MA",
+              "text": "🇲🇦 Marrocos"
+            },
+            {
+              "value": "MQ",
+              "text": "🇲🇶 Martinica"
+            },
+            {
+              "value": "MU",
+              "text": "🇲🇺 Maurício"
+            },
+            {
+              "value": "MR",
+              "text": "🇲🇷 Mauritânia"
+            },
+            {
+              "value": "YT",
+              "text": "🇾🇹 Mayotte"
+            },
+            {
+              "value": "MX",
+              "text": "🇲🇽 México"
+            },
+            {
+              "value": "MM",
+              "text": "🇲🇲 Mianmar (Birmânia)"
+            },
+            {
+              "value": "FM",
+              "text": "🇫🇲 Micronésia"
+            },
+            {
+              "value": "MZ",
+              "text": "🇲🇿 Moçambique"
+            },
+            {
+              "value": "MD",
+              "text": "🇲🇩 Moldávia"
+            },
+            {
+              "value": "MC",
+              "text": "🇲🇨 Mônaco"
+            },
+            {
+              "value": "MN",
+              "text": "🇲🇳 Mongólia"
+            },
+            {
+              "value": "ME",
+              "text": "🇲🇪 Montenegro"
+            },
+            {
+              "value": "MS",
+              "text": "🇲🇸 Montserrat"
+            },
+            {
+              "value": "NA",
+              "text": "🇳🇦 Namíbia"
+            },
+            {
+              "value": "NR",
+              "text": "🇳🇷 Nauru"
+            },
+            {
+              "value": "NP",
+              "text": "🇳🇵 Nepal"
+            },
+            {
+              "value": "NI",
+              "text": "🇳🇮 Nicarágua"
+            },
+            {
+              "value": "NE",
+              "text": "🇳🇪 Níger"
+            },
+            {
+              "value": "NG",
+              "text": "🇳🇬 Nigéria"
+            },
+            {
+              "value": "NU",
+              "text": "🇳🇺 Niue"
+            },
+            {
+              "value": "NO",
+              "text": "🇳🇴 Noruega"
+            },
+            {
+              "value": "NC",
+              "text": "🇳🇨 Nova Caledônia"
+            },
+            {
+              "value": "NZ",
+              "text": "🇳🇿 Nova Zelândia"
+            },
+            {
+              "value": "OM",
+              "text": "🇴🇲 Omã"
+            },
+            {
+              "value": "NL",
+              "text": "🇳🇱 Países Baixos"
+            },
+            {
+              "value": "BQ",
+              "text": "🇧🇶 Países Baixos Caribenhos"
+            },
+            {
+              "value": "PW",
+              "text": "🇵🇼 Palau"
+            },
+            {
+              "value": "PS",
+              "text": "🇵🇸 Palestina"
+            },
+            {
+              "value": "PA",
+              "text": "🇵🇦 Panamá"
+            },
+            {
+              "value": "PG",
+              "text": "🇵🇬 Papua-Nova Guiné"
+            },
+            {
+              "value": "PK",
+              "text": "🇵🇰 Paquistão"
+            },
+            {
+              "value": "PY",
+              "text": "🇵🇾 Paraguai"
+            },
+            {
+              "value": "PE",
+              "text": "🇵🇪 Peru"
+            },
+            {
+              "value": "PF",
+              "text": "🇵🇫 Polinésia Francesa"
+            },
+            {
+              "value": "PL",
+              "text": "🇵🇱 Polônia"
+            },
+            {
+              "value": "PR",
+              "text": "🇵🇷 Porto Rico"
+            },
+            {
+              "value": "PT",
+              "text": "🇵🇹 Portugal"
+            },
+            {
+              "value": "KE",
+              "text": "🇰🇪 Quênia"
+            },
+            {
+              "value": "KG",
+              "text": "🇰🇬 Quirguistão"
+            },
+            {
+              "value": "KI",
+              "text": "🇰🇮 Quiribati"
+            },
+            {
+              "value": "GB",
+              "text": "🇬🇧 Reino Unido"
+            },
+            {
+              "value": "CF",
+              "text": "🇨🇫 República Centro-Africana"
+            },
+            {
+              "value": "CG",
+              "text": "🇨🇬 República do Congo"
+            },
+            {
+              "value": "DO",
+              "text": "🇩🇴 República Dominicana"
+            },
+            {
+              "value": "RE",
+              "text": "🇷🇪 Reunião"
+            },
+            {
+              "value": "RO",
+              "text": "🇷🇴 Romênia"
+            },
+            {
+              "value": "RW",
+              "text": "🇷🇼 Ruanda"
+            },
+            {
+              "value": "RU",
+              "text": "🇷🇺 Rússia"
+            },
+            {
+              "value": "EH",
+              "text": "🇪🇭 Saara Ocidental"
+            },
+            {
+              "value": "WS",
+              "text": "🇼🇸 Samoa"
+            },
+            {
+              "value": "AS",
+              "text": "🇦🇸 Samoa Americana"
+            },
+            {
+              "value": "SM",
+              "text": "🇸🇲 San Marino"
+            },
+            {
+              "value": "SH",
+              "text": "🇸🇭 Santa Helena"
+            },
+            {
+              "value": "LC",
+              "text": "🇱🇨 Santa Lúcia"
+            },
+            {
+              "value": "KN",
+              "text": "🇰🇳 São Cristóvão e Névis"
+            },
+            {
+              "value": "PM",
+              "text": "🇵🇲 São Pedro e Miquelão"
+            },
+            {
+              "value": "ST",
+              "text": "🇸🇹 São Tomé e Príncipe"
+            },
+            {
+              "value": "VC",
+              "text": "🇻🇨 São Vicente e Granadinas"
+            },
+            {
+              "value": "SC",
+              "text": "🇸🇨 Seicheles"
+            },
+            {
+              "value": "SN",
+              "text": "🇸🇳 Senegal"
+            },
+            {
+              "value": "SL",
+              "text": "🇸🇱 Serra Leoa"
+            },
+            {
+              "value": "RS",
+              "text": "🇷🇸 Sérvia"
+            },
+            {
+              "value": "SG",
+              "text": "🇸🇬 Singapura"
+            },
+            {
+              "value": "SX",
+              "text": "🇸🇽 Sint Maarten"
+            },
+            {
+              "value": "SY",
+              "text": "🇸🇾 Síria"
+            },
+            {
+              "value": "SO",
+              "text": "🇸🇴 Somália"
+            },
+            {
+              "value": "LK",
+              "text": "🇱🇰 Sri Lanka"
+            },
+            {
+              "value": "SE",
+              "text": "🇸🇪 Suécia"
+            },
+            {
+              "value": "CH",
+              "text": "🇨🇭 Suíça"
+            },
+            {
+              "value": "SR",
+              "text": "🇸🇷 Suriname"
+            },
+            {
+              "value": "SJ",
+              "text": "🇸🇯 Svalbard e Jan Mayen"
+            },
+            {
+              "value": "TJ",
+              "text": "🇹🇯 Tadjiquistão"
+            },
+            {
+              "value": "TH",
+              "text": "🇹🇭 Tailândia"
+            },
+            {
+              "value": "TW",
+              "text": "🇹🇼 Taiwan"
+            },
+            {
+              "value": "TZ",
+              "text": "🇹🇿 Tanzânia"
+            },
+            {
+              "value": "CZ",
+              "text": "🇨🇿 Tchéquia"
+            },
+            {
+              "value": "TG",
+              "text": "🇹🇬 Togo"
+            },
+            {
+              "value": "TO",
+              "text": "🇹🇴 Tonga"
+            },
+            {
+              "value": "TT",
+              "text": "🇹🇹 Trinidad e Tobago"
+            },
+            {
+              "value": "TN",
+              "text": "🇹🇳 Tunísia"
+            },
+            {
+              "value": "TM",
+              "text": "🇹🇲 Turcomenistão"
+            },
+            {
+              "value": "TR",
+              "text": "🇹🇷 Turquia"
+            },
+            {
+              "value": "TV",
+              "text": "🇹🇻 Tuvalu"
+            },
+            {
+              "value": "UA",
+              "text": "🇺🇦 Ucrânia"
+            },
+            {
+              "value": "UG",
+              "text": "🇺🇬 Uganda"
+            },
+            {
+              "value": "UY",
+              "text": "🇺🇾 Uruguai"
+            },
+            {
+              "value": "UZ",
+              "text": "🇺🇿 Uzbequistão"
+            },
+            {
+              "value": "VU",
+              "text": "🇻🇺 Vanuatu"
+            },
+            {
+              "value": "VE",
+              "text": "🇻🇪 Venezuela"
+            },
+            {
+              "value": "VN",
+              "text": "🇻🇳 Vietnã"
+            },
+            {
+              "value": "WF",
+              "text": "🇼🇫 Wallis e Futuna"
+            },
+            {
+              "value": "ZM",
+              "text": "🇿🇲 Zâmbia"
+            },
+            {
+              "value": "ZW",
+              "text": "🇿🇼 Zimbábue"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "preferredLocale",
+          "id": "preferredLocale",
+          "name": "preferredLocale",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "options": [
+            {
+              "value": "de_DE",
+              "text": "🇩🇪 Deutsch"
+            },
+            {
+              "value": "en_US",
+              "text": "🇺🇸 English"
+            },
+            {
+              "value": "es_ES",
+              "text": "🇪🇸 Español"
+            },
+            {
+              "value": "fr_FR",
+              "text": "🇫🇷 French"
+            },
+            {
+              "value": "it_IT",
+              "text": "🇮🇹 Italiano"
+            },
+            {
+              "value": "nl_NL",
+              "text": "🇳🇱 Nederlands"
+            },
+            {
+              "value": "no_NO",
+              "text": "🇳🇴 Norsk"
+            },
+            {
+              "value": "pl_PL",
+              "text": "🇵🇱 Polski"
+            },
+            {
+              "value": "pt_PT",
+              "text": "🇵🇹 Português"
+            },
+            {
+              "value": "ko_KR",
+              "text": "🇰🇷 Korean"
+            },
+            {
+              "value": "ja_JP",
+              "text": "🇯🇵 Japanese"
+            },
+            {
+              "value": "tr_TR",
+              "text": "🇹🇷 Turkish"
+            },
+            {
+              "value": "vi_VN",
+              "text": "🇻🇳 Vietnamese"
+            }
+          ]
+        }
+      ],
+      "textareas": [],
+      "labels": [
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "firstName-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Primeiro nome",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "lastName-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Último Nome",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "email-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "disabled": false,
+          "text": "Email",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "secondaryEmail-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Email secundário",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "phoneNumber-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Telefone",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "cellPhoneNumber-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Telemóvel",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "address-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Endereço",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "address2-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Endereço 2",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "city-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Cidade",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "state-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Estado",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "countryCode-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "País",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "preferredLocale-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-4 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Idioma",
+          "for": null
+        }
+      ],
+      "checkboxes": [],
+      "radios": []
+    },
+    "summary": {
+      "buttons": 10,
+      "inputs": 15,
+      "checkboxes": 0,
+      "radios": 0,
+      "selects": 2,
+      "textareas": 0,
+      "labels": 12
+    }
+  },
+  "tab3_detalhes_estadia": {
+    "timestamp": "2025-11-08 18:08:25",
+    "tab_name": "Detalhes da estadia",
+    "elements": {
+      "buttons": [
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": "addLeadButton",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Adicionar lead"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "filter-icon",
+          "id": null,
+          "name": null,
+          "class": "sc-JrDLc kcnMUT",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "close",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "×\nClose"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-NEW",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD QrKwD btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Novo"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-ON_HOLD",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD igRxKU btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Em espera"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BOOKED_BY_AGENT",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD cNrMPH btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Reservado"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BLOCKED",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD jTJVwn btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Bloqueio"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-modal-footer-cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit",
+          "id": "submit",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit-open-mailer",
+          "id": "submit-open-mailer",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar e abrir mailer"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "lead",
+          "id": null,
+          "name": null,
+          "class": "rbt-input-main form-control rbt-input",
+          "placeholder": "Nome ou email do hóspede",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "text",
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "rbt-input-hint",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": ""
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "arrivalDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "8 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "arrivalDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "15:00",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "departureDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "9 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "departureDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "17:00",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "flightNumber",
+          "id": "flightNumber",
+          "name": "flightNumber",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "reasonForTrip",
+          "id": "reasonForTrip",
+          "name": "reasonForTrip",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        }
+      ],
+      "selects": [],
+      "textareas": [
+        {
+          "type": "textarea",
+          "visible": true,
+          "testid": "extraNotes",
+          "id": "extraNotes",
+          "name": "extraNotes",
+          "class": "form-control",
+          "placeholder": "Notas extras (privadas da agência)",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null
+        }
+      ],
+      "labels": [
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "arrivalDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Check-in",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "departureDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Check-out",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "extraNotes-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Notas extras",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "flightNumber-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Número do vôo",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "reasonForTrip-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Motivo da viagem",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": null,
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Terá visitas? No",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": null,
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Vai fazer festa? No",
+          "for": null
+        }
+      ],
+      "checkboxes": [],
+      "radios": []
+    },
+    "summary": {
+      "buttons": 10,
+      "inputs": 8,
+      "checkboxes": 0,
+      "radios": 0,
+      "selects": 0,
+      "textareas": 1,
+      "labels": 7
+    }
+  },
+  "tab4_notas": {
+    "timestamp": "2025-11-08 18:08:27",
+    "tab_name": "Notas",
+    "elements": {
+      "buttons": [
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": "addLeadButton",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Adicionar lead"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "filter-icon",
+          "id": null,
+          "name": null,
+          "class": "sc-JrDLc kcnMUT",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "close",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "×\nClose"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-NEW",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD QrKwD btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Novo"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-ON_HOLD",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD igRxKU btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Em espera"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BOOKED_BY_AGENT",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD cNrMPH btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Reservado"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BLOCKED",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD jTJVwn btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Bloqueio"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-modal-footer-cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit",
+          "id": "submit",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit-open-mailer",
+          "id": "submit-open-mailer",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar e abrir mailer"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "lead",
+          "id": null,
+          "name": null,
+          "class": "rbt-input-main form-control rbt-input",
+          "placeholder": "Nome ou email do hóspede",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "text",
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "rbt-input-hint",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": ""
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "arrivalDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "8 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "arrivalDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "15:00",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "departureDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "9 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "departureDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "17:00",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "flightNumber",
+          "id": "flightNumber",
+          "name": "flightNumber",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "reasonForTrip",
+          "id": "reasonForTrip",
+          "name": "reasonForTrip",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        }
+      ],
+      "selects": [],
+      "textareas": [
+        {
+          "type": "textarea",
+          "visible": true,
+          "testid": "extraNotes",
+          "id": "extraNotes",
+          "name": "extraNotes",
+          "class": "form-control",
+          "placeholder": "Notas extras (privadas da agência)",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null
+        }
+      ],
+      "labels": [
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "arrivalDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Check-in",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "departureDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Check-out",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "extraNotes-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Notas extras",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "flightNumber-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Número do vôo",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "reasonForTrip-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Motivo da viagem",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": null,
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Terá visitas? No",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": null,
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Vai fazer festa? No",
+          "for": null
+        }
+      ],
+      "checkboxes": [],
+      "radios": []
+    },
+    "summary": {
+      "buttons": 10,
+      "inputs": 8,
+      "checkboxes": 0,
+      "radios": 0,
+      "selects": 0,
+      "textareas": 1,
+      "labels": 7
+    }
+  },
+  "tab5_extras": {
+    "timestamp": "2025-11-08 18:08:30",
+    "tab_name": "Extras",
+    "elements": {
+      "buttons": [
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": "addLeadButton",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Adicionar lead"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "filter-icon",
+          "id": null,
+          "name": null,
+          "class": "sc-JrDLc kcnMUT",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "close",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "×\nClose"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-NEW",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD QrKwD btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Novo"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-ON_HOLD",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD igRxKU btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Em espera"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BOOKED_BY_AGENT",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD cNrMPH btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Reservado"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-status-button-BLOCKED",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy sc-fThUAz sc-czkgLR kcYxnD jTJVwn btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Bloqueio"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "lead-modal-footer-cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit",
+          "id": "submit",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "button-submit-open-mailer",
+          "id": "submit-open-mailer",
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Criar e abrir mailer"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "lead",
+          "id": null,
+          "name": null,
+          "class": "rbt-input-main form-control rbt-input",
+          "placeholder": "Nome ou email do hóspede",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": "text",
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "rbt-input-hint",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": ""
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "arrivalDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "8 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "arrivalDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "15:00",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "departureDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "9 de nov de 2025",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": null,
+          "id": "departureDate",
+          "name": null,
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "17:00",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "flightNumber",
+          "id": "flightNumber",
+          "name": "flightNumber",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "reasonForTrip",
+          "id": "reasonForTrip",
+          "name": "reasonForTrip",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null,
+          "input_type": null,
+          "value": "",
+          "readonly": null
+        }
+      ],
+      "selects": [],
+      "textareas": [
+        {
+          "type": "textarea",
+          "visible": true,
+          "testid": "extraNotes",
+          "id": "extraNotes",
+          "name": "extraNotes",
+          "class": "form-control",
+          "placeholder": "Notas extras (privadas da agência)",
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": null
+        }
+      ],
+      "labels": [
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "arrivalDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Check-in",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "departureDate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Check-out",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "extraNotes-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Notas extras",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "flightNumber-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Número do vôo",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "reasonForTrip-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-3 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Motivo da viagem",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": null,
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Terá visitas? No",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": null,
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "disabled": false,
+          "text": "Vai fazer festa? No",
+          "for": null
+        }
+      ],
+      "checkboxes": [],
+      "radios": []
+    },
+    "summary": {
+      "buttons": 10,
+      "inputs": 8,
+      "checkboxes": 0,
+      "radios": 0,
+      "selects": 0,
+      "textareas": 1,
+      "labels": 7
+    }
+  }
+}

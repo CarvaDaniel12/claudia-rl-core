@@ -1,0 +1,3091 @@
+{
+  "timestamp": "2025-11-06 20:32:02",
+  "page_url": "https://platform.test.hostfully.com/app/#/properties",
+  "buttons": [
+    {
+      "index": 0,
+      "text": "Adicionar propriedade ",
+      "testid": "add-property-button",
+      "class": "dropdown-toggle btn btn-primary",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1059.4375,
+        "y": 85,
+        "width": 168.0625,
+        "height": 34
+      }
+    },
+    {
+      "index": 1,
+      "text": "",
+      "testid": "filter-icon",
+      "class": "sc-JrDLc kcnMUT",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1486.5,
+        "y": 85,
+        "width": 36,
+        "height": 36
+      }
+    },
+    {
+      "index": 2,
+      "text": "",
+      "testid": "clear-filters",
+      "class": "sc-aXZVg ldwMXy btn btn-default",
+      "type": "button",
+      "visible": false
+    },
+    {
+      "index": 3,
+      "text": "",
+      "testid": "submit-filters",
+      "class": "sc-aXZVg ldwMXy btn btn-primary",
+      "type": "submit",
+      "visible": false
+    },
+    {
+      "index": 4,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 245,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 5,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 207.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 6,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 388,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 7,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 350.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 8,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 531,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 9,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 493.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 10,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 674,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 11,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 636.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 12,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 817,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 13,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 779.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 14,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 960,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 15,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 922.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 16,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 1103,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 17,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 1065.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 18,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 1246,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 19,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 1208.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 20,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 1389,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 21,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 1351.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 22,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 1532,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 23,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 1494.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 24,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 1675,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 25,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 1637.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 26,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 1818,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 27,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 1780.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 28,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 1961,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 29,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 1923.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 30,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 2104,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 31,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 2066.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 32,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 2247,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 33,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 2209.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 34,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 2390,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 35,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 2352.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 36,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 2533,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 37,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 2495.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 38,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 2676,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 39,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 2638.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 40,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 2819,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 41,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 2781.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 42,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 2962,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 43,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 2924.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 44,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 3105,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 45,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 3067.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 46,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 3248,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 47,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 3210.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 48,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 3391,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 49,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 3353.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 50,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 3534,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 51,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 3496.59375,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "index": 52,
+      "text": "Definir permissões",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy btn btn-link",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1062.5,
+        "y": 3677,
+        "width": 134.609375,
+        "height": 34
+      }
+    },
+    {
+      "index": 53,
+      "text": "",
+      "testid": "property-actions-menu",
+      "class": "sc-kGJcXs ipqFdr dropdown-toggle btn btn-xs btn-default",
+      "type": "button",
+      "visible": true,
+      "position": {
+        "x": 1481.5,
+        "y": 3639.59375,
+        "width": 26,
+        "height": 18
+      }
+    }
+  ],
+  "links": [
+    {
+      "index": 0,
+      "text": "Painel de Gerenciamento",
+      "href": "#/dashboard",
+      "testid": "nav-item-common.dashboard",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 1,
+      "text": "Caixa de Entrada\n661",
+      "href": "#/inbox",
+      "testid": "nav-item-common.inbox",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 2,
+      "text": "Pipeline",
+      "href": "#/pipeline",
+      "testid": "nav-item-common.pipeline",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 3,
+      "text": "Calendário",
+      "href": "#/calendar",
+      "testid": "nav-item-common.calendar",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 4,
+      "text": "Análise de dados",
+      "href": "#/analytics",
+      "testid": "nav-item-common.analytics",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 5,
+      "text": "gerenciadordeprop2",
+      "href": "#",
+      "testid": null,
+      "class": "dropdown-toggle",
+      "visible": true
+    },
+    {
+      "index": 6,
+      "text": "",
+      "href": "#/properties",
+      "testid": null,
+      "class": "active",
+      "visible": false
+    },
+    {
+      "index": 7,
+      "text": "",
+      "href": "#/publishing",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 8,
+      "text": "",
+      "href": "#/third-party-agency",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 9,
+      "text": "",
+      "href": "#/calendar-import",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 10,
+      "text": "",
+      "href": "#/integrations",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 11,
+      "text": "",
+      "href": "#/channels",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 12,
+      "text": "",
+      "href": "#/reports",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 13,
+      "text": "",
+      "href": "#/my-templates",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 14,
+      "text": "",
+      "href": "#/owners",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 15,
+      "text": "",
+      "href": "#/promo-codes",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 16,
+      "text": "",
+      "href": "#/agency-settings",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 17,
+      "text": "",
+      "href": "#/refer",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 18,
+      "text": "",
+      "href": "#/logout",
+      "testid": null,
+      "class": "",
+      "visible": false
+    },
+    {
+      "index": 19,
+      "text": "",
+      "href": "https://help.hostfully.com",
+      "testid": "navbar-help-icon",
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 20,
+      "text": "",
+      "href": "#/properties",
+      "testid": "navbar-guest-experience-icon",
+      "class": "active",
+      "visible": true
+    },
+    {
+      "index": 21,
+      "text": "",
+      "href": "#/properties",
+      "testid": "navbar-hostfully-devices-icon",
+      "class": "active",
+      "visible": true
+    },
+    {
+      "index": 22,
+      "text": "",
+      "href": "#/account",
+      "testid": null,
+      "class": "",
+      "visible": true
+    },
+    {
+      "index": 23,
+      "text": "",
+      "href": "#/property/add/single",
+      "testid": null,
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 24,
+      "text": "",
+      "href": "#/property/add/multi-unit",
+      "testid": null,
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 25,
+      "text": "",
+      "href": "#/property/airbnb-import",
+      "testid": null,
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 26,
+      "text": "",
+      "href": "#",
+      "testid": null,
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 27,
+      "text": "",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 28,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 29,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 30,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 31,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 32,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 33,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 34,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 35,
+      "text": "",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 36,
+      "text": "12-timezoneTestBR->Flo",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 37,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 38,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 39,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 40,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 41,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 42,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 43,
+      "text": "",
+      "href": "#/property/5674e956-b522-4ef9-9f16-494e3fda04ec",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 44,
+      "text": "3-timezone",
+      "href": "#/property/5674e956-b522-4ef9-9f16-494e3fda04ec",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 45,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 46,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 47,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 48,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 49,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 50,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 51,
+      "text": "",
+      "href": "#/property/6a4c28e7-3021-4c3f-bb90-058f987da358",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 52,
+      "text": "4-timezone florida",
+      "href": "#/property/6a4c28e7-3021-4c3f-bb90-058f987da358",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 53,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 54,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 55,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 56,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 57,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 58,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 59,
+      "text": "",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 60,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 61,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 62,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 63,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 64,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 65,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 66,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 67,
+      "text": "",
+      "href": "#/property/07e3a40d-2b13-4efd-ba01-fa57f38cc89c",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 68,
+      "text": "6-timezone flor",
+      "href": "#/property/07e3a40d-2b13-4efd-ba01-fa57f38cc89c",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 69,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 70,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 71,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 72,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 73,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 74,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 75,
+      "text": "",
+      "href": "#/property/ba54f2db-fec7-4ca6-88c4-3700b07616cd",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 76,
+      "text": "AirbnbPhotoMapping1",
+      "href": "#/property/ba54f2db-fec7-4ca6-88c4-3700b07616cd",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 77,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 78,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 79,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 80,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 81,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 82,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 83,
+      "text": "",
+      "href": "#/property/faf30776-12d1-4e2b-9026-c44a0d07b595",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 84,
+      "text": "AirbnbPhotoMapping12345534",
+      "href": "#/property/faf30776-12d1-4e2b-9026-c44a0d07b595",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 85,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 86,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 87,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 88,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 89,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 90,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 91,
+      "text": "",
+      "href": "#/property/dfb77a5f-32ab-413b-bbb5-fb842526c4d3",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 92,
+      "text": "Apt #2 - Active",
+      "href": "#/property/dfb77a5f-32ab-413b-bbb5-fb842526c4d3",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 93,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 94,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 95,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 96,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 97,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 98,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 99,
+      "text": "",
+      "href": "#/property/3a729185-10e5-4f63-b32e-b30a439e32e2",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 100,
+      "text": "Apt #3 - Active",
+      "href": "#/property/3a729185-10e5-4f63-b32e-b30a439e32e2",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 101,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 102,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 103,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 104,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 105,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 106,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 107,
+      "text": "",
+      "href": "#/property/ffd6d278-2199-4c8e-bbd4-6f16b40c8dc1",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 108,
+      "text": "Apt #4 - Active",
+      "href": "#/property/ffd6d278-2199-4c8e-bbd4-6f16b40c8dc1",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 109,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 110,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 111,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 112,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 113,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 114,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 115,
+      "text": "",
+      "href": "#/property/8a8a3dc3-fbff-447e-914a-6275905e1a4b",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 116,
+      "text": "Apt #5 - Active",
+      "href": "#/property/8a8a3dc3-fbff-447e-914a-6275905e1a4b",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 117,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 118,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 119,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 120,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 121,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 122,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 123,
+      "text": "",
+      "href": "#/property/ccf0a1b2-c5f2-4205-8432-81234c1ede69",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 124,
+      "text": "Charming Suite NewThad 1762039655285",
+      "href": "#/property/ccf0a1b2-c5f2-4205-8432-81234c1ede69",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 125,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 126,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 127,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 128,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 129,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 130,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 131,
+      "text": "",
+      "href": "#/property/797a3f1f-650a-422b-bb42-cc818127e766",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 132,
+      "text": "Charming Suite Schaeferborough 1762042980241",
+      "href": "#/property/797a3f1f-650a-422b-bb42-cc818127e766",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 133,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 134,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 135,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 136,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 137,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 138,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 139,
+      "text": "",
+      "href": "#/property/3996998d-4338-4785-8483-43da28860e91",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 140,
+      "text": "Charming Villa Pacochamouth 1762029567881",
+      "href": "#/property/3996998d-4338-4785-8483-43da28860e91",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 141,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 142,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 143,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 144,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 145,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 146,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 147,
+      "text": "",
+      "href": "#/property/18bec39e-4314-447a-8a34-ffb1a6f56a64",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 148,
+      "text": "Cozy Apartment LakeDuncanview 1761959156489",
+      "href": "#/property/18bec39e-4314-447a-8a34-ffb1a6f56a64",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 149,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 150,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 151,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 152,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 153,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 154,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 155,
+      "text": "",
+      "href": "#/property/556e8ed0-c092-4515-95e7-a00b7d5a774e",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 156,
+      "text": "Cozy Condo NorthAra 1761959911354",
+      "href": "#/property/556e8ed0-c092-4515-95e7-a00b7d5a774e",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 157,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 158,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 159,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 160,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 161,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 162,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 163,
+      "text": "",
+      "href": "#/property/9174afd6-1499-476e-aaca-e72360a98d1f",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 164,
+      "text": "Cozy Villa Balistreristad 1762040967528",
+      "href": "#/property/9174afd6-1499-476e-aaca-e72360a98d1f",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 165,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 166,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 167,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 168,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 169,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 170,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 171,
+      "text": "",
+      "href": "#/property/fe62e2fa-6436-4325-a453-3215e5f6c2c2",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 172,
+      "text": "Cozy Villa NewMonty 1761959211795",
+      "href": "#/property/fe62e2fa-6436-4325-a453-3215e5f6c2c2",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 173,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 174,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 175,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 176,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 177,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 178,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 179,
+      "text": "",
+      "href": "#/property/c813c866-0fe2-455c-95ed-a67d19e8aece",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 180,
+      "text": "dn,sajdnjANFJLsnfjnejslfn",
+      "href": "#/property/c813c866-0fe2-455c-95ed-a67d19e8aece",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 181,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 182,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 183,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 184,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 185,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 186,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 187,
+      "text": "",
+      "href": "#/property/a75c20d6-732a-42ed-a2d3-395bc75d87e4",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 188,
+      "text": "dsadasdasdaswdasdasd",
+      "href": "#/property/a75c20d6-732a-42ed-a2d3-395bc75d87e4",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 189,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 190,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 191,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 192,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 193,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 194,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 195,
+      "text": "",
+      "href": "#/property/099eeb1d-45dd-4cd8-b9e5-fc257f8e37ee",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 196,
+      "text": "Elegant Suite Anaheim 1761958999606",
+      "href": "#/property/099eeb1d-45dd-4cd8-b9e5-fc257f8e37ee",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 197,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 198,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 199,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 200,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 201,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 202,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 203,
+      "text": "",
+      "href": "#/property/a8baa2a6-ebab-4b2e-9e81-24693678950d",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 204,
+      "text": "Elegant Villa NorthMckenna 1762041947049",
+      "href": "#/property/a8baa2a6-ebab-4b2e-9e81-24693678950d",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 205,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 206,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 207,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 208,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 209,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 210,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 211,
+      "text": "",
+      "href": "#/property/7e765886-30f6-4e39-92bc-16816db812fb",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 212,
+      "text": "Elegant Villa Ziemannland 1762042630468",
+      "href": "#/property/7e765886-30f6-4e39-92bc-16816db812fb",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 213,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 214,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 215,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 216,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 217,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 218,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 219,
+      "text": "",
+      "href": "#/property/1d27d8d2-e470-4cf6-9578-515b945ceee5",
+      "testid": "property-list-item-picture",
+      "class": null,
+      "visible": true
+    },
+    {
+      "index": 220,
+      "text": "ExploreAm_1762459505",
+      "href": "#/property/1d27d8d2-e470-4cf6-9578-515b945ceee5",
+      "testid": "property-list-item-name",
+      "class": "sc-bzBgWG keFfJy",
+      "visible": true
+    },
+    {
+      "index": 221,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 222,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 223,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 224,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 225,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 226,
+      "text": "",
+      "href": "#",
+      "testid": "property-actions-menu-item",
+      "class": null,
+      "visible": false
+    },
+    {
+      "index": 227,
+      "text": "Termos de serviço",
+      "href": "https://www.hostfully.com/terms-of-service/",
+      "testid": "link-terms-of-service",
+      "class": "sc-geEwSt eaTnFt",
+      "visible": true
+    },
+    {
+      "index": 228,
+      "text": "Política de Privacidade",
+      "href": "https://platform.hostfully.com/static/privacy.jsp",
+      "testid": "link-privacy-policy",
+      "class": "sc-geEwSt eaTnFt",
+      "visible": true
+    },
+    {
+      "index": 229,
+      "text": "Opinião",
+      "href": "javascript:void(0)",
+      "testid": "link-feedback",
+      "class": "sc-geEwSt eaTnFt",
+      "visible": true
+    }
+  ],
+  "inputs": [
+    {
+      "index": 0,
+      "type": "text",
+      "placeholder": "Nome da propriedade ou UID",
+      "testid": "propertySearch",
+      "name": null,
+      "class": "rbt-input-main form-control rbt-input",
+      "visible": true
+    },
+    {
+      "index": 1,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 2,
+      "type": "text",
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "select__input",
+      "visible": false
+    },
+    {
+      "index": 3,
+      "type": "text",
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "select__input",
+      "visible": false
+    },
+    {
+      "index": 4,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 5,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 6,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 7,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 8,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 9,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 10,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 11,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 12,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 13,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 14,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 15,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 16,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 17,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 18,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 19,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 20,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 21,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 22,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 23,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 24,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 25,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 26,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 27,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 28,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 29,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 30,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 31,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 32,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 33,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 34,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 35,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 36,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 37,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 38,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 39,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 40,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 41,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 42,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 43,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 44,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 45,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 46,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 47,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 48,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 49,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 50,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 51,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    },
+    {
+      "index": 52,
+      "type": "text",
+      "placeholder": "Adicionar etiqueta...",
+      "testid": "tags",
+      "name": null,
+      "class": "rbt-input-main",
+      "visible": true
+    },
+    {
+      "index": 53,
+      "type": null,
+      "placeholder": null,
+      "testid": null,
+      "name": null,
+      "class": "rbt-input-hint",
+      "visible": true
+    }
+  ],
+  "tables": [],
+  "other_elements": [],
+  "create_property_candidates": [
+    {
+      "pattern": "testid wildcard",
+      "selector": "[data-testid*=\"add\"]",
+      "text": "Adicionar propriedade ",
+      "testid": "add-property-button",
+      "href": null
+    }
+  ]
+}

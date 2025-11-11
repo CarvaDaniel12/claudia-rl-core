@@ -1,0 +1,1904 @@
+{
+  "tab1_property_details": {
+    "timestamp": "2025-11-08 18:25:17",
+    "tab_name": "Property Details",
+    "elements": {
+      "buttons": [
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "upload-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy attach-thumbnail-button btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Carregar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "open-set-rooms-modal",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-link",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Definir quartos e tipos de cama"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "save-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Salvar Propriedade"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "save-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Salvar Propriedade"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.propertyName",
+          "id": "propertyDetails.propertyName",
+          "name": "propertyDetails.propertyName",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.weblink",
+          "id": "propertyDetails.weblink",
+          "name": "propertyDetails.weblink",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.floorCount",
+          "id": "propertyDetails.floorCount",
+          "name": "propertyDetails.floorCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.propertySize",
+          "id": "propertyDetails.propertySize",
+          "name": "propertyDetails.propertySize",
+          "class": "sc-lkuliq fmDxuy form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.addressLine1",
+          "id": "propertyAddress.addressLine1",
+          "name": "propertyAddress.addressLine1",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.addressLine2",
+          "id": "propertyAddress.addressLine2",
+          "name": "propertyAddress.addressLine2",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.city",
+          "id": "propertyAddress.city",
+          "name": "propertyAddress.city",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.zipCode",
+          "id": "propertyAddress.zipCode",
+          "name": "propertyAddress.zipCode",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.state",
+          "id": "propertyAddress.state",
+          "name": "propertyAddress.state",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "capacityDetails.baseGuests",
+          "id": "capacityDetails.baseGuests",
+          "name": "capacityDetails.baseGuests",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "capacityDetails.maxGuests",
+          "id": "capacityDetails.maxGuests",
+          "name": "capacityDetails.maxGuests",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "capacityDetails.extraGuestFee",
+          "id": "capacityDetails.extraGuestFee",
+          "name": "capacityDetails.extraGuestFee",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.nightlyBasePrice",
+          "id": "propertyPricingFeesTaxes.nightlyBasePrice",
+          "name": "propertyPricingFeesTaxes.nightlyBasePrice",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.taxRate",
+          "id": "propertyPricingFeesTaxes.taxRate",
+          "name": "propertyPricingFeesTaxes.taxRate",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.securityDeposit",
+          "id": "propertyPricingFeesTaxes.securityDeposit",
+          "name": "propertyPricingFeesTaxes.securityDeposit",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFee",
+          "id": "propertyPricingFeesTaxes.cleaningFee",
+          "name": "propertyPricingFeesTaxes.cleaningFee",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFeeTax",
+          "id": "propertyPricingFeesTaxes.cleaningFeeTax",
+          "name": "propertyPricingFeesTaxes.cleaningFeeTax",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        }
+      ],
+      "selects": [
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyDetails.propertyType",
+          "id": "propertyDetails.propertyType",
+          "name": "propertyDetails.propertyType",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 71,
+          "options_sample": [
+            {
+              "value": "APARTHOTEL",
+              "text": "ApartHotel"
+            },
+            {
+              "value": "APARTMENT",
+              "text": "Apartment"
+            },
+            {
+              "value": "BARN",
+              "text": "Barn"
+            },
+            {
+              "value": "BEDANDBREAKFAST",
+              "text": "Bnb"
+            },
+            {
+              "value": "BOAT",
+              "text": "Boat"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyDetails.propertySizeUnit",
+          "id": "propertyDetails.propertySizeUnit",
+          "name": "propertyDetails.propertySizeUnit",
+          "class": "sc-inZACr fUccxf form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 2,
+          "options_sample": [
+            {
+              "value": "SQUARE_METERS",
+              "text": "m²"
+            },
+            {
+              "value": "SQUARE_FEET",
+              "text": "pés²"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyAddress.countryCode",
+          "id": "propertyAddress.countryCode",
+          "name": "propertyAddress.countryCode",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 233,
+          "options_sample": [
+            {
+              "value": "AF",
+              "text": "🇦🇫 Afeganistão"
+            },
+            {
+              "value": "ZA",
+              "text": "🇿🇦 África do Sul"
+            },
+            {
+              "value": "AL",
+              "text": "🇦🇱 Albânia"
+            },
+            {
+              "value": "DE",
+              "text": "🇩🇪 Alemanha"
+            },
+            {
+              "value": "AD",
+              "text": "🇦🇩 Andorra"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "capacityDetails.bedroomCount",
+          "id": "capacityDetails.bedroomCount",
+          "name": "capacityDetails.bedroomCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "disabled": false,
+          "options_count": 21,
+          "options_sample": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            },
+            {
+              "value": "2",
+              "text": "2"
+            },
+            {
+              "value": "3",
+              "text": "3"
+            },
+            {
+              "value": "4",
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "capacityDetails.bedCount",
+          "id": "capacityDetails.bedCount",
+          "name": "capacityDetails.bedCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "disabled": false,
+          "options_count": 21,
+          "options_sample": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            },
+            {
+              "value": "2",
+              "text": "2"
+            },
+            {
+              "value": "3",
+              "text": "3"
+            },
+            {
+              "value": "4",
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "capacityDetails.bathroomCount",
+          "id": "capacityDetails.bathroomCount",
+          "name": "capacityDetails.bathroomCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "disabled": false,
+          "options_count": 40,
+          "options_sample": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            },
+            {
+              "value": "1.5",
+              "text": "1,5"
+            },
+            {
+              "value": "2",
+              "text": "2"
+            },
+            {
+              "value": "2.5",
+              "text": "2,5"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.currency",
+          "id": "propertyPricingFeesTaxes.currency",
+          "name": "propertyPricingFeesTaxes.currency",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 51,
+          "options_sample": [
+            {
+              "value": "THB",
+              "text": "🇹🇭 Baht tailandês"
+            },
+            {
+              "value": "DKK",
+              "text": "🇩🇰 Coroa dinamarquesa"
+            },
+            {
+              "value": "NOK",
+              "text": "🇳🇴 Coroa norueguesa"
+            },
+            {
+              "value": "SEK",
+              "text": "🇸🇪 Coroa sueca"
+            },
+            {
+              "value": "CZK",
+              "text": "🇨🇿 Coroa tcheca"
+            }
+          ]
+        }
+      ],
+      "textareas": [],
+      "checkboxes": [],
+      "labels": [
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.propertyType-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Tipo de propriedade",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.propertyName-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Nome da propriedade interna",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.internalThumbnail-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Miniatura interna",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.weblink-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Link da Web",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.floorCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Número de andares",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.propertySize-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Tamanho da propriedade",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.addressLine1-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Endereço 1",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.addressLine2-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Endereço 2",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.city-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Cidade",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.zipCode-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Código postal",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.state-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Estado",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.countryCode-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "País",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.bedroomCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Quartos de dormir",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.bedCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Número de leitos",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.bathroomCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Banheiros",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.baseGuests-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Hóspedes da Base",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.maxGuests-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Máximo de hóspedes",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.extraGuestFee-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Taxa para hóspede adicional",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.currency-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Moeda",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.nightlyBasePrice-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Preço base noturno",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.taxRate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Taxa de imposto",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.securityDeposit-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Depósito de segurança",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFee-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Taxa de Limpeza",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFeeTax-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Cleaning Fee Tax",
+          "for": null
+        }
+      ]
+    },
+    "summary": {
+      "buttons": 10,
+      "inputs": 17,
+      "checkboxes": 0,
+      "selects": 7,
+      "textareas": 0,
+      "labels": 24
+    }
+  },
+  "tab6_fotos": {
+    "timestamp": "2025-11-08 18:25:21",
+    "tab_name": "Fotos",
+    "elements": {
+      "buttons": [
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "upload-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy attach-thumbnail-button btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Carregar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "open-set-rooms-modal",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-link",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Definir quartos e tipos de cama"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": null,
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg emHiyw btn btn-xs btn-link btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": ""
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "save-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Salvar Propriedade"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "cancel-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-default",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Cancelar"
+        },
+        {
+          "type": "button",
+          "visible": true,
+          "testid": "save-button",
+          "id": null,
+          "name": null,
+          "class": "sc-aXZVg ldwMXy btn btn-primary",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Salvar Propriedade"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.propertyName",
+          "id": "propertyDetails.propertyName",
+          "name": "propertyDetails.propertyName",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.weblink",
+          "id": "propertyDetails.weblink",
+          "name": "propertyDetails.weblink",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.floorCount",
+          "id": "propertyDetails.floorCount",
+          "name": "propertyDetails.floorCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyDetails.propertySize",
+          "id": "propertyDetails.propertySize",
+          "name": "propertyDetails.propertySize",
+          "class": "sc-lkuliq fmDxuy form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.addressLine1",
+          "id": "propertyAddress.addressLine1",
+          "name": "propertyAddress.addressLine1",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.addressLine2",
+          "id": "propertyAddress.addressLine2",
+          "name": "propertyAddress.addressLine2",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.city",
+          "id": "propertyAddress.city",
+          "name": "propertyAddress.city",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.zipCode",
+          "id": "propertyAddress.zipCode",
+          "name": "propertyAddress.zipCode",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyAddress.state",
+          "id": "propertyAddress.state",
+          "name": "propertyAddress.state",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": null,
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "capacityDetails.baseGuests",
+          "id": "capacityDetails.baseGuests",
+          "name": "capacityDetails.baseGuests",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "capacityDetails.maxGuests",
+          "id": "capacityDetails.maxGuests",
+          "name": "capacityDetails.maxGuests",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "capacityDetails.extraGuestFee",
+          "id": "capacityDetails.extraGuestFee",
+          "name": "capacityDetails.extraGuestFee",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.nightlyBasePrice",
+          "id": "propertyPricingFeesTaxes.nightlyBasePrice",
+          "name": "propertyPricingFeesTaxes.nightlyBasePrice",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.taxRate",
+          "id": "propertyPricingFeesTaxes.taxRate",
+          "name": "propertyPricingFeesTaxes.taxRate",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.securityDeposit",
+          "id": "propertyPricingFeesTaxes.securityDeposit",
+          "name": "propertyPricingFeesTaxes.securityDeposit",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFee",
+          "id": "propertyPricingFeesTaxes.cleaningFee",
+          "name": "propertyPricingFeesTaxes.cleaningFee",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        },
+        {
+          "type": "input",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFeeTax",
+          "id": "propertyPricingFeesTaxes.cleaningFeeTax",
+          "name": "propertyPricingFeesTaxes.cleaningFeeTax",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "input_type": "number",
+          "readonly": null,
+          "disabled": false
+        }
+      ],
+      "selects": [
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyDetails.propertyType",
+          "id": "propertyDetails.propertyType",
+          "name": "propertyDetails.propertyType",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 71,
+          "options_sample": [
+            {
+              "value": "APARTHOTEL",
+              "text": "ApartHotel"
+            },
+            {
+              "value": "APARTMENT",
+              "text": "Apartment"
+            },
+            {
+              "value": "BARN",
+              "text": "Barn"
+            },
+            {
+              "value": "BEDANDBREAKFAST",
+              "text": "Bnb"
+            },
+            {
+              "value": "BOAT",
+              "text": "Boat"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyDetails.propertySizeUnit",
+          "id": "propertyDetails.propertySizeUnit",
+          "name": "propertyDetails.propertySizeUnit",
+          "class": "sc-inZACr fUccxf form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 2,
+          "options_sample": [
+            {
+              "value": "SQUARE_METERS",
+              "text": "m²"
+            },
+            {
+              "value": "SQUARE_FEET",
+              "text": "pés²"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyAddress.countryCode",
+          "id": "propertyAddress.countryCode",
+          "name": "propertyAddress.countryCode",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 233,
+          "options_sample": [
+            {
+              "value": "AF",
+              "text": "🇦🇫 Afeganistão"
+            },
+            {
+              "value": "ZA",
+              "text": "🇿🇦 África do Sul"
+            },
+            {
+              "value": "AL",
+              "text": "🇦🇱 Albânia"
+            },
+            {
+              "value": "DE",
+              "text": "🇩🇪 Alemanha"
+            },
+            {
+              "value": "AD",
+              "text": "🇦🇩 Andorra"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "capacityDetails.bedroomCount",
+          "id": "capacityDetails.bedroomCount",
+          "name": "capacityDetails.bedroomCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "disabled": false,
+          "options_count": 21,
+          "options_sample": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            },
+            {
+              "value": "2",
+              "text": "2"
+            },
+            {
+              "value": "3",
+              "text": "3"
+            },
+            {
+              "value": "4",
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "capacityDetails.bedCount",
+          "id": "capacityDetails.bedCount",
+          "name": "capacityDetails.bedCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "disabled": false,
+          "options_count": 21,
+          "options_sample": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            },
+            {
+              "value": "2",
+              "text": "2"
+            },
+            {
+              "value": "3",
+              "text": "3"
+            },
+            {
+              "value": "4",
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "capacityDetails.bathroomCount",
+          "id": "capacityDetails.bathroomCount",
+          "name": "capacityDetails.bathroomCount",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": null,
+          "disabled": false,
+          "options_count": 40,
+          "options_sample": [
+            {
+              "value": "0",
+              "text": "0"
+            },
+            {
+              "value": "1",
+              "text": "1"
+            },
+            {
+              "value": "1.5",
+              "text": "1,5"
+            },
+            {
+              "value": "2",
+              "text": "2"
+            },
+            {
+              "value": "2.5",
+              "text": "2,5"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.currency",
+          "id": "propertyPricingFeesTaxes.currency",
+          "name": "propertyPricingFeesTaxes.currency",
+          "class": "form-control",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": null,
+          "disabled": false,
+          "options_count": 51,
+          "options_sample": [
+            {
+              "value": "THB",
+              "text": "🇹🇭 Baht tailandês"
+            },
+            {
+              "value": "DKK",
+              "text": "🇩🇰 Coroa dinamarquesa"
+            },
+            {
+              "value": "NOK",
+              "text": "🇳🇴 Coroa norueguesa"
+            },
+            {
+              "value": "SEK",
+              "text": "🇸🇪 Coroa sueca"
+            },
+            {
+              "value": "CZK",
+              "text": "🇨🇿 Coroa tcheca"
+            }
+          ]
+        }
+      ],
+      "textareas": [],
+      "checkboxes": [],
+      "labels": [
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.propertyType-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Tipo de propriedade",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.propertyName-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Nome da propriedade interna",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.internalThumbnail-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Miniatura interna",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.weblink-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Link da Web",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.floorCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Número de andares",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyDetails.propertySize-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Tamanho da propriedade",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.addressLine1-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Endereço 1",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.addressLine2-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Endereço 2",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.city-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Cidade",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.zipCode-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Código postal",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.state-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Estado",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyAddress.countryCode-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "País",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.bedroomCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Quartos de dormir",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.bedCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Número de leitos",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.bathroomCount-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Banheiros",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.baseGuests-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Hóspedes da Base",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.maxGuests-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Máximo de hóspedes",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "capacityDetails.extraGuestFee-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Taxa para hóspede adicional",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.currency-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Moeda",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.nightlyBasePrice-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": "",
+          "text": "Preço base noturno",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.taxRate-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Taxa de imposto",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.securityDeposit-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Depósito de segurança",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFee-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Taxa de Limpeza",
+          "for": null
+        },
+        {
+          "type": "label",
+          "visible": true,
+          "testid": "propertyPricingFeesTaxes.cleaningFeeTax-field-label",
+          "id": null,
+          "name": null,
+          "class": "col-sm-5 col-xs-4 control-label",
+          "placeholder": null,
+          "aria_label": null,
+          "required": null,
+          "text": "Cleaning Fee Tax",
+          "for": null
+        }
+      ]
+    },
+    "summary": {
+      "buttons": 10,
+      "inputs": 17,
+      "checkboxes": 0,
+      "selects": 7,
+      "textareas": 0,
+      "labels": 24
+    }
+  }
+}

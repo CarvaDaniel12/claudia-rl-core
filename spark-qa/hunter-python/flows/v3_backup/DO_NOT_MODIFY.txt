@@ -1,0 +1,26 @@
+===============================================
+  BACKUP DO FLOW BASE V3 - NÃO MODIFICAR!
+===============================================
+
+Este backup contém o flow E2E base FUNCIONANDO (16/17 assertions).
+
+[OK] FLOW TESTADO E VALIDADO:
+- Property: create + 4 tabs edit + delete
+- Lead: create + edit (VERIFICADA) + close (dropdown correto)
+- Navigation: inbox + analytics + calendar
+
+[WARNING]  ATENÇÃO:
+- NÃO modificar estes arquivos
+- Usar APENAS como referência
+- Trabalhar no diretório v3/ (não v3_backup/)
+
+[TARGET] PRÓXIMA FASE:
+Expandir flow em v3/ com:
+- Multi-selector fallback strategy
+- Maximum field coverage (ALL fields, not just required)
+- Complete assertions (success + errors + warnings)
+- Negative testing scenarios
+
+Data do backup: 2025-11-08
+Status: 16/17 assertions PASSING
+

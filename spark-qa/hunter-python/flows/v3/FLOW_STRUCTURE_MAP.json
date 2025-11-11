@@ -1,0 +1,353 @@
+{
+  "flow_map_version": "1.0",
+  "purpose": "Reference map for flow expansion - which selectors belong to which tabs/pages",
+  
+  "current_flow_sequence": {
+    "step_1": "LOGIN",
+    "step_2": "CREATE_PROPERTY",
+    "step_3": "DESCRIPTIONS_TAB",
+    "step_4": "AMENITIES_TAB",
+    "step_4b": "PRICING_FIELDS_ATTEMPT (added, 0/5 filled)",
+    "step_5": "CREATE_LEAD (2 tabs)",
+    "step_6": "EDIT_LEAD (6 tabs)",
+    "step_7": "INBOX_PAGE",
+    "step_8": "ANALYTICS_PAGE",
+    "step_9": "CALENDAR_PAGE",
+    "step_10": "CLEANUP (delete 1 property)"
+  },
+  
+  "property_modal_structure": {
+    "navigation_type": "Left sidebar tabs in property edit modal",
+    "tabs": {
+      "main_settings": {
+        "testid": null,
+        "text": "Main Settings",
+        "selectors_available": [
+          "propertyDetails.propertyName",
+          "propertyDetails.location"
+        ],
+        "notes": "Main settings has property basic details - pricing fields uncertain (may be only in Pricing tab)"
+      },
+      "descriptions": {
+        "testid": "property-settings-tab-descriptions",
+        "text": "Descrições",
+        "selectors_available": [
+          "name",
+          "shortSummary",
+          "summary",
+          "notes",
+          "interaction",
+          "neighbourhood",
+          "access"
+        ]
+      },
+      "photos": {
+        "testid": "property-settings-tab-photos",
+        "text": "Fotos"
+      },
+      "amenities": {
+        "testid": "property-settings-tab-amenities",
+        "text": "Comodidades",
+        "selectors_available": [
+          "amenities.HAS_INTERNET_WIFI.value",
+          "amenities.HAS_TV.value",
+          "amenities.HAS_KITCHEN.value",
+          "amenities.HAS_FREE_PARKING.value",
+          "amenities.HAS_HEATING.value"
+        ]
+      },
+      "pricing": {
+        "testid": "property-settings-tab-pricing",
+        "text": "Pricing",
+        "is_separate_tab": true,
+        "has_two_sections": true,
+        "section_1_price_settings": {
+          "basic_pricing_fields": [
+            "Currency (dropdown: US Dollar, etc)",
+            "Nightly Base Price ($)",
+            "Weekend Rate Adjustment (%)",
+            "Minimum Price Rule (Enabled/Disabled)",
+            "Tax Rate (%) + Long term stay exemption checkbox",
+            "Security Deposit ($)",
+            "Cleaning Fee ($)",
+            "Cleaning Fee Tax (%)"
+          ],
+          "buttons": ["Bulk-Save", "Save Price Settings"]
+        },
+        "section_2_price_rules": {
+          "features": [
+            "Override Airbnb Rule Sets toggle",
+            "Add Rule button",
+            "Rule types: early bird (discount for advance booking), short stay premium (price increase for <N days)"
+          ],
+          "selectors_demo": [
+            "price-rules-header-button",
+            "priceRule.name",
+            "priceRule.type",
+            "priceRule.priceModifier",
+            "priceRule.priceModifierThreshold"
+          ]
+        },
+        "notes": "PRICING TAB has BOTH basic pricing fields AND price rules in same tab"
+      },
+      "fees_taxes_policies": {
+        "testid": "property-settings-tab-fees-and-policies",
+        "text": "Fees, Taxes & Policies",
+        "is_separate_tab": true,
+        "subsections": [
+          "Property Fees & Taxes (custom fees like resort fee, pet fee, etc)",
+          "House Rules",
+          "Property Expectations",
+          "Cancellation Policy",
+          "Rental Conditions"
+        ],
+        "selectors_demo": [
+          "property-fees-taxes-button (opens fee creation modal)",
+          "name",
+          "type (TAX/CUSTOM)",
+          "amount",
+          "scope.amount (PER_GUEST/PER_STAY/PER_NIGHT)"
+        ],
+        "notes": "SEPARATE tab from Pricing - manages custom fees, taxes, house rules, policies"
+      },
+      "reviews": {
+        "text": "Reviews"
+      },
+      "service_providers": {
+        "text": "Service Providers"
+      },
+      "owner": {
+        "text": "Owner"
+      }
+    }
+  },
+  
+  "lead_create_modal_structure": {
+    "navigation_type": "Top horizontal tabs",
+    "tabs": {
+      "tab_1_detalhes": {
+        "text": "Detalhes do lead",
+        "selectors": [
+          "lead (guest name)",
+          "propertyUid",
+          "checkinDate",
+          "checkoutDate"
+        ],
+        "current_status": "implemented"
+      },
+      "tab_2_informacao_cliente": {
+        "text": "Informação ao cliente",
+        "selectors": [
+          "firstName",
+          "lastName",
+          "email",
+          "phone"
+        ],
+        "current_status": "implemented (4 fields)"
+      },
+      "tab_3_detalhes_estadia": {
+        "text": "Detalhes da estadia",
+        "selectors": [
+          "numberOfGuests",
+          "adults",
+          "children"
+        ],
+        "current_status": "not_implemented"
+      },
+      "tab_4_notas": {
+        "text": "Notas",
+        "selectors": [
+          "notes (textarea)"
+        ],
+        "current_status": "not_implemented"
+      },
+      "tab_5_extras": {
+        "text": "Extras",
+        "current_status": "not_implemented"
+      }
+    }
+  },
+  
+  "lead_edit_modal_structure": {
+    "navigation_type": "Top horizontal tabs (role=tab)",
+    "tabs": {
+      "tab_1_detalhes": {
+        "role_name": "Detalhes do lead",
+        "selectors": [
+          "lead",
+          "adultCount",
+          "notes"
+        ],
+        "current_status": "implemented"
+      },
+      "tab_2_informacao_cliente": {
+        "role_name": "Informação ao cliente",
+        "selectors": [
+          "firstName",
+          "phone",
+          "address",
+          "city",
+          "state",
+          "zipCode"
+        ],
+        "current_status": "implemented (5 fields)"
+      },
+      "tab_3_cronograma_pagamento": {
+        "role_name": "Cronograma de pagamento",
+        "current_status": "visited_only"
+      },
+      "tab_4_detalhes_estadia": {
+        "role_name": "Detalhes da estadia",
+        "selectors": [
+          "specialRequests"
+        ],
+        "current_status": "implemented (1 field)"
+      },
+      "tab_5_dados": {
+        "role_name": "Dados",
+        "current_status": "visited_only"
+      },
+      "tab_6_notas_internas": {
+        "role_name": "Notas internas de convidados",
+        "selectors": [
+          "internalNotes"
+        ],
+        "current_status": "implemented (1 field)"
+      }
+    }
+  },
+  
+  "calendar_page_structure": {
+    "url_hash": "#/calendar",
+    "nav_testid": "nav-item-common.calendar",
+    "features_from_demo": [
+      "Today button (calendar-today-button)",
+      "Mode switcher - PRICING (mode-switcher-button-PRICING)",
+      "Filters (filter-icon, location, agentUid, amenities, tags)",
+      "Lead creation by clicking dates",
+      "Blocking by clicking dates",
+      "Multi-property stacked view"
+    ],
+    "current_status": "visited_only"
+  },
+  
+  "analytics_page_structure": {
+    "url_hash": "#/analytics",
+    "nav_testid": "nav-item-common.analytics",
+    "features_from_demo": [
+      "Date range presets (presetDateRange: TODAY, TOMORROW, LAST_WEEK, THIS_WEEK)",
+      "Analytics list items (analytics-list-item-placeholder)",
+      "RevPar metric (analytics-list-revPar)"
+    ],
+    "current_status": "visited_only"
+  },
+  
+  "inbox_page_structure": {
+    "url_hash": "#/inbox",
+    "features_from_demo": [
+      "Lead list navigation",
+      "Message templates",
+      "Conversation view"
+    ],
+    "current_status": "visited_only"
+  },
+  
+  "multi_unit_creation": {
+    "feature": "Create property with multiple units",
+    "from_demo": true,
+    "steps": [
+      "Create property with name 'multiunit'",
+      "Enable multi-unit (checkbox)",
+      "Add unit types",
+      "Add units to types"
+    ],
+    "current_status": "not_implemented"
+  },
+  
+  "cleanup_requirements": {
+    "current": [
+      "Delete 1 regular property created in step 2"
+    ],
+    "needed_for_expansion": [
+      "Delete multi-unit property if created (track multi_unit_property_name)"
+    ],
+    "NOT_needed_separate_deletion": [
+      "Leads created from calendar (auto-deleted with property)",
+      "Blocks created from calendar (auto-deleted with property)",
+      "Any entities tied to property being deleted"
+    ],
+    "critical": "MUST delete all PROPERTIES created. Related entities (leads, blocks) auto-delete with property."
+  },
+  
+  "expansion_strategy": {
+    "safe_additions": {
+      "property_pricing_tab": {
+        "insert_after": "AMENITIES_TAB (step 4)",
+        "new_step": "4C_PRICING_TAB",
+        "actions": [
+          "Navigate to Pricing tab (property-settings-tab-pricing)",
+          "Click add price rule (price-rules-header-button)",
+          "Fill rule name, type, modifier",
+          "Save rule"
+        ],
+        "risk": "low - separate tab, won't break existing"
+      },
+      "property_fees_taxes_tab": {
+        "insert_after": "4C_PRICING_TAB",
+        "new_step": "4D_FEES_TAXES_TAB",
+        "actions": [
+          "Navigate to Fees tab (property-settings-tab-fees-and-policies)",
+          "Click add fee (property-fees-taxes-button)",
+          "Fill fee name, type, amount",
+          "Save fee"
+        ],
+        "risk": "low - separate tab, won't break existing"
+      },
+      "calendar_interactions": {
+        "insert_after": "CALENDAR_PAGE (step 9)",
+        "new_step": "9B_CALENDAR_INTERACTIONS",
+        "actions": [
+          "Switch to pricing mode",
+          "Apply filters",
+          "Create block from calendar (for property that will be deleted)"
+        ],
+        "DO_NOT": "Create leads - can block property deletion",
+        "risk": "low - blocks auto-delete when property deleted"
+      },
+      "analytics_validation": {
+        "insert_after": "ANALYTICS_PAGE (step 8)",
+        "new_step": "8B_ANALYTICS_VALIDATION",
+        "actions": [
+          "Change date ranges (TODAY, LAST_WEEK, THIS_WEEK, etc)",
+          "View metrics panels",
+          "VALIDATE calculated values (RevPar, ADR, occupancy, revenue)",
+          "Check if pricing/fees/taxes are correctly summed/multiplied/divided",
+          "Compare expected vs actual values in graphs/panels"
+        ],
+        "risk": "low - read-only, but HIGH VALUE for validation",
+        "validation_opportunity": "CRITICAL - Analytics shows if prices, fees, taxes are calculated correctly in platform"
+      }
+    },
+    "high_risk_additions": {
+      "multi_unit_property": {
+        "reason": "Creates second property that MUST be tracked and deleted",
+        "required_changes": [
+          "Track multi_unit_property_name variable",
+          "Add deletion logic in cleanup for multi-unit properties"
+        ]
+      }
+    }
+  },
+  
+  "notes_for_implementation": [
+    "Pricing tab has BOTH basic pricing fields AND price rules sections",
+    "Fees & Taxes tab (separate) has custom fees, house rules, policies",
+    "Main Settings may or may not have pricing fields (backend uncertain)",
+    "Always save after filling tab before moving to next",
+    "Track ALL created PROPERTIES for cleanup",
+    "Leads/blocks tied to property auto-delete when property deleted - no separate cleanup needed",
+    "Use try-except for each expansion so failure doesn't break core flow",
+    "Test each addition incrementally before adding next"
+  ]
+}
+

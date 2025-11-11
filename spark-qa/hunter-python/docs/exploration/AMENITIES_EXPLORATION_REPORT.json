@@ -1,0 +1,1116 @@
+{
+  "timestamp": "2025-11-06 17:05:24",
+  "findings": {
+    "buttons": [
+      {
+        "text": "Salvar em massa",
+        "testid": "bulk-save-button",
+        "classes": "sc-aXZVg sc-xyOoZ ivTdCp fREXsT btn btn-default"
+      },
+      {
+        "text": "Economize comodidades",
+        "testid": "save-button",
+        "classes": "sc-aXZVg ldwMXy btn btn-primary"
+      },
+      {
+        "text": "Salvar em massa",
+        "testid": "bulk-save-button",
+        "classes": "sc-aXZVg sc-xyOoZ ivTdCp fREXsT btn btn-default"
+      },
+      {
+        "text": "Economize comodidades",
+        "testid": "save-button",
+        "classes": "sc-aXZVg ldwMXy btn btn-primary"
+      },
+      {
+        "text": "Adicionar comodidade personalizada",
+        "testid": "custom-amenities-button",
+        "classes": "sc-aXZVg ldwMXy btn btn-primary"
+      }
+    ],
+    "accordions": [
+      {
+        "text": "gerenciadordeprop2",
+        "expanded": "false",
+        "testid": ""
+      }
+    ],
+    "checkboxes": [
+      {
+        "testid": "amenities.HAS_COFFEE_MAKER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_ESSENTIALS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FREE_PARKING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FRIDGE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HAIR_DRYER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HEATING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_INTERNET_WIFI.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_KITCHEN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MICROWAVE_OVEN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SHAMPOO.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TV.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WASHER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BIDET.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BODY_SOAP.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CONDITIONER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_ESSENTIALS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HAIR_DRYER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SHAMPOO.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SHOWER_GEL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TOILETRIES.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_AIR_CONDITIONING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_AIR_FILTER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CEILING_FAN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DEHUMIDIFIER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HEATING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HOT_WATER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_INDOOR_FIREPLACE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_VENTILATION_FAN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BOARD_GAMES.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CDDVD_PLAYER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_GAME_CONSOLE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_INDOOR_POOL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_INDOOR_POOL_ALL_YEAR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_INDOOR_POOL_SEASONAL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_IPOD_STATION.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PIANO.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_POOL_TABLE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_RECORD_PLAYER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SOUND_SYSTEM.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TV.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CABLE_TV.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SMART_TV.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_ETHERNET_CONNECTION.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_INTERNET_WIFI.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_LAPTOP_FRIENDLY.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PAID_WIFI.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_POCKET_WIFI.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PORTABLE_FANS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WIFI_SPEED_100.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WIFI_SPEED_25.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WIFI_SPEED_250.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WIFI_SPEED_50.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WIFI_SPEED_500.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BAKING_SHEET.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BLENDER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BREAD_MAKER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_COFFEE_MAKER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_COOKING_BASICS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CROCKERY_CUTLERY.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DINING_TABLE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DISHWASHER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FREEZER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FRIDGE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_KITCHEN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_KITCHENETTE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_KITCHEN_ISLAND.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OUTDOOR_KITCHEN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MICROWAVE_OVEN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MINI_FRIDGE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OVEN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_POTS_PANS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_RICE_MAKER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_STOVE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TOASTER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TRASH_COMPACTER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WATER_KETTLE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WINE_GLASSES.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DRYER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SHARED_DRYER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CLOTHES_DRYING_RACK.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_EXTRA_PILLOWS_AND_BLANKETS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HANGERS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_IRON.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_IRONING_FACILITIES.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_LINENS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TOWELS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WARDROBE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WASHER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SHARED_WASHER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_ALARM_SYSTEM.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CABINET_LOCKS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CARBON_MONOXIDE_DETECTOR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DEADBOLT_LOCK.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_EMERGENCY_EXIT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FIRE_EXTINGUISHER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FIRST_AID_KIT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MOSQUITO_NET.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SAFE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SAFE_BOX.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SAFETY_CARD.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SMOKE_DETECTOR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_JACUZZI.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_STEAM_ROOM.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BALCONY_TERRASSE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BARBECUE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BARBEQUE_UTENSILS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BEACH_ESSENTIALS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BIKES_FOR_RENT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BOAT_SLIP.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DECK_PATIO.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FENCED_YARD.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FIRE_PIT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_GARDEN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HAMMOCK.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HOT_TUB.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_KAYAK.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OUTDOOR_LIGHTING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OUTDOOR_PLAY_AREA.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OUTDOOR_SEATING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_POOL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_POOL_ALL_YEAR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_POOL_SEASONAL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_COMMUNAL_POOL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HEATED_POOL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FENCED_POOL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_EV_CAR_CHARGER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FREE_PARKING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FREE_STREET_PARKING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_GATED_PROPERTY.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_GOLF_COURSE_VIEW.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_GOLF_COURSE_FRONT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HELIPAD.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_LAKE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_LAKE_ACCESS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_LAKEFRONT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_LAKE_VIEW.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MOUNTAIN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SKI_IN_SKI_OUT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MOUNTAIN_VIEW.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_NEAR_OCEAN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OCEAN_FRONT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PAID_ON_PREMISES_PARKING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PAID_OFF_PREMISES_PARKING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PRIVATE_ENTRANCE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_RIVER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SEA_VIEW.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BABY_BATH.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BABY_MONITOR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CHANGING_TABLE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BATHTUB.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CHILDRENS_BOOKS_AND_TOYS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CHILDRENS_DINNERWARE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PACK_N_PLAY_TRAVEL_CRIB.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_ROOM_DARKENING_SHADES.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_FIREPLACE_GUARDS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OUTLET_COVERS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_STAIR_GATES.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TABLE_CORNER_GUARDS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WINDOW_GUARDS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BABYSITTER_RECOMMENDATIONS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CHILDCARE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_ELEVATOR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SINGLE_LEVEL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SMART_HOME.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_WHEELCHAIR_ACCESSIBLE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BABY_HIGH_CHAIR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BABY_TRAVEL_BED.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BUZZER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DOORMAN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_ENHANCED_CLEANING.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CLEANING_WITH_DISINFECTANTS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_HIGH_TOUCH_SURFACES_CLEANING_WITH_DISINFECTANTS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CLEANING_PRODUCTS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_IN_PERSON_CHECKIN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_24_CHECKIN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CONTACTLESS_CHECKIN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CONCIERGE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.INVOICE_PROVIDED.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SURVEILLANCE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CINEMA_ROOM.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_LIBRARY.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_RAIN_SHOWER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WINE_CELLAR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_DOWNTOWN.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_LAUNDROMAT_NEARBY.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_RESORT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_RESORT_ACCESS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.IS_RURAL.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_VILLAGE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BREAKFAST.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_COFFEE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MEAL_DELIVERY.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_COMPUTER_MONITOR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DESK.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DESK_CHAIR.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OFFICE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PRINTER.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_CAT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_DOG.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_OTHER_PET.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_LOCK_ON_BEDROOM.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BEACH.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BEACH_FRONT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BEACH_VIEW.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WATER_VIEW.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_WATER_FRONT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_BASKETBALL_COURT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_EXERCISE_EQUIPMENT.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_GYM.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_MASSAGE_ROOM.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_PING_PONG_TABLE.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_SOCCER_FIELD.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TENNIS.value",
+        "name": "",
+        "checked": false
+      },
+      {
+        "testid": "amenities.HAS_TOWN.value",
+        "name": "",
+        "checked": false
+      }
+    ]
+  },
+  "summary": {
+    "buttons": 5,
+    "accordions": 1,
+    "checkboxes": 214
+  }
+}

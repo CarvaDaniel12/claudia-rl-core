@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-11-06 17:36:03",
+  "property_name": "VisualTest_1762461350",
+  "total_save_buttons": 2,
+  "buttons": [
+    {
+      "index": 1,
+      "text": "Economize comodidades",
+      "testid": "save-button",
+      "visual_position": {
+        "x": 1340.2,
+        "y": 4150.8,
+        "width": 172.3,
+        "height": 34
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "sc-cbZHsQ hIRrrz",
+        "id": "form-footer",
+        "testid": "form-footer"
+      },
+      "styling": {
+        "position": "static",
+        "parent_position": "static",
+        "z_index": "auto",
+        "parent_z_index": "auto"
+      },
+      "is_visible": true
+    },
+    {
+      "index": 2,
+      "text": "Economize comodidades",
+      "testid": "save-button",
+      "visual_position": {
+        "x": 1339.7,
+        "y": 1031,
+        "width": 172.3,
+        "height": 34
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "sc-jptKe cJGbEp container",
+        "id": "",
+        "testid": null
+      },
+      "styling": {
+        "position": "static",
+        "parent_position": "static",
+        "z_index": "auto",
+        "parent_z_index": "auto"
+      },
+      "is_visible": true
+    }
+  ]
+}

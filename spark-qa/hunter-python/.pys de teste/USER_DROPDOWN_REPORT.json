@@ -1,0 +1,259 @@
+{
+  "timestamp": "2025-11-06 18:22:35",
+  "dropdown_selector": "a:has-text(\"gerenciadordeprop2\")",
+  "menu_items": [
+    {
+      "text": "Painel de Gerenciamento",
+      "href": "#/dashboard",
+      "testid": "nav-item-common.dashboard",
+      "classes": "active",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Caixa de Entrada\n661",
+      "href": "#/inbox",
+      "testid": "nav-item-common.inbox",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Pipeline",
+      "href": "#/pipeline",
+      "testid": "nav-item-common.pipeline",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Calendário",
+      "href": "#/calendar",
+      "testid": "nav-item-common.calendar",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Análise de dados",
+      "href": "#/analytics",
+      "testid": "nav-item-common.analytics",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "gerenciadordeprop2",
+      "href": "#",
+      "testid": "",
+      "classes": "dropdown-toggle",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Propriedades",
+      "href": "#/properties",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Ferramentas de Publicação",
+      "href": "#/publishing",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Agência de Terceiros",
+      "href": "#/third-party-agency",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Ferramentas de Calendário",
+      "href": "#/calendar-import",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Integrações",
+      "href": "#/integrations",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Canais",
+      "href": "#/channels",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Relatórios",
+      "href": "#/reports",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Modelos e Gatilhos",
+      "href": "#/my-templates",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Proprietários",
+      "href": "#/owners",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Promo Codes",
+      "href": "#/promo-codes",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Configurações de Agência",
+      "href": "#/agency-settings",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Indique um amigo",
+      "href": "#/refer",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Sair",
+      "href": "#/logout",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Analytics",
+      "href": "#/analytics",
+      "testid": "page-subtitle-guest-portal-link",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Nova",
+      "href": "#",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Entradas",
+      "href": "#",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Check-outs",
+      "href": "#",
+      "testid": "",
+      "classes": "",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "12-timezoneTestBR->Flo",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "lead-property-link",
+      "classes": "lead-property-link",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "3-timezone",
+      "href": "#/property/5674e956-b522-4ef9-9f16-494e3fda04ec",
+      "testid": "lead-property-link",
+      "classes": "lead-property-link",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "classes": "lead-property-link",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "4-timezone florida",
+      "href": "#/property/6a4c28e7-3021-4c3f-bb90-058f987da358",
+      "testid": "lead-property-link",
+      "classes": "lead-property-link",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "MUnitFE290425",
+      "href": "#/property/9f4736d9-afde-4dd7-b129-361bdb4a13e9",
+      "testid": "lead-hotel-link",
+      "classes": "lead-property-link",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "masterRoom",
+      "href": "#/property/30893d36-d696-4be9-b78e-38332508f887",
+      "testid": "lead-property-link",
+      "classes": "lead-property-link",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "classes": "lead-property-link",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Termos de serviço",
+      "href": "https://www.hostfully.com/terms-of-service/",
+      "testid": "link-terms-of-service",
+      "classes": "sc-geEwSt eaTnFt",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Política de Privacidade",
+      "href": "https://platform.hostfully.com/static/privacy.jsp",
+      "testid": "link-privacy-policy",
+      "classes": "sc-geEwSt eaTnFt",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Opinião",
+      "href": "javascript:void(0)",
+      "testid": "link-feedback",
+      "classes": "sc-geEwSt eaTnFt",
+      "selector_found": "a:visible"
+    },
+    {
+      "text": "Adicionar lead",
+      "href": "",
+      "testid": "",
+      "classes": "sc-aXZVg ldwMXy sc-gVaSRo fLNmbP btn btn-xs btn-de",
+      "selector_found": "button:visible"
+    },
+    {
+      "text": "Atribuir para mim",
+      "href": "",
+      "testid": "dashboard-lead-assignee-button",
+      "classes": "sc-bwGlVi fSOwA-D",
+      "selector_found": "button:visible"
+    },
+    {
+      "text": "Visualizar",
+      "href": "",
+      "testid": "lead-view-button",
+      "classes": "sc-hwhrDX jBxCXm lead-view-button",
+      "selector_found": "button:visible"
+    }
+  ],
+  "properties_item": null
+}

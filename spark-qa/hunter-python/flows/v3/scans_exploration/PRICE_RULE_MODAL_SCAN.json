@@ -1,0 +1,146 @@
+{
+  "timestamp": "2025-11-10 00:31:32",
+  "modal_name": "Price Rule Add/Edit Modal",
+  "modal_testid": "price-rules-add-edit-modal",
+  "elements": {
+    "inputs": [
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceRule.name",
+        "id": "priceRule.name",
+        "name": "priceRule.name",
+        "placeholder": "Adicionar nome",
+        "input_type": null,
+        "class": "form-control"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceRule.priceModifier",
+        "id": "priceRule.priceModifier",
+        "name": "priceRule.priceModifier",
+        "placeholder": null,
+        "input_type": "number",
+        "class": "form-control"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": "priceRule.priceModifierThreshold",
+        "id": "priceRule.priceModifierThreshold",
+        "name": "priceRule.priceModifierThreshold",
+        "placeholder": null,
+        "input_type": "number",
+        "class": "form-control"
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": null,
+        "id": "appliesTo-allProperties",
+        "name": "appliesTo",
+        "placeholder": null,
+        "input_type": "radio",
+        "class": null
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": null,
+        "id": "appliesTo-selectedProperties",
+        "name": "appliesTo",
+        "placeholder": null,
+        "input_type": "radio",
+        "class": null
+      },
+      {
+        "type": "input",
+        "visible": true,
+        "testid": null,
+        "id": "react-select-9-input",
+        "name": null,
+        "placeholder": null,
+        "input_type": "text",
+        "class": "select__input"
+      }
+    ],
+    "buttons": [
+      {
+        "type": "button",
+        "visible": true,
+        "testid": null,
+        "text": "×\nClose",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "filter-icon",
+        "text": null,
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "price-rule-cancel-button",
+        "text": "Cancelar",
+        "disabled": false
+      },
+      {
+        "type": "button",
+        "visible": true,
+        "testid": "price-rule-submit-button",
+        "text": "Salvar",
+        "disabled": true
+      }
+    ],
+    "selects": [
+      {
+        "type": "select",
+        "visible": true,
+        "testid": "priceRule.type",
+        "name": "priceRule.type",
+        "id": "priceRule.type",
+        "options": [
+          {
+            "value": "LOS_DISCOUNT",
+            "text": "Desconto por duração da estadia"
+          },
+          {
+            "value": "LAST_MINUTE_DISCOUNT",
+            "text": "Desconto de última hora"
+          },
+          {
+            "value": "SHORT_STAY_PREMIUM",
+            "text": "Prêmio de curta duração"
+          },
+          {
+            "value": "EARLY_BIRD_DISCOUNT",
+            "text": "Desconto para madrugadores"
+          }
+        ]
+      }
+    ],
+    "checkboxes": [],
+    "radios": [
+      {
+        "type": "radio",
+        "visible": true,
+        "testid": null,
+        "name": "appliesTo",
+        "value": "ALL_PROPERTIES",
+        "checked": false
+      },
+      {
+        "type": "radio",
+        "visible": true,
+        "testid": null,
+        "name": "appliesTo",
+        "value": "SELECTED_PROPERTIES",
+        "checked": true
+      }
+    ],
+    "textareas": []
+  }
+}

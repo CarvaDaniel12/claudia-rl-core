@@ -1,0 +1,713 @@
+{
+  "timestamp": "2025-11-06 18:11:10",
+  "url": "https://platform.test.hostfully.com/app/#/login",
+  "findings": {
+    "url": "https://platform.test.hostfully.com/app/#/login",
+    "navigation_menu": [
+      {
+        "text": "Painel de Gerenciamento",
+        "href": "#/dashboard",
+        "testid": "nav-item-common.dashboard",
+        "position": {
+          "x": 610.5,
+          "y": -3
+        }
+      },
+      {
+        "text": "Caixa de Entrada\n661",
+        "href": "#/inbox",
+        "testid": "nav-item-common.inbox",
+        "position": {
+          "x": 751.9,
+          "y": -3
+        }
+      },
+      {
+        "text": "Pipeline",
+        "href": "#/pipeline",
+        "testid": "nav-item-common.pipeline",
+        "position": {
+          "x": 888.7,
+          "y": 7
+        }
+      },
+      {
+        "text": "Calendário",
+        "href": "#/calendar",
+        "testid": "nav-item-common.calendar",
+        "position": {
+          "x": 964.7,
+          "y": 7
+        }
+      },
+      {
+        "text": "Análise de dados",
+        "href": "#/analytics",
+        "testid": "nav-item-common.analytics",
+        "position": {
+          "x": 1056.7,
+          "y": -3
+        }
+      },
+      {
+        "text": "gerenciadordeprop2",
+        "href": "#",
+        "testid": "",
+        "position": {
+          "x": 1160.2,
+          "y": 0
+        }
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Adicionar lead",
+        "testid": "",
+        "classes": "sc-aXZVg ldwMXy sc-gVaSRo fLNmbP btn btn-xs btn-de",
+        "position": {
+          "x": 488,
+          "y": 21
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 451.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 485.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 611.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 645.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 771.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 805.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 931.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 965.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 1091.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 1125.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 1251.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 1285.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 1411.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 1445.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 1571.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 1605.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 1731.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 1765.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 1891.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 1925.8
+        }
+      },
+      {
+        "text": "Atribuir para mim",
+        "testid": "dashboard-lead-assignee-button",
+        "classes": "sc-bwGlVi fSOwA-D",
+        "position": {
+          "x": 999.9,
+          "y": 2051.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 2085.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 2211.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 2371.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 2531.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 2691.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 2851.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 3011.8
+        }
+      },
+      {
+        "text": "Visualizar",
+        "testid": "lead-view-button",
+        "classes": "sc-hwhrDX jBxCXm lead-view-button",
+        "position": {
+          "x": 1027.5,
+          "y": 3171.8
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "Painel de Gerenciamento",
+        "href": "#/dashboard",
+        "testid": "nav-item-common.dashboard"
+      },
+      {
+        "text": "Caixa de Entrada\n661",
+        "href": "#/inbox",
+        "testid": "nav-item-common.inbox"
+      },
+      {
+        "text": "Pipeline",
+        "href": "#/pipeline",
+        "testid": "nav-item-common.pipeline"
+      },
+      {
+        "text": "Calendário",
+        "href": "#/calendar",
+        "testid": "nav-item-common.calendar"
+      },
+      {
+        "text": "Análise de dados",
+        "href": "#/analytics",
+        "testid": "nav-item-common.analytics"
+      },
+      {
+        "text": "gerenciadordeprop2",
+        "href": "#",
+        "testid": ""
+      },
+      {
+        "text": "Analytics",
+        "href": "#/analytics",
+        "testid": "page-subtitle-guest-portal-link"
+      },
+      {
+        "text": "Nova",
+        "href": "#",
+        "testid": ""
+      },
+      {
+        "text": "Entradas",
+        "href": "#",
+        "testid": ""
+      },
+      {
+        "text": "Check-outs",
+        "href": "#",
+        "testid": ""
+      },
+      {
+        "text": "12-timezoneTestBR->Flo",
+        "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+        "testid": "lead-property-link"
+      },
+      {
+        "text": "3-timezone",
+        "href": "#/property/5674e956-b522-4ef9-9f16-494e3fda04ec",
+        "testid": "lead-property-link"
+      },
+      {
+        "text": "5-timezone germany",
+        "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+        "testid": "lead-property-link"
+      }
+    ],
+    "cards": [],
+    "main_sections": [],
+    "all_testids": [
+      {
+        "testid": "nav-item-common.dashboard",
+        "tag": "A",
+        "text": "Painel de Gerenciamento",
+        "visible": true
+      },
+      {
+        "testid": "nav-item-common.inbox",
+        "tag": "A",
+        "text": "Caixa de Entrada\n661",
+        "visible": true
+      },
+      {
+        "testid": "nav-item-common.pipeline",
+        "tag": "A",
+        "text": "Pipeline",
+        "visible": true
+      },
+      {
+        "testid": "nav-item-common.calendar",
+        "tag": "A",
+        "text": "Calendário",
+        "visible": true
+      },
+      {
+        "testid": "nav-item-common.analytics",
+        "tag": "A",
+        "text": "Análise de dados",
+        "visible": true
+      },
+      {
+        "testid": "navbar-help-icon",
+        "tag": "A",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "tooltip-container",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "navbar-guest-experience-icon",
+        "tag": "A",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "tooltip-container",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "navbar-hostfully-devices-icon",
+        "tag": "A",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "tooltip-container",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "app-page-child-content",
+        "tag": "DIV",
+        "text": "gerenciadordeprop2 Painel de Gerenciamento\nMétrica",
+        "visible": true
+      },
+      {
+        "testid": "page-header-title",
+        "tag": "SPAN",
+        "text": "gerenciadordeprop2 Painel de Gerenciamento",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-analytics-cards-container",
+        "tag": "DIV",
+        "text": "Métricas mostradas para este período do mês: Novem",
+        "visible": true
+      },
+      {
+        "testid": "page-subtitle-guest-portal-link",
+        "tag": "A",
+        "text": "Analytics",
+        "visible": true
+      },
+      {
+        "testid": "analytics-filter-form",
+        "tag": "FORM",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "analytics-list-item-placeholder",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "analytics-list-item-placeholder",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "analytics-list-item-placeholder",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "analytics-list-item-placeholder",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "analytics-list-item-placeholder",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-hide-processed-leads-checkbox",
+        "tag": "INPUT",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "tooltip-container",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "property-channel-widget-info",
+        "tag": "SPAN",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-list",
+        "tag": "UL",
+        "text": "há 16 dias: reservado através da Vrbo\n\nUS$ 375\nDan",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-uid-8dba7994-44f0-4403-972e-55e6e8bbc36b",
+        "tag": "DIV",
+        "text": "há 16 dias: reservado através da Vrbo\n\nUS$ 375\nDan",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-header-new-mode",
+        "tag": "P",
+        "text": "há 16 dias: reservado através da Vrbo",
+        "visible": true
+      },
+      {
+        "testid": "channel-icon-vrbo",
+        "tag": "svg",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-tags-container",
+        "tag": "DIV",
+        "text": "US$ 375",
+        "visible": true
+      },
+      {
+        "testid": "lead-price-tag",
+        "tag": "DIV",
+        "text": "US$ 375",
+        "visible": true
+      },
+      {
+        "testid": "lead-property-image",
+        "tag": "DIV",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "lead-guest-name",
+        "tag": "SPAN",
+        "text": "Daniel Testid",
+        "visible": true
+      },
+      {
+        "testid": "lead-guest-counter",
+        "tag": "DIV",
+        "text": "1\nadulto",
+        "visible": true
+      },
+      {
+        "testid": "lead-date-details",
+        "tag": "P",
+        "text": "sáb., 26 de dez. de 2026 a sáb., 26 de dez. de 202",
+        "visible": true
+      },
+      {
+        "testid": "lead-night-count",
+        "tag": "SPAN",
+        "text": "()",
+        "visible": true
+      },
+      {
+        "testid": "lead-property-link",
+        "tag": "A",
+        "text": "12-timezoneTestBR->Flo",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-action-container",
+        "tag": "DIV",
+        "text": "Atribuir para mim\nVisualizar",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-assignee-button",
+        "tag": "BUTTON",
+        "text": "Atribuir para mim",
+        "visible": true
+      },
+      {
+        "testid": "lead-view-button",
+        "tag": "BUTTON",
+        "text": "Visualizar",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-uid-9e028319-7209-4c6b-8329-c60c32c96e07",
+        "tag": "DIV",
+        "text": "há 22 dias: reservado através da Vrbo\n\nUS$ 375\nDan",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-header-new-mode",
+        "tag": "P",
+        "text": "há 22 dias: reservado através da Vrbo",
+        "visible": true
+      },
+      {
+        "testid": "channel-icon-vrbo",
+        "tag": "svg",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "dashboard-lead-tags-container",
+        "tag": "DIV",
+        "text": "US$ 375",
+        "visible": true
+      },
+      {
+        "testid": "lead-price-tag",
+        "tag": "DIV",
+        "text": "US$ 375",
+        "visible": true
+      },
+      {
+        "testid": "lead-property-image",
+        "tag": "DIV",
+        "text": "",
+        "visible": true
+      },
+      {
+        "testid": "lead-guest-name",
+        "tag": "SPAN",
+        "text": "Daniel Testing Verbo Paid 15/10/25",
+        "visible": true
+      },
+      {
+        "testid": "lead-guest-counter",
+        "tag": "DIV",
+        "text": "1\nadulto",
+        "visible": true
+      },
+      {
+        "testid": "lead-date-details",
+        "tag": "P",
+        "text": "qua., 12 de nov. a qua., 19 de nov. (7 noites)",
+        "visible": true
+      },
+      {
+        "testid": "lead-night-count",
+        "tag": "SPAN",
+        "text": "(7 noites)",
+        "visible": true
+      },
+      {
+        "testid": "lead-property-link",
+        "tag": "A",
+        "text": "3-timezone",
+        "visible": true
+      }
+    ]
+  },
+  "summary": {
+    "navigation_items": 6,
+    "buttons": 30,
+    "links": 13,
+    "cards": 0,
+    "testids": 50
+  }
+}

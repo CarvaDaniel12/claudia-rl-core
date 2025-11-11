@@ -1,0 +1,7276 @@
+{
+  "buttons": [
+    {
+      "index": 0,
+      "text": "Adicionar lead",
+      "testid": null,
+      "class": "sc-aXZVg ldwMXy sc-iBTApF gZxcJp btn btn-xs btn-default",
+      "onclick": null
+    },
+    {
+      "index": 1,
+      "text": "",
+      "testid": "filter-icon",
+      "class": "sc-JrDLc kcnMUT",
+      "onclick": null
+    }
+  ],
+  "links": [
+    {
+      "index": 0,
+      "text": "Painel de Gerenciamento\n1",
+      "href": "#/dashboard",
+      "testid": "nav-item-common.dashboard",
+      "class": ""
+    },
+    {
+      "index": 1,
+      "text": "Caixa de Entrada\n676",
+      "href": "#/inbox",
+      "testid": "nav-item-common.inbox",
+      "class": ""
+    },
+    {
+      "index": 2,
+      "text": "Pipeline",
+      "href": "#/pipeline",
+      "testid": "nav-item-common.pipeline",
+      "class": "active"
+    },
+    {
+      "index": 3,
+      "text": "Calendário",
+      "href": "#/calendar",
+      "testid": "nav-item-common.calendar",
+      "class": ""
+    },
+    {
+      "index": 4,
+      "text": "Análise de dados",
+      "href": "#/analytics",
+      "testid": "nav-item-common.analytics",
+      "class": ""
+    },
+    {
+      "index": 5,
+      "text": "gerenciadordeprop2",
+      "href": "#",
+      "testid": null,
+      "class": "dropdown-toggle"
+    },
+    {
+      "index": 19,
+      "text": "",
+      "href": "https://help.hostfully.com",
+      "testid": "navbar-help-icon",
+      "class": ""
+    },
+    {
+      "index": 20,
+      "text": "",
+      "href": "#/pipeline",
+      "testid": "navbar-guest-experience-icon",
+      "class": "active"
+    },
+    {
+      "index": 21,
+      "text": "",
+      "href": "#/pipeline",
+      "testid": "navbar-hostfully-devices-icon",
+      "class": "active"
+    },
+    {
+      "index": 22,
+      "text": "",
+      "href": "#/account",
+      "testid": null,
+      "class": ""
+    },
+    {
+      "index": 23,
+      "text": "Ver todos os clientes",
+      "href": "#/clients",
+      "testid": "pipeline-see-customers-link",
+      "class": null
+    },
+    {
+      "index": 24,
+      "text": "Scan Guest\n08/11/2025 - 09/11/2025",
+      "href": "#",
+      "testid": null,
+      "class": "dropdown-item"
+    },
+    {
+      "index": 25,
+      "text": "SCAN_0gfp",
+      "href": "#/property/9c6a4f8d-2245-4cb2-b06b-d5458cb4d6a9",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 26,
+      "text": "SCAN_wjng",
+      "href": "#/property/0eeaf766-6b12-4718-8e58-98f01af4000f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 27,
+      "text": "SCAN_fk8t",
+      "href": "#/property/03ebef82-d8bb-4d33-94dd-70029518f4cc",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 28,
+      "text": "SCAN_k19j",
+      "href": "#/property/983ad05b-8687-45f4-94f0-bc81f69161ff",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 29,
+      "text": "SCAN_i9fi",
+      "href": "#/property/de258303-d730-4ace-abc4-7feea0ec532f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 30,
+      "text": "SCAN_ilro",
+      "href": "#/property/36756525-e8c1-40f3-a0fe-06ae091b9a76",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 31,
+      "text": "TEST_PROPERTY_uvg0",
+      "href": "#/property/4a4ad593-b713-48af-a8a3-578e89f76e87",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 32,
+      "text": "TEST_PROPERTY_dxt5",
+      "href": "#/property/7c59d9bb-929f-403b-b8ab-94fea776718a",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 33,
+      "text": "TEST_PROPERTY_0wfd",
+      "href": "#/property/cb7674fb-95bd-4490-b4cd-cd77c2c52c1b",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 34,
+      "text": "TEST_dhje",
+      "href": "#/property/186a1308-dee8-4067-8094-15dfa28e87a6",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 35,
+      "text": "TEST_8o07",
+      "href": "#/property/d9723894-2624-4343-829e-1025b2c70fc9",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 36,
+      "text": "TEST_jn1k",
+      "href": "#/property/082a5ed0-5b6b-4546-8047-7ef2346927dd",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 37,
+      "text": "TEST_jv2e",
+      "href": "#/property/58732fcf-c255-4efb-82ce-b05f79afd08b",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 38,
+      "text": "TEST_maxe",
+      "href": "#/property/85f2fa32-a0d4-42f9-b4c3-3d3a2297917f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 39,
+      "text": "TEST_vu3m",
+      "href": "#/property/59f3a112-fc9f-4dca-b67a-43496cbe4806",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 40,
+      "text": "TEST_m7h4",
+      "href": "#/property/04b15da4-76e6-4bc7-a970-acaed41884fb",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 41,
+      "text": "12-timezoneTestBR->Flo",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 42,
+      "text": "TEST_d0l7",
+      "href": "#/property/f252a591-368e-48e7-81ce-ef52c1ea15c3",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 43,
+      "text": "TEST_re5x",
+      "href": "#/property/8ca703c6-055a-41ef-adeb-c3d6de628c06",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 44,
+      "text": "TEST_5bc5",
+      "href": "#/property/04e1346e-85e3-4c08-82cd-8eb92a85473a",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 45,
+      "text": "TEST_2rlb",
+      "href": "#/property/a056e333-ac19-4abf-8903-ebb9af4edc98",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 46,
+      "text": "TEST_zehx",
+      "href": "#/property/f6ac5c75-f541-4e9e-827a-297d70c15130",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 47,
+      "text": "1-timezone(early)",
+      "href": "#/property/b37f48a1-4d48-4603-8801-3aee18610968",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 48,
+      "text": "12-timezoneTestBR->Flo",
+      "href": "#/property/0d8d3a74-6ced-4f88-a3d3-47078bece67f",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 49,
+      "text": "3-timezone",
+      "href": "#/property/5674e956-b522-4ef9-9f16-494e3fda04ec",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 50,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 51,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 52,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 53,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 54,
+      "text": "5-timezone germany",
+      "href": "#/property/4c46a789-c890-4950-91c2-2dad6d84bc86",
+      "testid": "lead-property-link",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 55,
+      "text": "Termos de serviço",
+      "href": "https://www.hostfully.com/terms-of-service/",
+      "testid": "link-terms-of-service",
+      "class": "sc-cAXmzm cSjUXK"
+    },
+    {
+      "index": 56,
+      "text": "Política de Privacidade",
+      "href": "https://platform.hostfully.com/static/privacy.jsp",
+      "testid": "link-privacy-policy",
+      "class": "sc-cAXmzm cSjUXK"
+    },
+    {
+      "index": 57,
+      "text": "Opinião",
+      "href": "javascript:void(0)",
+      "testid": "link-feedback",
+      "class": "sc-cAXmzm cSjUXK"
+    }
+  ],
+  "divs_with_onclick": [
+    {
+      "index": 0,
+      "text": "Pipeline\nVer todos os clientes\nScan Guest\n08/11/2025 - 09/11/2025\nCriado\n via \n Hostfully\n em \n8 de ",
+      "testid": "app-page-child-content",
+      "class": "sc-WCcEW cMXVqI",
+      "onclick": null
+    },
+    {
+      "index": 1,
+      "text": "Scan Guest\n08/11/2025 - 09/11/2025",
+      "testid": "lead-field-container",
+      "class": "sc-eqUAAy kRUyJB form-field-container  form-group",
+      "onclick": null
+    },
+    {
+      "index": 2,
+      "text": "Scan Guest\n08/11/2025 - 09/11/2025",
+      "testid": "found-lead-f20c0a40-866a-4d22-b804-7d6ebccba6cb",
+      "class": "sc-gvZAcH caJfcG lead-search-option-container",
+      "onclick": null
+    },
+    {
+      "index": 9,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "testid": "pipeline-leads-list-wrapper",
+      "class": "lead-actions-popover-container col-xs-12",
+      "onclick": null
+    },
+    {
+      "index": 10,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 11,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 12,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 13,
+      "text": "Citar\nExpira em 1d\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 14,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 15,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 16,
+      "text": "Expira em 1d",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 17,
+      "text": "Expira em 1d",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 18,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 19,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 20,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 21,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 22,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 23,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 24,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 25,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 26,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 27,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 28,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 29,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 30,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 31,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 32,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 33,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 34,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 35,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 36,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 37,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 38,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 39,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 40,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 41,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 42,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 43,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 44,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 45,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 46,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 47,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 48,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 49,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 50,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 51,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 52,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 53,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 54,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 55,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 56,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 57,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 58,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 59,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 60,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 61,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 62,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 63,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 64,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 65,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 66,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 67,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 68,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 69,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 70,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 71,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 72,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 73,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 74,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 75,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 76,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 77,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 78,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 79,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 80,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 81,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 82,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 83,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 84,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 85,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 86,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 87,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 88,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 89,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 90,
+      "text": "3\nadultos",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 91,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 92,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 93,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 94,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 95,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 96,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 97,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 98,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 99,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 100,
+      "text": "US$ 150",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 101,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 102,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 103,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 104,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 105,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 106,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 107,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 108,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 109,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 110,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 111,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 112,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 113,
+      "text": "US$ 150",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 114,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 115,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 116,
+      "text": "2\nadultos",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 117,
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 118,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 119,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 120,
+      "text": "Expira em 23h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 121,
+      "text": "Expira em 23h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 122,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 123,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 124,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 125,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 126,
+      "text": "US$ 150",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 127,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 128,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 129,
+      "text": "3\nadultos",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 130,
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 131,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 132,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 133,
+      "text": "Expira em 20h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 134,
+      "text": "Expira em 20h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 135,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 136,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 137,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 138,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 139,
+      "text": "US$ 240",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 140,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 141,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 142,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 143,
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 144,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 145,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 146,
+      "text": "Expira em 20h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 147,
+      "text": "Expira em 20h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 148,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 149,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 150,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 151,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 152,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 153,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 154,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 155,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 156,
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 157,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 158,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 159,
+      "text": "Expira em 20h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 160,
+      "text": "Expira em 20h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 161,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 162,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 163,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 164,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 165,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 166,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 167,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 168,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 169,
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 170,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 171,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 172,
+      "text": "Expira em 20h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 173,
+      "text": "Expira em 20h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 174,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 175,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 176,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 177,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 178,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 179,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 180,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 181,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 182,
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 183,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 184,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 185,
+      "text": "Expira em 20h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 186,
+      "text": "Expira em 20h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 187,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 188,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 189,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 190,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 191,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 192,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 193,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 194,
+      "text": "3\nadultos",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 195,
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 196,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 197,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 198,
+      "text": "Expira em 20h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 199,
+      "text": "Expira em 20h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 200,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 201,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 202,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 203,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 204,
+      "text": "US$ 240",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 205,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 206,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 207,
+      "text": "3\nadultos",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 208,
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 209,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 210,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 211,
+      "text": "Expira em 20h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 212,
+      "text": "Expira em 20h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 213,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 214,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 215,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 216,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 217,
+      "text": "US$ 240",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 218,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 219,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 220,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 221,
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 222,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 223,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 224,
+      "text": "Expira em 19h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 225,
+      "text": "Expira em 19h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 226,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 227,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 228,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 229,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 230,
+      "text": "US$ 180",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 231,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 232,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 233,
+      "text": "3\nadultos",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 234,
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 235,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 236,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 237,
+      "text": "Expira em 19h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 238,
+      "text": "Expira em 19h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 239,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 240,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 241,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 242,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 243,
+      "text": "US$ 240",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 244,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 245,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 246,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 247,
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 248,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 249,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 250,
+      "text": "Expira em 19h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 251,
+      "text": "Expira em 19h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 252,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 253,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 254,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 255,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 256,
+      "text": "US$ 240",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 257,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 258,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 259,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 260,
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 261,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 262,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 263,
+      "text": "Expira em 19h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 264,
+      "text": "Expira em 19h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 265,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 266,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 267,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 268,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 269,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 270,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 271,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 272,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 273,
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 274,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 275,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 276,
+      "text": "Expira em 19h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 277,
+      "text": "Expira em 19h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 278,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 279,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 280,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 281,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 282,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 283,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 284,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 285,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 286,
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 287,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 288,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 289,
+      "text": "Expira em 19h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 290,
+      "text": "Expira em 19h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 291,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 292,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 293,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 294,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 295,
+      "text": "US$ 100",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 296,
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 297,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 298,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 299,
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 300,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 301,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 302,
+      "text": "Expira em 19h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 303,
+      "text": "Expira em 19h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 304,
+      "text": "Reservado",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 305,
+      "text": "Reservado",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 306,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 307,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 308,
+      "text": "US$ 350",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 309,
+      "text": "Reservado\n via \n Vrbo\n em \n21 de out. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 310,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 311,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 312,
+      "text": "Citar\nSegurar\nCheck-in in 412d 21h\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 313,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 314,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 315,
+      "text": "Segurar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 316,
+      "text": "Segurar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 317,
+      "text": "Check-in in 412d 21h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 318,
+      "text": "Check-in in 412d 21h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg lzgcP",
+      "onclick": null
+    },
+    {
+      "index": 319,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 320,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 321,
+      "text": "US$ 375",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 322,
+      "text": "Reservado\n via \n Vrbo\n em \n15 de out. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 323,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 324,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 325,
+      "text": "Citar\nSegurar\nCheck-in in 3d 15h\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 326,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 327,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 328,
+      "text": "Segurar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 329,
+      "text": "Segurar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 330,
+      "text": "Check-in in 3d 15h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 331,
+      "text": "Check-in in 3d 15h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 332,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 333,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 334,
+      "text": "US$ 375",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 335,
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 336,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 337,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 338,
+      "text": "Citar\nSegurar\nCheck-in in 512d 14h\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 339,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 340,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 341,
+      "text": "Segurar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 342,
+      "text": "Segurar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 343,
+      "text": "Check-in in 512d 14h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 344,
+      "text": "Check-in in 512d 14h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 345,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 346,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 347,
+      "text": "US$ 375",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 348,
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 349,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 350,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 351,
+      "text": "Citar\nSegurar\nCheck-in in 482d 15h\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 352,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 353,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 354,
+      "text": "Segurar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 355,
+      "text": "Segurar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 356,
+      "text": "Check-in in 482d 15h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 357,
+      "text": "Check-in in 482d 15h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 358,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 359,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 360,
+      "text": "US$ 375",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 361,
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 362,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 363,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 364,
+      "text": "Citar\nSegurar\nCheck-in in 477d 15h\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 365,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 366,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 367,
+      "text": "Segurar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 368,
+      "text": "Segurar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 369,
+      "text": "Check-in in 477d 15h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 370,
+      "text": "Check-in in 477d 15h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 371,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 372,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 373,
+      "text": "US$ 435",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 374,
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 375,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 376,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 377,
+      "text": "Citar\nSegurar\nCheck-in in 496d 15h\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 378,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 379,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 380,
+      "text": "Segurar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 381,
+      "text": "Segurar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 382,
+      "text": "Check-in in 496d 15h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 383,
+      "text": "Check-in in 496d 15h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 384,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 385,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 386,
+      "text": "US$ 435",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 387,
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "testid": "lead-creation-details",
+      "class": "sc-dPZUQH hgByVt",
+      "onclick": null
+    },
+    {
+      "index": 388,
+      "text": "",
+      "testid": "lead-property-image",
+      "class": "sc-bDpDS kkRZwW",
+      "onclick": null
+    },
+    {
+      "index": 389,
+      "text": "1\nadulto",
+      "testid": "lead-guest-counter",
+      "class": null,
+      "onclick": null
+    },
+    {
+      "index": 390,
+      "text": "Citar\nSegurar\nCheck-in in 468d 15h\nFicar",
+      "testid": "lead-statuses-pipeline",
+      "class": "sc-bYHUQc ccLkwi",
+      "onclick": null
+    },
+    {
+      "index": 391,
+      "text": "Citar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 392,
+      "text": "Citar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 393,
+      "text": "Segurar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 394,
+      "text": "Segurar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 395,
+      "text": "Check-in in 468d 15h",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active",
+      "onclick": null
+    },
+    {
+      "index": 396,
+      "text": "Check-in in 468d 15h",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg fnAlsC",
+      "onclick": null
+    },
+    {
+      "index": 397,
+      "text": "Ficar",
+      "testid": "lead-status-indicator-container",
+      "class": "sc-dWZqqJ fgfqTw",
+      "onclick": null
+    },
+    {
+      "index": 398,
+      "text": "Ficar",
+      "testid": "lead-status-text",
+      "class": "sc-isRoRg inyvOx",
+      "onclick": null
+    },
+    {
+      "index": 399,
+      "text": "US$ 435",
+      "testid": "lead-price-tag",
+      "class": "sc-ksCcjW gLHHpL",
+      "onclick": null
+    },
+    {
+      "index": 400,
+      "text": "2025 Hostfully © Todos os direitos reservados\nTermos de serviço | Política de Privacidade | Opinião",
+      "testid": "app-page-content-footer",
+      "class": "sc-geEwSt kQBLob",
+      "onclick": null
+    }
+  ],
+  "elements_with_testid": [
+    {
+      "index": 0,
+      "tag": "A",
+      "testid": "nav-item-common.dashboard",
+      "text": "Painel de Gerenciamento\n1",
+      "class": ""
+    },
+    {
+      "index": 1,
+      "tag": "A",
+      "testid": "nav-item-common.inbox",
+      "text": "Caixa de Entrada\n676",
+      "class": ""
+    },
+    {
+      "index": 2,
+      "tag": "A",
+      "testid": "nav-item-common.pipeline",
+      "text": "Pipeline",
+      "class": "active"
+    },
+    {
+      "index": 3,
+      "tag": "A",
+      "testid": "nav-item-common.calendar",
+      "text": "Calendário",
+      "class": ""
+    },
+    {
+      "index": 4,
+      "tag": "A",
+      "testid": "nav-item-common.analytics",
+      "text": "Análise de dados",
+      "class": ""
+    },
+    {
+      "index": 5,
+      "tag": "A",
+      "testid": "navbar-help-icon",
+      "text": null,
+      "class": ""
+    },
+    {
+      "index": 6,
+      "tag": "SPAN",
+      "testid": "tooltip-container",
+      "text": null,
+      "class": "tooltip-container"
+    },
+    {
+      "index": 7,
+      "tag": "A",
+      "testid": "navbar-guest-experience-icon",
+      "text": null,
+      "class": "active"
+    },
+    {
+      "index": 8,
+      "tag": "SPAN",
+      "testid": "tooltip-container",
+      "text": null,
+      "class": "tooltip-container"
+    },
+    {
+      "index": 9,
+      "tag": "A",
+      "testid": "navbar-hostfully-devices-icon",
+      "text": null,
+      "class": "active"
+    },
+    {
+      "index": 10,
+      "tag": "SPAN",
+      "testid": "tooltip-container",
+      "text": null,
+      "class": "tooltip-container"
+    },
+    {
+      "index": 11,
+      "tag": "DIV",
+      "testid": "app-page-child-content",
+      "text": "Pipeline\nVer todos os clientes\nScan Guest\n08/11/2025 - 09/11/2025\nCriado\n via \n Hostfully\n em \n8 de ",
+      "class": "sc-WCcEW cMXVqI"
+    },
+    {
+      "index": 12,
+      "tag": "SPAN",
+      "testid": "page-header-title",
+      "text": "Pipeline",
+      "class": null
+    },
+    {
+      "index": 13,
+      "tag": "A",
+      "testid": "pipeline-see-customers-link",
+      "text": "Ver todos os clientes",
+      "class": null
+    },
+    {
+      "index": 14,
+      "tag": "DIV",
+      "testid": "lead-field-container",
+      "text": "Scan Guest\n08/11/2025 - 09/11/2025",
+      "class": "sc-eqUAAy kRUyJB form-field-container  form-group"
+    },
+    {
+      "index": 15,
+      "tag": "INPUT",
+      "testid": "lead",
+      "text": null,
+      "class": "rbt-input-main form-control rbt-input focus"
+    },
+    {
+      "index": 16,
+      "tag": "DIV",
+      "testid": "found-lead-f20c0a40-866a-4d22-b804-7d6ebccba6cb",
+      "text": "Scan Guest\n08/11/2025 - 09/11/2025",
+      "class": "sc-gvZAcH caJfcG lead-search-option-container"
+    },
+    {
+      "index": 17,
+      "tag": "BUTTON",
+      "testid": "filter-icon",
+      "text": null,
+      "class": "sc-JrDLc kcnMUT"
+    },
+    {
+      "index": 37,
+      "tag": "DIV",
+      "testid": "pipeline-leads-list-wrapper",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "lead-actions-popover-container col-xs-12"
+    },
+    {
+      "index": 38,
+      "tag": "LI",
+      "testid": "lead-list-item-f20c0a40-866a-4d22-b804-7d6ebccba6cb",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 39,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 40,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 41,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 42,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scan Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 43,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 44,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 45,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 46,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "SCAN_0gfp",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 47,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 1d\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 48,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 49,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 50,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 1d",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 51,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 1d",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 52,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 53,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 54,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 55,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 56,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 58,
+      "tag": "LI",
+      "testid": "lead-list-item-a669f4e9-ae34-4b90-b527-9e3fa850be5e",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 59,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 60,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 61,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 62,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scan Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 63,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 64,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 65,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 66,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "SCAN_wjng",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 67,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 68,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 69,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 70,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 71,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 72,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 73,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 74,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 75,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 76,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 78,
+      "tag": "LI",
+      "testid": "lead-list-item-068c8ee8-8160-4035-8457-37b6be45fba7",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 79,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 80,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 81,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 82,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scan Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 83,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 84,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 85,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 86,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "SCAN_fk8t",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 87,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 88,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 89,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 90,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 91,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 92,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 93,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 94,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 95,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 96,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 98,
+      "tag": "LI",
+      "testid": "lead-list-item-c14b7071-5cc5-401d-b74c-aa20771794a4",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 99,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 100,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 101,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 102,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scan Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 103,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 104,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 105,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 106,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "SCAN_k19j",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 107,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 108,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 109,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 110,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 111,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 112,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 113,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 114,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 115,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 116,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 118,
+      "tag": "LI",
+      "testid": "lead-list-item-d5599ca0-ecab-495d-ad26-e5721b87eab6",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 119,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 120,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 121,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 122,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scan Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 123,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 124,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 125,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 126,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "SCAN_i9fi",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 127,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 128,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 129,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 130,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 131,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 132,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 133,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 134,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 135,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 136,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 138,
+      "tag": "LI",
+      "testid": "lead-list-item-48ebb52e-fe80-4801-970d-d8d3ada4ec33",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScan Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 139,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 140,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 141,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 142,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scan Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 143,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 144,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 145,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 146,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "SCAN_ilro",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 147,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 148,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 149,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 150,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 151,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 152,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 153,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 154,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 155,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 156,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 158,
+      "tag": "LI",
+      "testid": "lead-list-item-1a2611cc-05dc-4bf2-94b5-78d0e7718352",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nTesta6ii Testlastp16t\n3\nadultos\n\nsáb., 8 de nov. a dom., 9",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 159,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 160,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 161,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 162,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Testa6ii Testlastp16t",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 163,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "3\nadultos",
+      "class": null
+    },
+    {
+      "index": 164,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 165,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 166,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_PROPERTY_uvg0",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 167,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 168,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 169,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 170,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 171,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 172,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 173,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 174,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 175,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 176,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 150",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 178,
+      "tag": "LI",
+      "testid": "lead-list-item-a6e010d7-4ce1-4222-8b76-6751c8abde73",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nTest07np Testlastwbpp\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 179,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 180,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 181,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 182,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Test07np Testlastwbpp",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 183,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 184,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 185,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 186,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_PROPERTY_dxt5",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 187,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 188,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 189,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 190,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 191,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 192,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 193,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 194,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 195,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 196,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 150",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 198,
+      "tag": "LI",
+      "testid": "lead-list-item-0a59691e-86aa-4237-b881-7f9b37e14000",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nTestg0fp Testlastyzon\n2\nadultos\n\nsáb., 8 de nov. a dom., 9",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 199,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 200,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 201,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 202,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Testg0fp Testlastyzon",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 203,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "2\nadultos",
+      "class": null
+    },
+    {
+      "index": 204,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 205,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 206,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_PROPERTY_0wfd",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 207,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 23h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 208,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 209,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 210,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 23h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 211,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 23h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 212,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 213,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 214,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 215,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 216,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 150",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 218,
+      "tag": "LI",
+      "testid": "lead-list-item-c8ca2810-8889-4148-9ab4-9d76e7eb79ee",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nE2etest2100 Autotest\n3\nadultos\n\nsáb., 8 de nov. a dom., 9 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 219,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 220,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 221,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 222,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "E2etest2100 Autotest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 223,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "3\nadultos",
+      "class": null
+    },
+    {
+      "index": 224,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 225,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 226,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_dhje",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 227,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 228,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 229,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 230,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 20h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 231,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 20h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 232,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 233,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 234,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 235,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 236,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 240",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 238,
+      "tag": "LI",
+      "testid": "lead-list-item-95091bb5-c7c8-47c1-b349-96dff67a931d",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScantest2419 Status\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 239,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 240,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 241,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 242,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scantest2419 Status",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 243,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 244,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 245,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 246,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_8o07",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 247,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 248,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 249,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 250,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 20h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 251,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 20h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 252,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 253,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 254,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 255,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 256,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 258,
+      "tag": "LI",
+      "testid": "lead-list-item-94cc0263-f5b2-42f9-bbb3-e2dd60504168",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScantest0236 Status\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 259,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 260,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 261,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 262,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scantest0236 Status",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 263,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 264,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 265,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 266,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_jn1k",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 267,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 268,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 269,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 270,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 20h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 271,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 20h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 272,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 273,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 274,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 275,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 276,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 278,
+      "tag": "LI",
+      "testid": "lead-list-item-53105b87-915d-4629-9eb0-e8b1f8dbf609",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScantest1229 Status\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 279,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 280,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 281,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 282,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scantest1229 Status",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 283,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 284,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 285,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 286,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_jv2e",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 287,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 288,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 289,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 290,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 20h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 291,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 20h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 292,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 293,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 294,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 295,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 296,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 298,
+      "tag": "LI",
+      "testid": "lead-list-item-76032e43-39ec-4e6d-a9c3-aa0c1890b41c",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nScantest3575 Status\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 299,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 300,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 301,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 302,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Scantest3575 Status",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 303,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 304,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 305,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 306,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_maxe",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 307,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 308,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 309,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 310,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 20h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 311,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 20h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 312,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 313,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 314,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 315,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 316,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 318,
+      "tag": "LI",
+      "testid": "lead-list-item-63bd44c9-eb7a-4e65-994a-df5b43d5cccd",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nE2etest3635 Autotest\n3\nadultos\n\nsáb., 8 de nov. a dom., 9 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 319,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 320,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 321,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 322,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "E2etest3635 Autotest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 323,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "3\nadultos",
+      "class": null
+    },
+    {
+      "index": 324,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 325,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 326,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_vu3m",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 327,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 328,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 329,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 330,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 20h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 331,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 20h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 332,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 333,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 334,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 335,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 336,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 240",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 338,
+      "tag": "LI",
+      "testid": "lead-list-item-3f508157-185e-4347-be22-39f96f40380d",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nE2etest5647 Autotest\n3\nadultos\n\nsáb., 8 de nov. a dom., 9 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 339,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 340,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 341,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 342,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "E2etest5647 Autotest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 343,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "3\nadultos",
+      "class": null
+    },
+    {
+      "index": 344,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 345,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 346,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_m7h4",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 347,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 20h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 348,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 349,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 350,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 20h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 351,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 20h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 352,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 353,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 354,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 355,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 356,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 240",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 358,
+      "tag": "LI",
+      "testid": "lead-list-item-e905ed9c-01ea-40a5-a212-09f911a7eb39",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nCanceltest0996 Verify\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 359,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 360,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 361,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 362,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Canceltest0996 Verify",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 363,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 364,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 365,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 366,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "12-timezoneTestBR->Flo",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 367,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 368,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 369,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 370,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 19h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 371,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 19h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 372,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 373,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 374,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 375,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 376,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 180",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 378,
+      "tag": "LI",
+      "testid": "lead-list-item-773acf21-8688-48cd-a729-fc991524fe55",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nE2etest7157 Autotest\n3\nadultos\n\nsáb., 8 de nov. a dom., 9 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 379,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 380,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 381,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 382,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "E2etest7157 Autotest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 383,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "3\nadultos",
+      "class": null
+    },
+    {
+      "index": 384,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 385,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 386,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_d0l7",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 387,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 388,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 389,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 390,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 19h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 391,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 19h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 392,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 393,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 394,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 395,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 396,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 240",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 398,
+      "tag": "LI",
+      "testid": "lead-list-item-a5ea33f0-0481-4a1a-b76a-8d5283b8ba3d",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nE2etest2635 Autotest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 d",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 399,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 400,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 401,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 402,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "E2etest2635 Autotest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 403,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 404,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 405,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 406,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_re5x",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 407,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 408,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 409,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 410,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 19h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 411,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 19h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 412,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 413,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 414,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 415,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 416,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 240",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 418,
+      "tag": "LI",
+      "testid": "lead-list-item-b927a54c-0c86-41a5-b59d-62dc99061e19",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nTestguest9203 Autotest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 419,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 420,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 421,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 422,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Testguest9203 Autotest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 423,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 424,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 425,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 426,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_5bc5",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 427,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 428,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 429,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 430,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 19h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 431,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 19h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 432,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 433,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 434,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 435,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 436,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 438,
+      "tag": "LI",
+      "testid": "lead-list-item-5651c2e1-46d9-4af1-88f9-019262278c34",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nTestguest1346 Autotest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 439,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 440,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 441,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 442,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Testguest1346 Autotest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 443,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 444,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 445,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 446,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_2rlb",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 447,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 448,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 449,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 450,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 19h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 451,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 19h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 452,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 453,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 454,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 455,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 456,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 458,
+      "tag": "LI",
+      "testid": "lead-list-item-31594fec-09de-4286-9206-c9a742bcbb07",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nTest Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 459,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 460,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 461,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 462,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Test Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 463,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 464,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 465,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 466,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "TEST_zehx",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 467,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 468,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 469,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 470,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 19h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 471,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 19h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 472,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 473,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 474,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 475,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 476,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 100",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 478,
+      "tag": "LI",
+      "testid": "lead-list-item-1a0a1574-b1de-4f46-a430-c34617be5f9a",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de\nTest Guest\n1\nadulto\n\nsáb., 8 de nov. a dom., 9 de nov. (1 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 479,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Criado\n via \n Hostfully\n em \n8 de nov. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 480,
+      "tag": "svg",
+      "testid": "channel-icon-hostfully",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 481,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 482,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Test Guest",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 483,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 484,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 8 de nov. a dom., 9 de nov. (1 noite)",
+      "class": null
+    },
+    {
+      "index": 485,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(1 noite)",
+      "class": "sc-YysOf iSFakQ"
+    },
+    {
+      "index": 486,
+      "tag": "SPAN",
+      "testid": "tooltip-container",
+      "text": "(1 noite)",
+      "class": "tooltip-container"
+    },
+    {
+      "index": 487,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "1-timezone(early)",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 488,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nExpira em 19h\nReservado\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 489,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 490,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 491,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Expira em 19h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 492,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Expira em 19h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 493,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Reservado",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 494,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Reservado",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 495,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 496,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 497,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 350",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 499,
+      "tag": "LI",
+      "testid": "lead-list-item-8dba7994-44f0-4403-972e-55e6e8bbc36b",
+      "text": "Reservado\n via \n Vrbo\n em \n21 de out. de\nDaniel Testid\n1\nadulto\n\nsáb., 26 de dez. de 2026 a sáb., 26",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 500,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Reservado\n via \n Vrbo\n em \n21 de out. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 501,
+      "tag": "svg",
+      "testid": "channel-icon-vrbo",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 502,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 503,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testid",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 504,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 505,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 26 de dez. de 2026 a sáb., 26 de dez. de 2026 ()",
+      "class": null
+    },
+    {
+      "index": 506,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "()",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 507,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "12-timezoneTestBR->Flo",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 508,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nSegurar\nCheck-in in 412d 21h\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 509,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 510,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 511,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Segurar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 512,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Segurar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 513,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Check-in in 412d 21h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 514,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Check-in in 412d 21h",
+      "class": "sc-isRoRg lzgcP"
+    },
+    {
+      "index": 515,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 516,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 517,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 519,
+      "tag": "LI",
+      "testid": "lead-list-item-9e028319-7209-4c6b-8329-c60c32c96e07",
+      "text": "Reservado\n via \n Vrbo\n em \n15 de out. de\nDaniel Testing Verbo Paid 15/10/25\n1\nadulto\n\nqua., 12 de no",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 520,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Reservado\n via \n Vrbo\n em \n15 de out. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 521,
+      "tag": "svg",
+      "testid": "channel-icon-vrbo",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 522,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 523,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Verbo Paid 15/10/25",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 524,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 525,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "qua., 12 de nov. a qua., 19 de nov. (7 noites)",
+      "class": null
+    },
+    {
+      "index": 526,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(7 noites)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 527,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "3-timezone",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 528,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nSegurar\nCheck-in in 3d 15h\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 529,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 530,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 531,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Segurar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 532,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Segurar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 533,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Check-in in 3d 15h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 534,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Check-in in 3d 15h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 535,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 536,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 537,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 539,
+      "tag": "LI",
+      "testid": "lead-list-item-8474513d-07a9-4ea4-a763-0e58131c37c1",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de\nDaniel Testing Variables\n1\nadulto\n\nseg., 5 de abr. de 2027 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 540,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 541,
+      "tag": "svg",
+      "testid": "channel-icon-vrbo",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 542,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 543,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 544,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 545,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "seg., 5 de abr. de 2027 a ter., 13 de abr. de 2027 (8 noites)",
+      "class": null
+    },
+    {
+      "index": 546,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(8 noites)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 547,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "5-timezone germany",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 548,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nSegurar\nCheck-in in 512d 14h\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 549,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 550,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 551,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Segurar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 552,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Segurar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 553,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Check-in in 512d 14h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 554,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Check-in in 512d 14h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 555,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 556,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 557,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 559,
+      "tag": "LI",
+      "testid": "lead-list-item-95e63249-e587-45fb-bdd6-18ed0e4b68c1",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de\nDaniel Testing Variables\n1\nadulto\n\nsáb., 6 de mar. de 2027 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 560,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 561,
+      "tag": "svg",
+      "testid": "channel-icon-vrbo",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 562,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 563,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 564,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 565,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 6 de mar. de 2027 a sáb., 13 de mar. de 2027 (7 noites)",
+      "class": null
+    },
+    {
+      "index": 566,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(7 noites)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 567,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "5-timezone germany",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 568,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nSegurar\nCheck-in in 482d 15h\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 569,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 570,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 571,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Segurar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 572,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Segurar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 573,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Check-in in 482d 15h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 575,
+      "tag": "IMG",
+      "testid": "lead-status-indicator-icon-rentalAgreementSigned",
+      "text": null,
+      "class": "sc-eoVZPG ilKaOF lead-circle-icon"
+    },
+    {
+      "index": 576,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Check-in in 482d 15h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 577,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 578,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 579,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 375",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 581,
+      "tag": "LI",
+      "testid": "lead-list-item-546dd868-cb1f-458b-8b32-426992e15ba1",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de\nDaniel Testing Variables\n1\nadulto\n\nseg., 1 de mar. de 2027 ",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 582,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 583,
+      "tag": "svg",
+      "testid": "channel-icon-vrbo",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 584,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 585,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 586,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 587,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "seg., 1 de mar. de 2027 a sex., 5 de mar. de 2027 (4 noites)",
+      "class": null
+    },
+    {
+      "index": 588,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(4 noites)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 589,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "5-timezone germany",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 590,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nSegurar\nCheck-in in 477d 15h\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 591,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 592,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 593,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Segurar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 594,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Segurar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 595,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Check-in in 477d 15h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 596,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Check-in in 477d 15h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 597,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 598,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 599,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 435",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 601,
+      "tag": "LI",
+      "testid": "lead-list-item-43becda8-a225-4ec2-8501-4e90182c4fde",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de\nDaniel Testing Variables\n1\nadulto\n\nsáb., 20 de mar. de 2027",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 602,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 603,
+      "tag": "svg",
+      "testid": "channel-icon-vrbo",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 604,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 605,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 606,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 607,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 20 de mar. de 2027 a dom., 28 de mar. de 2027 (8 noites)",
+      "class": null
+    },
+    {
+      "index": 608,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(8 noites)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 609,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "5-timezone germany",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 610,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nSegurar\nCheck-in in 496d 15h\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 611,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 612,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 613,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Segurar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 614,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Segurar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 615,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Check-in in 496d 15h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 616,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Check-in in 496d 15h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 617,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 618,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 619,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 435",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 621,
+      "tag": "LI",
+      "testid": "lead-list-item-864b1f15-1a48-49b0-bf17-fd40d7ed062f",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de\nDaniel Testing Variables\n1\nadulto\n\nsáb., 20 de fev. de 2027",
+      "class": "sc-gObJpS iJYKyh"
+    },
+    {
+      "index": 622,
+      "tag": "DIV",
+      "testid": "lead-creation-details",
+      "text": "Reservado\n via \n Vrbo\n em \n14 de out. de",
+      "class": "sc-dPZUQH hgByVt"
+    },
+    {
+      "index": 623,
+      "tag": "svg",
+      "testid": "channel-icon-vrbo",
+      "text": null,
+      "class": null
+    },
+    {
+      "index": 624,
+      "tag": "DIV",
+      "testid": "lead-property-image",
+      "text": null,
+      "class": "sc-bDpDS kkRZwW"
+    },
+    {
+      "index": 625,
+      "tag": "SPAN",
+      "testid": "lead-guest-name",
+      "text": "Daniel Testing Variables",
+      "class": "sc-fMMURN iUgaGK"
+    },
+    {
+      "index": 626,
+      "tag": "DIV",
+      "testid": "lead-guest-counter",
+      "text": "1\nadulto",
+      "class": null
+    },
+    {
+      "index": 627,
+      "tag": "P",
+      "testid": "lead-date-details",
+      "text": "sáb., 20 de fev. de 2027 a dom., 28 de fev. de 2027 (8 noites)",
+      "class": null
+    },
+    {
+      "index": 628,
+      "tag": "SPAN",
+      "testid": "lead-night-count",
+      "text": "(8 noites)",
+      "class": "sc-YysOf jTACsi"
+    },
+    {
+      "index": 629,
+      "tag": "A",
+      "testid": "lead-property-link",
+      "text": "5-timezone germany",
+      "class": "lead-property-link"
+    },
+    {
+      "index": 630,
+      "tag": "DIV",
+      "testid": "lead-statuses-pipeline",
+      "text": "Citar\nSegurar\nCheck-in in 468d 15h\nFicar",
+      "class": "sc-bYHUQc ccLkwi"
+    },
+    {
+      "index": 631,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Citar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 632,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Citar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 633,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Segurar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 634,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Segurar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 635,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Check-in in 468d 15h",
+      "class": "sc-dWZqqJ fgfqTw lead-status-indicator-active"
+    },
+    {
+      "index": 636,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Check-in in 468d 15h",
+      "class": "sc-isRoRg fnAlsC"
+    },
+    {
+      "index": 637,
+      "tag": "DIV",
+      "testid": "lead-status-indicator-container",
+      "text": "Ficar",
+      "class": "sc-dWZqqJ fgfqTw"
+    },
+    {
+      "index": 638,
+      "tag": "DIV",
+      "testid": "lead-status-text",
+      "text": "Ficar",
+      "class": "sc-isRoRg inyvOx"
+    },
+    {
+      "index": 639,
+      "tag": "DIV",
+      "testid": "lead-price-tag",
+      "text": "US$ 435",
+      "class": "sc-ksCcjW gLHHpL"
+    },
+    {
+      "index": 641,
+      "tag": "DIV",
+      "testid": "app-page-content-footer",
+      "text": "2025 Hostfully © Todos os direitos reservados\nTermos de serviço | Política de Privacidade | Opinião",
+      "class": "sc-geEwSt kQBLob"
+    },
+    {
+      "index": 642,
+      "tag": "SPAN",
+      "testid": "copyright-notice",
+      "text": "2025 Hostfully © Todos os direitos reservados",
+      "class": null
+    },
+    {
+      "index": 643,
+      "tag": "A",
+      "testid": "link-terms-of-service",
+      "text": "Termos de serviço",
+      "class": "sc-cAXmzm cSjUXK"
+    },
+    {
+      "index": 644,
+      "tag": "A",
+      "testid": "link-privacy-policy",
+      "text": "Política de Privacidade",
+      "class": "sc-cAXmzm cSjUXK"
+    },
+    {
+      "index": 645,
+      "tag": "A",
+      "testid": "link-feedback",
+      "text": "Opinião",
+      "class": "sc-cAXmzm cSjUXK"
+    }
+  ]
+}
